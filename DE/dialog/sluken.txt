@@ -1,0 +1,56 @@
+'Sluken Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir sind das Imperium "{0}".\n\nUnser Ziel ist die uneingeschränkte Herrschaft über alle.\n\nWerden Sie sich unserer Macht beugen oder müssen Sie erobert werden?
+GREETING_FRIENDLY				;Welche Eroberungspläne möchten Sie mit uns teilen, Freund?
+GREETING_NEUTRAL				;Erklären Sie Ihre Anwesenheit hier.
+GREETING_ANGRY					;Sie sind gekommen, um mit uns zu sprechen, Feind?\n\nWelche beschwichtigenden Angebote haben Sie für uns?
+
+PIRATE_PROTECTIONPROPOSE			;Sie wünschen Schutz? Wir können die Sicherheit all Ihrer Schiffe garantieren, die unser Gebiet kreuzen.\n\nDer Preis für einen sechsmonatigen Schutz wird Ihnen unten angezeigt.
+PIRATE_PROTECTIONPROPOSEINITIATE		;Der Weltraum ist ein kalter und gefährlicher Ort.\n\nAber wir können die Sicherheit all Ihrer Schiffe garantieren, die unser Gebiet kreuzen.\n\nDer Preis für einen sechsmonatigen Schutz wird Ihnen unten angezeigt.\n\nWas sagen Sie dazu?
+PIRATE_PROTECTIONACCEPTRESPONSE			;Eine sehr weise Entscheidung!\n\nWir können garantieren, dass keines Ihrer Schiffe irgendwelche "bedauernswerten Unfälle" haben wird.\n\nZumindest nicht, bis unsere nächste Gebühr fällig ist...
+PIRATE_PROTECTIONREJECTRESPONSE			;Höchst unklug. Ohne Zahlung können wir die Sicherheit Ihrer Schiffe nicht garantieren.\n\nVielleicht überdenken Sie Ihre Entscheidung noch einmal?
+PIRATE_PROTECTIONALREADYPAID			;Wir bewundern Ihren Eifer, doch Sie haben uns bereits eine Schutzgebühr bezahlt.\n\nKommen Sie wieder, wenn Ihre aktuelle Schutzphase abgelaufen ist.\n\nWir werden dann gerne weitere Zahlungen entgegennehmen.
+PIRATE_ATTACKOFFER_SINGLEEMPIRE			;Liegen Sie mit dem Imperium "{0}" im Streit? Wenn Sie wollen, könnten wir uns ihrer "annehmen"...\n\nWir würden es natürlich geheim halten, Sie müssten sich also nicht sorgen, dass das Imperium "{0}" von unserer Abmachung erfährt.\n\nAlles, was wir für diesen Dienst verlangen, ist eine kleine Gebühr von {1} Credits.\n\nWas sagen Sie dazu?
+PIRATE_ATTACKCOMMENCE				;Eine exzellente Möglichkeit, Ihr Geld auszugeben!\n\nUnsere Angriffe auf das Imperium "{0}" werden unverzüglich eingeleitet!
+
+OFFER_FREETRADE					;Werden Sie ein Freihandelsabkommen mit uns eingehen?\n\nUnser beider Wirtschaft wird davon immens profitieren. Außerdem können wir Sie im Hinblick auf eine zukünftige Eroberung aufbauen.\n\nWas meinen Sie?
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen wäre sehr nützlich. Wir stimmen zu.
+FREETRADE_REJECT				;Nein, wir sind an keinem Freihandelsabkommen interessiert.\n\nWir haben andere Pläne für Sie...
+
+CANCELTREATY					;Unsere Abmachung ({0}) mit Ihnen ist hiermit aufgelöst.\n\n"Aufgelöst" - wie wir dieses Wort lieben! Es hat so einen speziellen Klang, finden Sie nicht auch?
+CANCELTREATY_RESPONSE_FRIENDLY			;Wir haben Sie einmal gemocht.\n\nAber vielleicht haben wir die Situation falsch eingeschätzt...
+CANCELTREATY_RESPONSE_NEUTRAL			;Nun gut. Ihre Beleidigung wurde zur Kenntnis genommen.
+CANCELTREATY_RESPONSE_ANGRY			;Gut, gut. Dieses Abkommen kam ohnehin unseren Plänen in die Quere.
+
+TREATY_PROPOSAL					;Was genau schlagen Sie vor?
+TREATY_ACCEPTRESPONSE				;Exzellent!\n\nWir hoffen, Sie sind ein gefügiger und unterwürfiger Verbündeter. Sind Sie das?
+TREATY_REJECTRESPONSE				;Wie eigenständig von Ihnen.\n\nDas ist keine Eigenschaft, die wir schätzen.
+
+TRADESANCTIONS_IMPOSE				;Die Zeit ist gekommen, um Sie weichzuklopfen: Wir verhängen Handelssanktionen gegen Sie!\n\nGeben Sie sich keine Mühe zu antworten.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Wir schäumen vor Wut über Ihr Verhalten!\n\nGlauben Sie ja nicht, Sie seien stark genug, um uns herauszufordern - Sie sind es nicht.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Wenn dies uns nicht egal wäre, wären wir wütend.\n\nAber es ist uns egal, demnach sind wir es nicht.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wir geben zu, dass Ihre Taten uns überrascht haben.\n\nAber danke, dass Sie sich uns als Feind zu erkennen geben.\n\nSeien Sie sich gewiss, dass wir uns später mit Ihnen befassen, sobald wir bereit sind...
+TRADESANCTIONS_LIFT				;Wir beenden die Handelssanktionen gegen Sie.\n\nOffensichtlich sind Sie gefügiger geworden. Sie haben Ihre Lektion gelernt.
+TRADESANCTIONS_LIFT_RESPONSE			;Dies scheint Ihnen viel zu bedeuten.\n\nUns jedoch nicht.
+
+WAR_DECLARE					;Der Zeitpunkt ist gekommen, Sie in unser mächtiges Imperium einzugliedern: Wir erklären Ihnen den KRIEG!\n\nIhre Unterwerfung wird schnell und endgültig vonstattengehen.\n\nBitte keine Gesuche um Gnade - wir kennen so etwas nicht.
+WAR_DECLARE_RESPONSE_EAGER			;Wie ironisch - wir wollten Ihnen gerade den Krieg erklären! So passend.\n\nUnd nun müssen Sie sterben...
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wie mutig von Ihnen, sich mit uns anzulegen!\n\nNatürlich liegen Mut und Dummheit eng beieinander.\n\nSehr eng, in diesem Fall.
+WAR_DECLARE_RESPONSE_SURPRISED			;Sie stecken voller Überraschungen!\n\nAber wir heißen einen guten Kampf immer willkommen.\n\nMöge der Stärkere siegen! Das sind selbstverständlich wir.
+
+WAR_END						;Es ist Zeit, diesen Krieg zu beenden. Wir werden später mit Ihrer Assimilierung fortfahren.\n\nWas meinen Sie?
+WAR_END_ACCEPT					;Ausnahmsweise stimmen wir Ihnen zu - dieser Krieg sollte enden.\n\nUnsere Streitkräfte stellen das Feuer ein.
+WAR_END_REJECT					;Den Krieg beenden?!\n\nNur die Schwachen sehnen sich nach einer Linderung ihres Schmerzes. Die Starken drängen weiter auf Unterwerfung. Sie sind die Schwachen und wir die Starken.\n\nDieser Krieg ist noch nicht vorbei.
+
+GIFT_GIVE					;Wir haben für Sie ein Geschenk von {0} Credits.\n\nEs liegt nicht in unserer Natur, so freundlich zu sein.\n\nEs wäre also weise von Ihnen, dies als zynische Geste zu verstehen.
+GIFT_THANKS					;Danke für Ihr Geschenk.\n\nEs erinnert an einen besiegten Feind, der Tribut zahlt.
+
+WARNING							;Sie wollen uns warnen?\n\nNur zu, verschwenden Sie Ihre Worte an uns.
+WARNING_INTELLIGENCEMISSIONS				;Wir wissen von Ihren Geheimmissionen gegen uns.\n\nSeien Sie gewarnt, dass wir Ihnen eine Lektion über Verrat erteilen werden, die Sie niemals vergessen werden...\n\nSetzen Sie Ihren Missionen jetzt ein Ende, solange Sie noch dazu in der Lage sind.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Geheimmissionen gegen Sie? Wie schockierend.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Keine Sorge. Das ist nur unsere Routineüberwachung über Ihr Imperium.\n\nNichts Hinterlistiges, worüber Sie besorgt sein müssten.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen? Das würde üblicherweise auf Kriegsvorbereitungen hinweisen.\n\nAber sicherlich ist das hier nicht der Fall. Also sorgen Sie sich nicht...
+WARNING_ATTACKS						;Beenden Sie sofort Ihre unverfrorenen Angriffe auf unsere Schiffe und Basen!\n\nMit diesen Taten wandeln Sie auf dünnem Eis. Wir warnen Sie, hören Sie sofort auf.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Angriffe auf Sie? Wir sind ja so empört darüber...
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Angriffe auf SIE?!\n\nNein, nein - unsere Schiffe haben sich gegen die Angriffe Ihrer Truppen verteidigt.\n\nBitte tun Sie dies nicht noch einmal.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe?\n\nJa, wir klopfen Sie weich, bevor wir zum endgültigen Schlag ausholen.\n\nGibt es noch etwas, das Sie gerne besprechen würden?

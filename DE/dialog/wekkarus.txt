@@ -1,0 +1,38 @@
+'Wekkarus Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Seien Sie gegrüßt, Fremdling. Wir sind das Imperium "{0}".\n\nWir ziehen es vor, unter uns zu bleiben und friedlich in unseren Metropolen tief unter Wasser zu leben.
+GREETING_FRIENDLY				;Wir sind ganz Ohr, Freund.
+GREETING_NEUTRAL				;Sie wünschen eine Audienz bei uns?
+GREETING_ANGRY					;Sie sind hier nicht willkommen.\n\nFassen Sie sich kurz.
+
+OFFER_FREETRADE					;Wir halten Handel und Industrie für hochzivilisierte Aktivitäten. Würden Sie ein Freihandelsabkommen mit uns eingehen?\n\nWas meinen Sie dazu?
+FREETRADE_ACCEPT				;Gerne stimmen wir einem Freihandelsabkommen zu!\n\nLang lebe unsere Allianz!
+FREETRADE_REJECT				;Nein, ein Freihandelsabkommen ist nicht in unserem Sinne.\n\nTut uns leid.
+
+CANCELTREATY					;Es ist Zeit, den Vertrag ({0}) aufzulösen, den wir mit Ihnen eingegangen sind. Wir wollen nicht mehr.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wie bedauerlich. Wir haben diesen Vertrag für eine gute Sache gehalten.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wie Sie wünschen. Wir können nicht darauf bestehen, wenn Sie es nicht wollen.
+CANCELTREATY_RESPONSE_ANGRY			;Ja, dieser Vertrag ist schlecht.\n\nWir sind Ihrer überdrüssig. Ein tödlicher Darkhul sind Sie.
+
+TREATY_PROPOSAL					;Welche neuen Vereinbarungen möchten Sie schließen?
+TREATY_ACCEPTRESPONSE				;Möge dieser neue Vertrag uns beiden Profit einbringen! Willkommen, Freunde.
+TREATY_REJECTRESPONSE				;Es hat nicht sein sollen. Wir können Sie nicht zwingen.
+
+TRADESANCTIONS_IMPOSE				;Bei den Klauen des Darkhul, Sie sind ganz schön hinterhältig!\n\nEs ist Zeit, Handelssanktionen gegen Sie zu verhängen. Wir werden nicht mehr mit Ihnen handeln.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Mit Ihnen zu handeln ist, als habe man mit einer giftigen Tiefsee-Anemone zu kämpfen! Wir sind froh, mit Ihren hinterhältigen Machenschaften nichts mehr zu tun zu haben.\n\nBleiben Sie uns fern.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Wir haben vor Ihnen bereits andere überlebt. Wir werden auch jetzt überleben.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wie unerwartet! Wir können keinen Grund dafür erkennen.\n\nVermutlich werden wir uns wohl damit abfinden müssen.
+TRADESANCTIONS_LIFT				;Wir haben beschlossen, unsere Handelssanktionen gegen Sie aufzuheben und wieder mit Ihnen zu handeln.\n\nAber wir warnen Sie, wir halten die Augen nach Betrügereien offen.
+TRADESANCTIONS_LIFT_RESPONSE			;Wir begrüßen diesen Schritt sehr. Handel führt zu Frieden.
+
+WAR_DECLARE					;Sie sind ein rasender Darkhul, der in einen Käfig gehört! Wir erklären Ihnen den KRIEG!\n\nWir werden Ihrer Schreckensherrschaft ein Ende setzen.
+WAR_DECLARE_RESPONSE_EAGER			;Wir sind ein friedliches Volk, aber wir wissen unser Zuhause zu verteidigen!\n\nWir werden entschlossen kämpfen.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Ihre Feindseligkeit hat diesen Schritt unvermeidlich gemacht.\n\nWir sind bereit!
+WAR_DECLARE_RESPONSE_SURPRISED			;Wie schockierend! Sie sind ein tödlicher Darkhul, der sich von hinten anschleicht.\n\nWir werden Sie zurück in Ihren Käfig sperren!
+
+WAR_END						;Dieser Krieg ist sehr schmutzig geworden, bringt keinen Nutzen und zerstört alles. Wir schlagen vor, ihn zu beenden.\n\nWas sagen Sie dazu?
+WAR_END_ACCEPT					;Ja, dieser Krieg muss enden.\n\nUnsere Truppen kehren nun heim.
+WAR_END_REJECT					;Ein Kriegsende? Nein, dieser Krieg kann nicht enden, solange Sie noch frei sind.
+
+GIFT_GIVE					;Wir schicken Ihnen ein Geschenk von {0} Credits.
+GIFT_THANKS					;Danke für Ihr zuvorkommendes Geschenk.

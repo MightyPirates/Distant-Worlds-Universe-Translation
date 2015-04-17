@@ -1,0 +1,49 @@
+'Gizurean Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir sind das Imperium "{0}".\n\nWir tolerieren Ihre erbärmliche Präsenz.\n\nBitte sprechen Sie nicht, solange wir Sie nicht um Ihre wertlose Meinung gebeten haben.
+GREETING_FRIENDLY				;Wie können wir Ihnen helfen, unser armer rückständiger Freund?
+GREETING_NEUTRAL				;Haben Sie irgendetwas Nützliches zu sagen?
+GREETING_ANGRY					;Sprechen Sie rasch, wir haben Besseres zu tun, als Ihrem Geplapper zu lauschen!
+
+OFFER_FREETRADE					;Es freut uns, Ihnen unwürdigen Dummköpfen ein Freihandelsabkommen mit unserem wundervollen Imperium anzubieten.\n\nIch weiß, Sie verdienen es eigentlich nicht, doch überlegene Lebensformen wie wir fühlen sich manchmal verpflichtet, niederen wie Ihnen zu helfen.\n\nAkzeptieren Sie also unser großartiges Angebot oder nicht?
+FREETRADE_ACCEPT				;Wir stimmen zu, Ihr bedürftiges Imperium mit diesem „Freihandelsabkommen“ zu unterstützen.
+FREETRADE_REJECT				;Nein, ein Freihandelsabkommen mit einer minderwertigen Spezies wie der Ihren würde niemals funktionieren.
+
+CANCELTREATY					;Wir lösen unsere Abmachung ({0}) mit Ihnen auf - Ihre Dummheit ermüdet uns!
+CANCELTREATY_RESPONSE_FRIENDLY			;Sicherlich nicht! Wir haben Sie rückständige Dummköpfe für unsere Freunde gehalten - wen können wir nun beleidigen und bevormunden?
+CANCELTREATY_RESPONSE_NEUTRAL			;Wir sind sicher, dass dies für Sie wichtiger ist als für uns.
+CANCELTREATY_RESPONSE_ANGRY			;Gut - endlich haben wir unsere Ruhe vor Ihrem nervtötenden Unsinn!
+
+TREATY_PROPOSAL					;Was hat uns Ihre primitive Zivilisation anzubieten?
+TREATY_ACCEPTRESPONSE				;Sie haben Glück, unser Juniorpartner sein zu dürfen.\n\nWenn Sie aufmerksam sind, könnten selbst Sie Narr von unserer außerordentlichen Brillanz lernen!
+TREATY_REJECTRESPONSE				;Was für ein närrischer Mangel an Weitsichtigkeit.
+
+TRADESANCTIONS_IMPOSE				;Wir sind fertig mit Ihnen! Wir verhängen Handelssanktionen gegen Sie!\n\nSie müssen lernen, wo Ihr Platz ist - weit unter uns!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Handelssanktionen?! Für diese Beleidigung werden Sie bezahlen, Sie schleimige Spezies zweiter Klasse!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Der Verlust des Handelsvertrags mit Einfaltspinseln wie Ihnen schmerzt uns nicht!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Handelssanktionen?! Das kann nicht Ihr Ernst sein?\n\nWollen Sie denn nicht mehr unsere Sklaven, äh, Freunde sein?
+TRADESANCTIONS_LIFT				;Wir haben unsere Handelssanktionen gegen Sie aufgehoben. Sie dürfen wieder von unserem überlegenen Handel profitieren.
+TRADESANCTIONS_LIFT_RESPONSE			;Sie hatten Handelssanktionen gegen uns verhängt? Haben wir gar nicht bemerkt.
+
+WAR_DECLARE					;KRIEG!\n\nWir können Ihre Minderwertigkeit nicht länger ertragen. Die Galaxie wird vom Schmutz Ihrer Existenz gesäubert werden.
+WAR_DECLARE_RESPONSE_EAGER			;Narren, WIR sind diejenigen, die SIE zerschmettern!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Sie haben Krieg gewählt, also bekommen Sie Krieg.
+WAR_DECLARE_RESPONSE_SURPRISED			;Verräterischer Schleim! Für diesen Verrat werden Sie bezahlen!
+
+WAR_END						;Dieser Krieg hat nun lange genug gewährt - wir schlagen einen unverzüglichen Waffenstillstand vor.
+WAR_END_ACCEPT					;Wir stimmen zu - dieser Krieg sollte sofort enden. Wir werden unsere Streitkräfte zurückziehen, wenn Sie ebenso verfahren.
+WAR_END_REJECT					;Nein, wir haben uns Ihrer Zerstörung verschrieben. Sie können Ihrem Schicksal nicht entfliehen!
+
+GIFT_GIVE					;Wir geben Ihnen {0} Credits als Symbol unserer wohlwollenden Überlegenheit.
+GIFT_THANKS					;Danke. Wir wissen das große Opfer Ihrer kümmerlichen Zivilisation in Form eines solchen Geschenks zu schätzen!
+
+WARNING_INTELLIGENCEMISSIONS			;Wir haben Ihre schändlichen Geheimaktivitäten gegen uns bemerkt!\n\nBereiten Sie dem sofort ein Ende oder erleben Sie unsere schreckliche Vergeltung!
+WARNING_ATTACKS					;Beenden Sie sofort die Angriffe auf unsere Schiffe und Basen!\n\nWir warnen Sie, wir werden zurückschlagen - wir fürchten Ihre kümmerlichen Streitkräfte nicht!
+
+WARNING							;Teilen Sie uns Ihre „Warnung“ mit.\n\nUnsere Diplomaten werden sichergehen, dass sie angemessen archiviert wird.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Geheimmissionen gegen Sie?\n\nWieso sollten wir so etwas tun? Wir mögen Sie immerhin fast.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Wir waren uns dieses Vorfalles nicht bewusst, aber können der Sache nachgehen.\n\nBitte verstehen Sie unseren Standpunkt, im Grunde kümmern uns Ihre Beschwerden nicht wirklich.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen? Natürlich haben wir sie veranlasst.\n\nSie sind einfach so unzuverlässig, dass wir Sie im Auge behalten müssen. Selbst ein Einfaltspinsel wie Sie sollte das verstehen.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Angriffe? Gut möglich, ja.\n\nWir werden der Sache für Sie nachgehen.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Wir verstehen, worauf Sie hinauswollen.\n\nAber manchmal steht unseren Raumschiffkommandanten eben der Sinn nach Übungen an lebenden Zielen. Das können Sie doch sicherlich nachvollziehen?
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe gegen Sie? Natürlich - wir können Sie auf den Tod nicht ausstehen!\n\nWir haben vor, noch weitere zu veranlassen, also bemühen Sie sich nicht, sich darüber zu beklagen.

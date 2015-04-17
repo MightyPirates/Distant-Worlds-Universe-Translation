@@ -1,0 +1,53 @@
+'Zenox Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir grüßen Sie! Imperium "{0}" wir sind.\n\nViel zu erzählen wir haben, für all jene, die weise genug sind zuzuhören.\n\nSind Sie weise?
+GREETING_FRIENDLY				;Erfreut wir sind, Sie zu sehen.\n\nZeit für eine Geschichte Sie haben?
+GREETING_NEUTRAL				;Nun, da Sie sind. Gekommen, um mit uns zu sprechen, Sie sind.\n\nErzählen Sie uns alles, Zeit Sie sich nehmen.
+GREETING_ANGRY					;Hmmm, wir erinnern uns an Sie. Ziemlich lästig Sie sind.\n\nDennoch, Ihrer Stimme zuhören wir werden.
+
+OFFER_FREETRADE					;Nach reiflicher Überlegung ein Freihandelsabkommen wir bieten Ihnen an. Erwägen Sie Ihre Antwort.\n\nZustimmen Sie werden?
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen mit Ihnen wir gehen ein.\n\nSehr großen Nutzen wir sehen darin.
+FREETRADE_REJECT				;Überdacht Ihr Angebot wir haben. Aber nicht interessiert an einem Freihandelsabkommen wir sind.\n\nZu früh, um es anzunehmen, wir glauben.
+
+CANCELTREATY					;Viel nachgedacht über unsere Vereinbarung ({0}) wir haben.\n\nZeit, sie zu beenden, wir glauben. Verändert die Dinge sich haben.
+CANCELTREATY_RESPONSE_FRIENDLY			;Bedauerlich das ist. Der Vertrag war gut, wir glauben.\n\nAber nun ist er vorbei.
+CANCELTREATY_RESPONSE_NEUTRAL			;Dinge kommen und Dinge gehen. Bereits erlebt wir das haben.
+CANCELTREATY_RESPONSE_ANGRY			;Dies ist das Beste, wirklich.\n\nUnseren Gefühlen dieser Vertrag nicht länger entsprach.
+
+TREATY_PROPOSAL					;Ein Vertrag, Sie sagen?\n\nAnhören Ihren Vorschlag wir werden. Erwägen unsere Antwort wir werden.
+TREATY_ACCEPTRESPONSE				;Eine Vereinbarung wir haben geschlossen! Sehr gut dies ist.\n\nEine Geschichte, sollen wir sie Ihnen erzählen, Freund?
+TREATY_REJECTRESPONSE				;Höchst unbefriedigend dies ist. Gehofft auf ein besseres Ergebnis wir haben.
+
+TRADESANCTIONS_IMPOSE				;Handelssanktionen gegen Sie. Ja, notwendig dies ist.\n\nWeiterhandeln mit Ihnen wir werden nicht.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Unüberlegt dies ist. Feindselig ebenso.\n\nWeise Sie nicht sind.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Helfen wird dies nicht.\n\nWas zu erreichen, Sie haben im Sinn?
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wie unhöflich!\n\nVorbei unsere Freundschaft ist.\n\nUnsere Geheimnisse mit Ihnen teilen wir werden nicht.
+TRADESANCTIONS_LIFT				;Die Handelssanktionen gegen Sie wir werden aufheben.\n\nNicht mehr nützlich sie sind.\n\nEtwas gelernt Sie haben hoffentlich.
+TRADESANCTIONS_LIFT_RESPONSE			;Auf dem richtigen Weg Sie sind. Profitabel ein gemeinsamer Handel ist.
+
+WAR_DECLARE					;Wütend wir sind! KRIEG gegen Sie wir beginnen.\n\nIhnen Gerechtigkeit bringen wir werden.
+WAR_DECLARE_RESPONSE_EAGER			;Krieg wir Ihnen geben!\n\nDen Tod Sie werden finden. Weise Sie sind nicht.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Ihren Angriff Sie werden stoppen.\n\nEinen schweren Fehler Sie haben begangen. Sie bekämpfen wir werden.
+WAR_DECLARE_RESPONSE_SURPRISED			;An Kämpfen Sie haben Freude?\n\nNichts Erfreuliches der Krieg bringt. Nichts Gutes im Verrat liegt.
+
+WAR_END						;Lang und ermüdend dieser Krieg ist. Seiner überdrüssig Sie sind nicht?\n\nDen Krieg zu beenden, Sie stimmen zu?
+WAR_END_ACCEPT					;Den Krieg zu beenden, wir stimmen zu. Zu kämpfen, wir werden aufhören.
+WAR_END_REJECT					;Auf gar keinen Fall!\n\nGnade für Sie - wir haben keine! Sie vernichten wir müssen.
+
+GIFT_GIVE					;Ein Geschenk wir schicken: {0} Credits. Freundschaft wir suchen.
+GIFT_THANKS					;Für Ihr Geschenk wir danken Ihnen!
+
+WARNING_INTELLIGENCEMISSIONS			;Eine Warnung für Sie wir haben: keine Geheimmissionen mehr gegen uns!\n\nVerärgert wir sind. Aufhören Sie müssen.
+WARNING_ATTACKS					;Ihre Angriffe auf uns stoppen Sie müssen! Gewarnt Sie wurden.\n\nEingeschüchtert wir nicht sind. Zurückschlagen wir werden!
+
+WARNING							;Eine Warnung für uns Sie haben?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Von Missionen gegen Sie wir wissen nichts.\n\nVielleicht etwas verwechselt Sie haben?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Ihre Anschuldigungen überprüfen wir werden.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Missionen gegen Sie? Definitiv, ja!\n\nSie leiden wir können nicht. Sich ändern Sie sollten.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Ein schreckliches Missverständnis dies ist.\n\nUnsere Kommandanten zurechtweisen wir werden.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Angriffe und Gewalt, Sie sagen? Der Sache nachgehen wir werden.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Sie leiden wir können nicht. Daher angreifen wir Sie werden.\n\nAufhören Sie anzugreifen wir werden, nur wenn Sie sich ändern.
+
+HISTORY_OFFER_LOCATIONHINT			;Einen geheimen Standort wir haben geortet.\n\nMehr erfahren Sie wollen?
+HISTORY_LOCATIONHINT				;Sich beeilen Sie müssen zu {0}.\n\nGroße Geheimnisse zu enthüllen es dort gibt.
+HISTORY_OFFER_STORYCLUE				;Weise Sie sind. Ein Hüter der Geheimnisse Sie können sein.\n\nEine Geschichte wir haben für Sie. Sie hören, wollen Sie?

@@ -1,0 +1,49 @@
+'Ugnari Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Willkommen, Fremder! Wir sind das Imperium "{0}".\n\nWir lieben es, mit neuer Technologie zu experimentieren.\n\nVielleicht haben Sie andere sagen hören, wir seien gierig und unehrlich, aber schenken Sie solchen Lügen keinen Glauben. Wir sorgen nur gerne dafür, dass wir auch ein gutes Geschäft machen.
+GREETING_FRIENDLY				;Willkommen zurück! Worüber wollten Sie sprechen?
+GREETING_NEUTRAL				;Wir hören zu.
+GREETING_ANGRY					;Wir sind Ihnen nicht besonders wohlgesonnen. Also sagen Sie schon, was Sie wollen, und dann gehen Sie!
+
+OFFER_FREETRADE					;Was halten Sie davon, unser Angebot zu einem Freihandelsabkommen anzunehmen?\n\nDas wäre eine großartige Sache für Sie! Und ich glaube, wir würden davon ebenfalls profitieren...\n\nStimmen Sie zu?
+FREETRADE_ACCEPT				;Der Handel gilt!\n\nWir akzeptieren das Freihandelsabkommen.
+FREETRADE_REJECT				;Abgelehnt.\n\nWir sind momentan an keinem Freihandelsabkommen interessiert.
+
+CANCELTREATY					;Unsere Vereinbarung ({0}) mit Ihnen ist vorbei.\n\nNichts für ungut, richtig? Wir können später noch einmal darüber verhandeln, wenn Sie wollen.
+CANCELTREATY_RESPONSE_FRIENDLY			;Kein Vertrag mehr?!\n\nSind wir etwa keine Freunde? Haben wir zu oft betrogen?
+CANCELTREATY_RESPONSE_NEUTRAL			;He, Sie haben den Vertrag beendet! Das ist nicht fair.\n\nWir haben eine Menge hinterhältiges Kleingedrucktes in dieser Abmachung versteckt. Das war harte Arbeit!
+CANCELTREATY_RESPONSE_ANGRY			;Wir brauchen Ihren lächerlichen Vertrag ohnehin nicht. Also bitte.
+
+TREATY_PROPOSAL					;Worum geht es?
+TREATY_ACCEPTRESPONSE				;Feiern wir! Wir sind nun Partner!
+TREATY_REJECTRESPONSE				;Dies betrübt uns sehr.
+
+TRADESANCTIONS_IMPOSE				;Sie haben dieses Mal auf die falsche Karte gesetzt: Handelssanktionen gegen Sie!\n\nWir werden mit Ihrem Imperium nicht mehr handeln!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Handelssanktionen?! Sie sind ein riesiger Betrüger!\n\nWir erwischen Sie schon, Sie hinterhältiger Kerl!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Kein Handel mit Ihnen?\n\nDie Geschäfte mit Ihnen liefen ohnehin immer schlecht. Wir sind nicht darauf angewiesen.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Behalten Sie also Ihre Handelsgüter. Es kümmert uns nicht.
+TRADESANCTIONS_LIFT				;Heute ist Ihr Glückstag: Wir heben die Handelssanktionen gegen Sie auf.\n\nWir werden nun wieder mit Ihnen handeln. Aber keine krummen Geschäfte mehr, ja?
+TRADESANCTIONS_LIFT_RESPONSE			;Ha! Wir brauchen Ihre Handelsgüter nicht...
+
+WAR_DECLARE					;Sie betrügerischer Gauner! Wir erklären Ihnen den KRIEG!\n\nDas wird Ihnen noch leidtun!
+WAR_DECLARE_RESPONSE_EAGER			;Sie glauben, Sie können uns besiegen?! Da liegen Sie falsch.\n\nWir sind gerissener als Sie! Das werden Sie noch bereuen!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wir sind bereit für Sie. Wir werden Sie bestrafen!
+WAR_DECLARE_RESPONSE_SURPRISED			;Wir dachten, Sie mögen uns?!\n\nSie können das nicht tun! Das ist nicht erlaubt!
+
+WAR_END						;Dieser Krieg ist nicht gewinnbringend. Er sollte enden.\n\nWas meinen Sie?
+WAR_END_ACCEPT					;Ja, wir stimmen zu, den Krieg zu beenden.
+WAR_END_REJECT					;Nein, wir haben darauf spekuliert, dass wir diesen Krieg gewinnen.\n\nAlso beenden wir ihn nicht!
+
+GIFT_GIVE					;Hier ist ein Geschenk für Sie: {0} Credits.
+GIFT_THANKS					;Danke für Ihr Geschenk!\n\nSie wissen, wir mögen Geld wirklich sehr. Und Leute, die uns Geld schenken.
+
+WARNING							;Was haben wir falsch gemacht?
+WARNING_INTELLIGENCEMISSIONS				;Hören Sie mit diesen ganzen Spionagesachen gegen uns auf!\n\nWir erkennen, wie hinterhältig Sie sind, wir sind es selbst ja auch und wissen daher, wovon wir reden.\n\nJedenfalls, tun Sie das nicht wieder, klar?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Spionagemissionen?\n\nSie müssen da etwas verwechseln, Freund. Das können nicht wir sein.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Spionagemissionen?\n\nSie müssen da etwas verwechseln. Das können nicht wir sein.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Spionagemissionen?\n\Und was, wenn es wirklich so wäre? Sie haben es vermutlich verdient!
+WARNING_ATTACKS						;Hören Sie auf, unsere Schiffe und Basen anzugreifen!\n\nWir warnen Sie: Machen Sie weiter und Sie werden es bereuen!
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Angriffe? Wovon reden Sie?\n\nDas waren nicht wir, Freund.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Angriffe? Wovon reden Sie?\n\nDas waren nicht wir.
+
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe?\n\nVielleicht waren das wir. Aber Sie haben es sowieso verdient, also bitte!

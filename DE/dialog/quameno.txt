@@ -1,0 +1,49 @@
+'Quameno Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir sind das Imperium "{0}".\n\nWir streben nach dem Wissen über alle Dinge in der Galaxie - das schließt auch Ihr einzigartiges Imperium mit ein.\n\nBitte, erzählen Sie uns alles über Sie.
+GREETING_FRIENDLY				;Unsere guten Freunde, was wünschen Sie mit uns zu besprechen?
+GREETING_NEUTRAL				;Gibt es irgendetwas, das wir für Sie tun können?
+GREETING_ANGRY					;Sie stellen unsere Geduld auf die Probe.\n\nNennen Sie Ihr Anliegen, schnell.
+
+OFFER_FREETRADE					;Wir wären geehrt, wenn Sie einem Freihandelsabkommen zustimmen würden. Wir sind uns sicher, dass diese Übereinkunft beiderseitig gewinnbringend wäre.\n\nWas meinen Sie?
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen mit Ihnen? Wir nehmen gerne an!\n\nWir werden es unseren Botschaftern überlassen, die Details des Vertrages für uns auszuarbeiten.
+FREETRADE_REJECT				;Es tut uns leid, doch ein Freihandelsabkommen mit Ihnen wäre uns momentan nicht dienlich.\n\nVielleicht sollten wir zu einem späteren Zeitpunkt noch einmal darüber sprechen.
+
+CANCELTREATY					;Diese Vereinbarung ({0}) dient nicht mehr länger unseren Interessen. Wir lösen sie auf.
+CANCELTREATY_RESPONSE_FRIENDLY			;Das enttäuscht uns. Wir dachten, dieser Vertrag wäre höchst lohnenswert.\n\nAber wir respektieren Ihre Entscheidung, ihn aufzulösen.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wie unerfreulich.\n\nAber es ist gut, über diese wichtigen Angelegenheiten offen miteinander zu sprechen.
+CANCELTREATY_RESPONSE_ANGRY			;Auch wir empfinden so und haben kein Interesse mehr an diesem Vertrag.\n\nEs ist das Beste, ihn zu beenden.
+
+TREATY_PROPOSAL					;Ein Vertragsangebot? Wir sind gespannt, Ihre Idee zu hören.
+TREATY_ACCEPTRESPONSE				;Wir sind hocherfreut über Ihre Zustimmung und begrüßen Sie als unseren neuen Verbündeten.\n\nZögern Sie nicht, uns jederzeit Ihre Gedanken mitzuteilen.
+TREATY_REJECTRESPONSE				;Vielleicht werden Sie zu einem späteren Zeitpunkt anders darüber denken.
+
+TRADESANCTIONS_IMPOSE				;Wir fühlen uns gezwungen, gegen Ihr Imperium Handelssanktionen zu verhängen. Jeglicher Handel zwischen unseren beiden Reichen wird eingestellt.\n\nWir vertrauen darauf, dass wir keine weiteren Strafmaßnahmen gegen Sie ergreifen müssen - aber das hängt von Ihnen ab.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Wissen Sie, Handelssanktionen treffen immer zwei.\n\nPassen Sie nur auf, dass Sie sich nicht zu viel zumuten und dabei ins eigene Fleisch schneiden...
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Dies ist alles andere als hilfreich. Wir bitten Sie dringend, Ihr Vorgehen noch einmal zu überdenken.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Dies ist höchst beunruhigend. Wir verstehen Ihr Vorgehen in dieser Angelegenheit nicht.
+TRADESANCTIONS_LIFT				;Unsere Handelssanktionen gegen Sie sind aufgehoben.\n\nWir hoffen auf eine weitere Verbesserung unserer Beziehungen.
+TRADESANCTIONS_LIFT_RESPONSE			;Dies ist eine willkommene Entwicklung. Handel kann das gegenseitige Verständnis zwischen unseren beiden Völkern begünstigen.
+
+WAR_DECLARE					;Wir informieren Sie hiermit offiziell, dass zwischen uns nun Krieg herrscht.\n\nSie lassen uns keine andere Wahl, als Ihnen in der Schlacht zu begegnen.
+WAR_DECLARE_RESPONSE_EAGER			;Wir sind normalerweise nicht auf Krieg aus. Aber in Ihrem Fall heißen wir ihn willkommen.\n\nWir erwarten Ihre baldige Niederlage.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wir mögen friedvoll sein, aber wir sind auch auf andere Maßnahmen vorbereitet.\n\Wenn Sie auf Krieg aus sind, können Sie ihn haben.
+WAR_DECLARE_RESPONSE_SURPRISED			;Wir verstehen Ihr aggressives Verhalten nicht.\n\nWir werden uns verteidigen, aber wir bitten Sie inständig, noch einmal darüber nachzudenken.
+
+WAR_END						;Dieser destruktive Konflikt führt zu nichts - wir schlagen ein unverzügliches Ende des Krieges vor.\n\nWas meinen Sie?
+WAR_END_ACCEPT					;Ja, dieser Krieg hat keinen Sinn. Wir befehlen unseren Truppen, das Feuer einzustellen.
+WAR_END_REJECT					;Es ist bereits zu spät für Frieden.\n\nDieser Krieg wird währen, bis Sie besiegt sind.
+
+GIFT_GIVE					;Wir präsentieren Ihnen ein Geschenk von {0} Credits.\n\nMöge diese Geste einen stärkeren Bund zwischen unseren Völkern begünstigen.
+GIFT_THANKS					;Wir wissen Ihr Geschenk sehr zu schätzen, danke! 
+
+WARNING_INTELLIGENCEMISSIONS			;Ihre rücksichtslosen Geheimmissionen gegen uns sind höchst destabilisierend.\n\nSetzen Sie ihnen sofort ein Ende! Unsere internen Angelegenheiten gehen Sie nichts an.
+WARNING_ATTACKS					;Wir sind zutiefst beunruhigt angesichts Ihrer grundlosen Angriffe auf unsere Schiffe und Basen.\n\nStellen Sie diese militärischen Operationen unverzüglich ein oder machen Sie sich auf einen verheerenden Gegenschlag gefasst!
+
+WARNING							;Teilen Sie uns Ihre Sorgen mit.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir haben von keinen Geheimmissionen gegen Sie gehört.\n\nVielleicht haben Sie sich geirrt?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Geheimmissionen, sagen Sie? Lassen Sie uns der Sache nachgehen.\n\nDanke, dass Sie uns darauf aufmerksam gemacht haben.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Sie haben Geheimmissionen gegen Sie aufgedeckt?\n\nWenn wir offen mit Ihnen sprechen dürfen: Wir fühlen uns von Ihnen bedroht. Sie sind irrational und unberechenbar. Wir haben den Eindruck, als müssten wir Sie scharf im Auge behalten.\n\nSicherlich haben Sie Verständnis für unsere Situation?
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Oje, anscheinend sind einige unserer Kommandanten ein wenig zu enthusiastisch bei der Verteidigung unserer Grenzen.\n\nBitte nehmen Sie unsere Entschuldigung an.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Angriffe? Höchst bedauernswert.\n\nWir werden Untersuchungen einleiten, um Ihre Anschuldigungen zu prüfen.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Ja, wir sind uns der Angriffe bewusst. Imperien, die uns bedrohen, greifen wir stets an.\n\nSicherlich haben Sie für diese Vorgehensweise Verständnis?

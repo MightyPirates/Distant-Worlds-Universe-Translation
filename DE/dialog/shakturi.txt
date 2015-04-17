@@ -1,0 +1,47 @@
+﻿
+GREETING_INTRODUCTION		;Wir sind die {0}.\n\nWir sind friedliche Wanderer zwischen den Sternen und suchen Harmonie und Liebe im Universum.
+GREETING_FRIENDLY			;Welche bösartigen Pläne möchten Sie mit uns teilen, Freund?
+GREETING_NEUTRAL			;Erklären Sie ihre Anwesenheit bei uns. 
+GREETING_ANGRY				;Sie kommen, um mit uns zu reden, Feind?\n\nWas haben Sie zu sagen?
+
+OFFER_FREETRADE				;Werden Sie ein Freihandelsabkommen mit uns unterzeichnen?\n\nUnser beider Wirtschaft wird davon sehr  profitieren. Und wir können Sie fit machen für spätere Eroberungen.\n\nWas sagen Sie?
+FREETRADE_ACCEPT			;Ein Freihandelsabkommen wird sehr nützlich sein. Wir akzeptieren.
+FREETRADE_REJECT			;Nein, wir sind nicht interessiert an einem Freihandelsabkommen.\n\nWir haben andere Pläne mit ihnen...
+
+CANCELTREATY						;Unser {0} mit Ihnen ist anulliert.\n\nDas Abkommen hat keinen Wert mehr für uns.
+CANCELTREATY_RESPONSE_FRIENDLY		;Wir konnten Sie früher gut leiden.\n\nAber vielleicht haben wir Sie falsch eingeschätzt...
+CANCELTREATY_RESPONSE_NEUTRAL		;Sehr schön. Ihre Eingabe wurde registriert.
+CANCELTREATY_RESPONSE_ANGRY			;Okay, okay... Dieses Abkommen ist unseren eigenen Plänen im Weg!
+
+TREATY_PROPOSAL					;Was genau schlagen Sie vor?
+TREATY_ACCEPTRESPONSE			;Ausgezeichnet!\n\nWir hoffen, Sie sind nachgiebige und unterwürfige Bündnispartner... Das sind Sie doch, oder? 
+TREATY_REJECTRESPONSE			;Eigenwilliger Vorschlag....\n\nDas ist KEIN Vertrag, wie wir ihn schätzen.
+
+TRADESANCTIONS_IMPOSE			;Die Zeit ist gekommen, Sie zu schwächen: Wir verhängen Handelssanktionen gegen Sie!\n\nAntworten Sie besser nicht; Ihre Antwort interessiert uns nicht.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Wir kochen vor Wut - Auf Sie!\n\nGlauben Sie nur nicht, Sie sind stark genug, es mit uns aufnehmen zu können - Sie sind es NICHT!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Wenn wir darüber besorgt sein müssten, könnten wir sauer auf Sie sein.\n\nAber das müssen wir nicht, daher haben Sie noch mal Glück gehabt. 
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Wir geben zu, diese Aktion hat uns überrascht.\n\nAber wir danken Ihnen dafür, dass Sie sich als Feind enttarnt haben.\n\nSeien Sie versichert, dass wir uns noch um Sie kümmern werden, wenn wir so weit sind....
+TRADESANCTIONS_LIFT			;Wir heben unsere Handelssanktionen gegen Sie auf.\n\nEs scheint, als wären Sie entgegenkommender geworden. Sie haben wohl Ihre Lektion gelernt.
+TRADESANCTIONS_LIFT_RESPONSE		;Das scheint Ihnen sehr wichtig zu sein.\n\nUns aber nicht.
+
+WAR_DECLARE				;Der Tag ist gekommen, Ihr kleines "Reich" in unser mächtiges Imperium zu integrieren: Wir erklären Ihnen den KRIEG!\n\nDie Eroberung wird schnell erfolgen und total sein.\n\nUnd bitte winseln Sie nicht um Gnade - Wir wissen nicht mal, wie man das schreibt.
+WAR_DECLARE_RESPONSE_EAGER		;Welch Ironie - Eben wollten wir Ihnen den Krieg erklären! Das spart uns diese Mühe.\n\nUnd nun werden wir Sie vernichten...
+WAR_DECLARE_RESPONSE_NEUTRAL		;Sehr heroisch - Überaus mutig, uns anzugreifen!\n\nNatürlich sollte man wissen, dass Mut und Dummheit sehr eng beisammen liegen.\n\nSEHR eng in diesem Fall!
+WAR_DECLARE_RESPONSE_SURPRISED		;Sie stecken voller Überraschungen!\n\nAber ein guter Kampf ist uns immer willkommen.\n\nMöge der Bessere gewinnen - Natürlich sind wir das!
+
+WAR_END					;Es ist an der Zeit, diesen Krieg zu beenden. Wir werden Ihre Integration in unser Imperium später abschließen.\n\nWas sagen Sie dazu?
+WAR_END_ACCEPT				;Diesmal sind wir uns einig - Der Krieg sollte enden..\n\nUnsere Streitkräfte stellen die Kampfhandlungen ein.
+WAR_END_REJECT				;Den Krieg... Beenden?!\n\n Nur die Schwachen trachten danach, jegliche Opfer zu vermeiden. Die Starken stürmen vorwärts und erobern alles, ohne Rücksicht auf Verluste! Ihr seid die Schwachen, wir die Starken.\n\nDieser Krieg ist noch nicht vorbei!
+
+GIFT_GIVE				;Wir schenken Ihnen {0} Credits.\n\n Eigentlich liegt es nicht in unserer Natur, so freundlich zu sein.\n\nDaher sind Sie gut beraten, es eher als zynische Geste zu sehen.
+GIFT_THANKS				;Danke für Ihr Geschenk.\n\nDas erinnert an die Zahlung von Tribut von eroberten Feinden.
+
+WARNING						;SIE wollen UNS warnen?\n\nVerschwinden Sie - Sie vergeuden nur Ihre Worte. 
+WARNING_INTELLIGENCEMISSIONS			;Wir wissen von Ihren verdeckten Operationen gegen uns.\n\nSeien Sie gewarnt. Wir können Ihnen jederzeit eine Lektion in Heimtücke und Verrat erteilen, welche Sie niemals vergessen werden...\n\nStoppen Sie die Operationen lieber, so lange Sie noch können.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Verdeckte Missionen gegen Sie? Wie schockierend!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Keine Sorge. Das ist lediglich unsere routinemäßige Überwachung Ihres Imperiums.\n\nNichts, worüber Sie sich Gedanken machen müssten...
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Verdeckte Missionen? Typischerweise ist das ein Anzeichen für Kriegsvorbereitungen.\n\nAber sicher ist das in diesem Falle anders. Also machen Sie sich keine Sorgen...
+WARNING_ATTACKS					;Stoppen Sie unverzüglich Ihre unverschämten Angriffe gegen unsere Schiffen und Basen!\n\nDiese Aktionen bringen Sie auf ganz gefährlichen Boden. Stellen Sie sie also besser ein, Sie sind gewarnt...
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Angriffe gegen Sie? Wir sind ja so betrübt...
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Angriffe gegen SIE?!\n\n Nein, nein - Unsere Schiffe haben sich lediglich gegen Angriffe Ihrer Kräfte verteidigt.\n\nBitte tun Sie das nicht noch einmal.
+WARNING_ATTACKS_RESPONSE_ANGRY			;Angriffe?\n\nNun ja, wir schwächen Sie schon mal, bevor wir dann einen allumfassenden Angriff fliegen.\n\nNoch Fragen? Oder ist das alles?

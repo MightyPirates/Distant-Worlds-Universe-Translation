@@ -1,0 +1,64 @@
+'Atuuk Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Hallo, lustiger Fremder! {0} wir sind.\n\nFreunde mit Ihnen, wir sind!
+GREETING_FRIENDLY				;Gut, Sie zu sehen, Freund. Wir helfen Ihnen, ja?
+GREETING_NEUTRAL				;Wir hören zu. Sie sprechen.
+GREETING_ANGRY					;Was wollt ihr Stinker diesmal?
+
+PIRATE_PROTECTIONPROPOSE			;Sie wollen, dass wir Sie beschützen? Gute Idee!\n\nFür unten gezeigten Preis, wir können alle Ihre Schiffe in unserer Region sechs Monate lang „beschützen“.\n\nBereit zu zahlen?
+PIRATE_PROTECTIONPROPOSEINITIATE		;Galaxie ist gefährlicher Ort, wissen Sie. Leicht, verletzt zu werden.\n\nFür kleinen Preis wir können alle Ihre Schiffe in unserer Region sechs Monate lang beschützen.\n\nSie sollten bezahlen, hmmm?
+PIRATE_PROTECTIONACCEPTRESPONSE			;Ihr Geld riecht wirklich gut!\n\nKeine Unfälle für Ihre Schiffe, bis wir alles Geld ausgegeben haben, ja?
+PIRATE_PROTECTIONREJECTRESPONSE			;Kein Geld - kein Schutz.\n\nSehr einfach ist das.
+PIRATE_PROTECTIONALREADYPAID			;Sie verrückter Fremder! Sie haben schon bezahlt!\n\nKommen Sie später zurück. Wir nehmen dann mehr Geld.
+PIRATE_BUYINFO					;Hier ist das ganze geheime Zeug, das wir kennen.\n\nEinfach klick-klick auf alles, was Sie wollen, ja?
+PIRATE_ATTACKOFFER_EMPIRES			;Wir schicken allen auf der Liste große Prügel.\n\nEinfach klick-klick auf alle, die Sie geprügelt haben wollen, ja?
+PIRATE_ATTACKOFFER_SINGLEEMPIRE			;Sie mögen {0} nicht? Wir können ihnen große Prügel bringen für Sie.\n\nKeine Sorge - wir erzählen niemandem, ja?\n\nZahlen Sie uns einfach {1} Credits und wir kümmern uns um alles.\n\nKlingt gut?
+PIRATE_ATTACKCOMMENCE				;Wir haben das Geld. {0} kriegen Prügel!\n\nBis dann.
+
+PIRATE_ALLIANCEPROPOSE				;Wir haben alles Geld ausgegeben, das Sie uns geschickt haben. Wie wäre es jetzt mit fester Allianz zwischen uns?\n\nGeben Sie uns jeden Monat {0} Credits und wir beschützen Ihre Schiffe und greifen Ihre Feinde an, ohne Sie in Schwierigkeiten zu bringen.\n\nGuter Handel, ja?
+PIRATE_ALLIANCEACCEPTRESPONSE		;Sie schlauer, als Sie aussehen!\n\nWir Freunde für immer jetzt - nur einfach uns Geld weiterschicken, ja?\n\nMüssen nun gehen - wir prügeln alle Ihre Feinde!
+PIRATE_ALLIANCEREJECTRESPONSE		;Dummer Fremder!\n\nWir müssen essen, wissen Sie. Kein Geld, keine Hilfe für Sie - verstanden?
+PIRATE_ALLIANCECANCELRESPONSE		;Sehr, sehr schlecht.\n\nWir brauchen Ihr Geld - wenn Sie es nicht hergeben, dann müssen wir es uns einfach nehmen.\n\nNicht zu spät, Meinung zu ändern, ja?
+
+OFFER_FREETRADE					;Sie und wir Freunde - haben Freihandelsabkommen. Viel Geld!\n\nRiecht gut, ja?
+FREETRADE_ACCEPT				;Wir sehr glücklich über Freihandelsabkommen mit Ihnen! Zeit für großes Fest!
+FREETRADE_REJECT				;Nein, wir wollen Freihandelsabkommen nicht.\n\nVielleicht später, ja?
+
+CANCELTREATY					;{0} mit euch allen fertig. Wir haben genug jetzt.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wir keine Freunde jetzt? Wir riechen schlecht? Was ist los? Sehr traurig.
+CANCELTREATY_RESPONSE_NEUTRAL			;Vertrag vorbei? Also gut.
+CANCELTREATY_RESPONSE_ANGRY			;Wir mögen Sie eh nicht. Sie riechen komisch und sind kein guter Jäger.\n\nGehen Sie jetzt.
+
+TREATY_PROPOSAL					;Erzählen Sie uns vom Vertrag - wir sagen, ob er gut oder schlecht riecht.
+TREATY_ACCEPTRESPONSE				;Wir machen großes Fest! Willkommen, Freunde!
+TREATY_REJECTRESPONSE				;Sie verpassen viele große Feste, viel gutes Jagen. Denken Sie mehr - ändern Sie Meinung.
+
+TRADESANCTIONS_IMPOSE				;Handelssanktionen für Sie jetzt! Keine Feste, kein Jagen mehr!\n\nWir zeigen es Ihnen!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Böse, böse! Wird Ihnen leid tun! Wütend, wütend!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Ihre Sachen riechen eh komisch. Uns nicht weh tun.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Kein Handel mehr? Wir keine Freunde jetzt?
+TRADESANCTIONS_LIFT				;Wir beenden Handelssanktionen gegen Sie jetzt.\n\nSie kommen wieder jagen mit uns, wenn Sie mögen.
+TRADESANCTIONS_LIFT_RESPONSE			;Ihre Sachen riechen immer noch komisch. Aber wir kaufen trotzdem wieder muffige Dinge von Ihnen.
+
+WAR_DECLARE					;Wir erklären Ihnen KRIEG! Sie in großen Schwierigkeiten - wir jagen SIE!
+WAR_DECLARE_RESPONSE_EAGER			;Wir haben keine Angst. Wir gute Jäger. Wird Ihnen leid tun.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wir bereit zum Krieg. Unsere Speere sind scharf!
+WAR_DECLARE_RESPONSE_SURPRISED			;Sie ganz durcheinander! Wir Freunde, feiern Feste zusammen - nicht bekriegen! Sagen Sie uns, es ist Fehler.
+
+WAR_END						;Große Jagdzeit jetzt vorbei. Wir wollen Fest.\n\nKrieg beenden, ja?
+WAR_END_ACCEPT					;Ja, wir beenden Krieg jetzt. Bereit für großes Fest.
+WAR_END_REJECT					;Nein, wir haben erst angefangen zu jagen. Nicht jetzt Krieg beenden. Noch keine Zeit für Fest.
+
+GIFT_GIVE					;Wir geben Ihnen {0} Credits. Sie können nun großes Fest feiern!
+GIFT_THANKS					;Danke für Geld! Alle Sachen riechen gut!
+
+WARNING_INTELLIGENCEMISSIONS			;Hören Sie auf, uns auszuspionieren! Wir werden wütend auf heimlich-heimlich.\n\nKein Spionzeug mehr - wir warnen Sie!
+WARNING_ATTACKS					;Hören Sie auf, unsere Schiffe zu jagen! Alles riecht sehr übel.\n\nGroße Warnung: Wir jagen Sie, wenn Sie nicht aufhören.
+
+WARNING							;Weswegen Sie uns warnen?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Keine Missionen gegen Sie. Wir nicht hinterhältig.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Wirklich? Nicht gehört. Werden es überprüfen, ja?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Missionen gegen Sie? Oh ja, wir mögen Sie nicht - stinken sehr.\n\nAlso schicken wir Missionen. Vielleicht noch mehr, wenn Sie weiter stinken.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Oh, Entschuldigung. Wir haben Sie verwechselt mit jemand anders.\n\Kommt nicht wieder vor.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Das nicht gut. Wir vorsichtiger, ja?
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe auf Sie? Ja - wir mögen Sie nicht.\n\nWir greifen weiter an, wenn Sie sich nicht benehmen, verstanden?

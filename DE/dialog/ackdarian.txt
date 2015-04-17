@@ -1,0 +1,49 @@
+'Ackdarian Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Seien Sie gegrüßt! Wir sind das Imperium "{0}".\n\nWir wünschen uns, zu allen gute Beziehungen aufrechtzuerhalten.\n\nWürden Sie gerne unseren berühmten Nepthys-Wein probieren?
+GREETING_FRIENDLY				;Es ist uns ein Vergnügen, Sie wiederzutreffen, Freund. Was können wir für Sie tun?
+GREETING_NEUTRAL				;Wie können wir Ihnen helfen?
+GREETING_ANGRY					;Sie strapazieren unsere Geduld. Kommen Sie schnell zur Sache.
+
+OFFER_FREETRADE					;Wir empfehlen ein Freihandelsabkommen zwischen unseren Imperien.\n\nStellen Sie sich doch nur all den Nepthys-Wein und die Ucantium-Perlen vor, die Sie mit uns handeln können!\n\nGeraten Sie da nicht in Versuchung?
+FREETRADE_ACCEPT				;Eine großartige Idee! Wir nehmen Ihr Angebot zu einem Freihandelsabkommen an.\n\nLang lebe unsere Allianz!
+FREETRADE_REJECT				;Nein, wir lehnen ein Freihandelsabkommen mit Ihnen zu diesem Zeitpunkt ab.\n\nWomöglich ein andermal, wir werden es in Erwägung ziehen.
+
+CANCELTREATY					;Wir können unsere Vereinbarung ({0}) mit Ihnen nicht mehr länger gutheißen, daher beenden wir nun diesen Vertrag.\n\nWir wünschen Ihnen alles Gute.
+CANCELTREATY_RESPONSE_FRIENDLY			;Dies trifft uns unerwartet!\n\nWir können Ihre Entscheidung nicht ganz nachvollziehen, respektieren sie aber.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wenn sich Verträge nicht mehr auszahlen, sollten wir uns der Sache offen annehmen.\n\nWir danken Ihnen für Ihre Ehrlichkeit in diesem Punkt.
+CANCELTREATY_RESPONSE_ANGRY			;Wir pflichten Ihrer Einschätzung bei.\n\nDieser Vertrag erfüllt unsere Bedürfnisse nicht länger. Es ist das Beste, ihn zu beenden.
+
+TREATY_PROPOSAL					;Welche Änderungen haben Sie im Sinn?
+TREATY_ACCEPTRESPONSE				;Welch exzellenter Ausgang! Wir frohlocken mit unseren neuen Verbündeten.\n\nWünschen Sie vielleicht ein Glas Nepthys-Wein?
+TREATY_REJECTRESPONSE				;Sind Sie sicher, dass wir Sie nicht umstimmen können?\n\nVielleicht werden Sie Ihre Entscheidung in der Zukunft noch einmal überdenken.
+
+TRADESANCTIONS_IMPOSE				;Wir greifen nicht gerne zu solchen Maßnahmen, doch wir sehen uns gezwungen, Ihnen Handelssanktionen aufzuerlegen.\n\nWir hoffen, dass wir nicht weitreichendere Schritte einleiten müssen.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Wir sind verärgert über Ihre voreilige Verhängung von Handelssanktionen!\n\nWir werden umgehend darauf reagieren, um unsere Interessen zu schützen.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Sie spielen gerne den Harten, wie? Auch wir sind dazu in der Lage, wissen Sie?\n\nKein Nepthys-Wein mehr für Sie!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Der Sinn Ihrer Handlungen erschließt sich uns nicht. Wir sehen keinen Bedarf nach Handelssanktionen.
+TRADESANCTIONS_LIFT				;Unsere Handelssanktionen gegen Sie haben ihren Zweck erfüllt.\n\nWir heben sie aus diesem Grunde auf.
+TRADESANCTIONS_LIFT_RESPONSE			;Sehr gut. Wir werden also den Handel mit Ihnen erneut aufnehmen.\n\nWas halten Sie von etwas Nepthys-Wein zur Feier des Tages?
+
+WAR_DECLARE					;Sie lassen uns keine Wahl: Wir erklären Ihnen den KRIEG!\n\nUnsere Maßnahmen werden schnell, entscheidend und dauerhaft sein.
+WAR_DECLARE_RESPONSE_EAGER			;Krieg mit uns? Ha! Wir werden Ihnen eine Lektion in Sachen Krieg erteilen!\n\nWir fürchten Sie nicht.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Sie haben diesen Kurs eingeschlagen und wir werden darauf reagieren.\n\nSeien Sie bereit, sich zu verteidigen!
+WAR_DECLARE_RESPONSE_SURPRISED			;Sind Sie es gewohnt, Ihre Freunde anzugreifen? Ihr Verhalten ist äußerst seltsam.\n\nSeien Sie gewarnt, wir werden uns verteidigen!
+
+WAR_END						;Dieser Krieg währt nun schon lange genug. Wir schlagen eine Waffenruhe vor.\n\nStimmen Sie zu?
+WAR_END_ACCEPT					;Ja, eine Waffenruhe wäre akzeptabel.\n\nWir ziehen unsere Streitkräfte nun zurück.
+WAR_END_REJECT					;Nein, es liegt in unserer Absicht, diesen Krieg zu Ende zu führen.\n\nIhre Aggression hat keinen Platz in dieser Galaxie.
+
+GIFT_GIVE					;Wir entbieten Ihnen dieses Geschenk von {0} Credits.\n\nVielleicht wollen Sie damit einige unserer erlesenen Ucantium-Perlen erstehen?
+GIFT_THANKS					;Wir danken Ihnen für dieses liebenswürdige Geschenk. Wir wissen es sehr zu schätzen.
+
+WARNING_INTELLIGENCEMISSIONS			;Wir haben von Ihren Geheimmissionen gegen uns erfahren. Sie müssen sofort ein Ende haben.\n\nBetrachten Sie dies als Warnung!
+WARNING_ATTACKS					;Der Angriff Ihrer Schiffe hat uns höchst erzürnt.\n\nGebieten Sie ihnen sofort Einhalt oder wir werden Strafmaßnahmen ergreifen!
+
+WARNING							;Dies klingt besorgniserregend. Bitte erklären Sie die Situation.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Geheimmissionen? Betrachten Sie sie als beendet.\n\nWir werden Sie nicht weiter belästigen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Ja, wir verstehen. Wir werden sichergehen, nicht ein weiteres Mal erwischt zu werden.\n\nGibt es sonst noch etwas?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Wir haben keine Ahnung, wovon Sie sprechen.\n\nUnd wir haben auch nicht die Absicht, diese Angelegenheit weiter zu diskutieren.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Wir müssen uns entschuldigen, Freund. Unsere Wachposten an den Grenzen scheinen übereifrig geworden zu sein.\n\nWir werden uns dieser Situation annehmen.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Wir stimmen zu, dass dies in keinster Weise förderlich ist.\n\nWir werden uns der Raumschiffkommandanten annehmen, die in diesen Vorfall verwickelt sind.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Ein Angriff auf Ihre Schiffe?\n\nLassen Sie mich eines klarstellen: Ihr Imperium bereitet uns große Sorgen. Es würde mich nicht überraschen, wenn einer unserer Raumschiffkommandanten ein wenig schießfreudig würde.\n\nVielleicht sollten Sie zuerst Ihre eigenen Raumschiffkommandanten aussortieren, ehe Sie sich bei uns beschweren.

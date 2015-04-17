@@ -1,0 +1,57 @@
+'Naxxilian Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir sind das Imperium "{0}".\n\nWir mögen das ruhige Leben. Und eine gute Partie Todash.\n\nWas ist mit Ihnen?
+GREETING_FRIENDLY				;Ah, schön, Sie wiederzusehen!\n\nWürden Sie sich uns gerne zu einer Runde Todash anschließen?
+GREETING_NEUTRAL				;Hmm? Oh, Sie wollen über etwas sprechen?
+GREETING_ANGRY					;Grrr, Sie wagen es, bei uns aufzutauchen? Es sollte sich besser lohnen.\n\nSprechen Sie!
+
+PIRATE_PROTECTIONPROPOSE			;Schutz für Ihre Schiffe? Ja, dafür können wir sorgen.\n\nFür die unten angezeigte Gebühr können wir alle Ihre Schiffe „beschützen“, solange sie unser Territorium kreuzen. Die Schutzphase währt sechs Monate lang.\n\nKlingt das für Sie nach einem fairen Handel?
+PIRATE_PROTECTIONPROPOSEINITIATE		;Es lauern viele verborgene Gefahren auf Ihre Schiffe - zum Beispiel Piraten!\n\nAber für eine bescheidene Gebühr können wir alle Ihre Schiffe beschützen, die unser Territorium kreuzen. Der Schutz währt sechs Monate lang.\n\nEin verlockendes Angebot, finden Sie nicht auch?
+PIRATE_PROTECTIONACCEPTRESPONSE			;Exzellent!\n\nWir befehlen unseren Schiffen, sich ruhig zu verhalten, wenn sie die Ihrigen entdecken.\n\nAuf Wiedersehen - bis unsere nächste Gebühr fällig wird...
+PIRATE_PROTECTIONREJECTRESPONSE			;Wir fragen uns, ob Sie auf Ärger aus sind.\n\nVielleicht sind Sie das...
+PIRATE_ATTACKOFFER_SINGLEEMPIRE			;Sie scheinen Schwierigkeiten mit dem Imperium "{0}" zu haben. Das muss aber kein Problem für Sie darstellen - wir können sie für Sie angreifen!\n\nDiese Übereinkunft würde ein Geheimnis zwischen uns beiden bleiben, niemand würde Sie für die Angriffe verantwortlich machen.\n\nAlles, was wir brauchen, ist eine Zahlung von {1} Credits.
+PIRATE_ATTACKCOMMENCE				;Sie haben uns gerade angeheuert!\n\nDas Imperium "{0}" wird nicht wissen, wie ihm geschieht!
+
+OFFER_FREETRADE					;Wissen Sie, was wir brauchen, ist ein Freihandelsabkommen. Das wäre eine wirklich großartige Sache.\n\nWas halten Sie davon?
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen, was für eine großartige Idee! Wir stimmen zu.\n\nUns fallen bereits Möglichkeiten ein, wie wir das ganze zusätzliche Geld ausgeben können!
+FREETRADE_REJECT				;Nun, eigentlich nein. Wir halten ein Freihandelsabkommen für keine gute Idee.\n\nJedenfalls nicht mit Ihnen.
+
+CANCELTREATY					;Diese Vereinbarung ({0}), die wir mit Ihnen hatten? Die ist Geschichte: aus, Ende, vorbei.\n\nEs hat sich einfach nicht ausgezahlt.
+CANCELTREATY_RESPONSE_FRIENDLY			;Ach, verdammt!\n\nWir dachten, es wäre eine gute Sache. Man kann wohl nie wissen.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wenn Sie das sagen.
+CANCELTREATY_RESPONSE_ANGRY			;Oh ja?! Wir haben Sie sowieso nie gemocht!\n\nAlso bitte.
+
+TREATY_PROPOSAL					;Ein Vertrag?! Wir lieben Verträge!\n\nErzählen Sie uns mehr.
+TREATY_ACCEPTRESPONSE				;Ich bin so aufgeregt! Neue Freunde bedeuten ein großes Fest.\n\nÜbrigens: Spielen Sie Todash?
+TREATY_REJECTRESPONSE				;Hmmm, das ist nicht das, was ich hören wollte.\n\nSie wissen wirklich, wie man eine Feier verdirbt.
+
+TRADESANCTIONS_IMPOSE				;Wissen Sie, was Sie nun haben? Handelssanktionen!\n\nDas haben Sie wirklich verdient! Es reicht mit Ihrem hinterhältigen Treiben.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Sie können sich nicht vorstellen, wie wütend wir gerade sind!\n\nUnbeschreiblich wütend! Fürchterlich empört! Sogar ziemlich bestürzt.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Genau das haben wir von Ihnen erwartet.\n\nWir laden Sie jetzt zu keinen Todash-Spielen mehr ein!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Sie haben wirklich Nerven! Stellen Sie sich nur mal vor, Sie strafen uns mit Handelssanktionen ab - uns, Ihre Freunde!\n\nSprechen Sie nie wieder mit uns.
+TRADESANCTIONS_LIFT				;Handelssanktionen beendet.\n\nDie sind sowieso ziemlich langweilig. Wir ziehen freien und offenen Handel weitaus mehr vor.
+TRADESANCTIONS_LIFT_RESPONSE			;Nun streben Sie also einen Wandel an.\n\nWir begrüßen die Rückkehr zum normalen Handel.
+
+WAR_DECLARE					;Dieses Mal sind Sie zu weit gegangen: Nun heißt es KRIEG gegen Ihr mickriges Imperium!\n\nWir werden Sie um Gnade winseln lassen und sie Ihnen dann nicht gewähren!
+WAR_DECLARE_RESPONSE_EAGER			;NA LOS! Wir werden Sie vernichten!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Ruhig, ruhig! Das ist der letzte Fehler, den Sie jemals begehen werden.
+WAR_DECLARE_RESPONSE_SURPRISED			;Sicherlich nicht!\n\nWir dachten, wir wären Freunde? Scheint, als hätten wir uns geirrt.
+
+WAR_END						;Wir mochten diesen Krieg zu Anfang, aber jetzt macht er keinen Spaß mehr.\n\nMachen wir Schluss damit? Was meinen Sie?
+WAR_END_ACCEPT					;Ja, genug der Kämpfe für heute.\n\nWir können ein andermal weitermachen, wenn uns danach ist.
+WAR_END_REJECT					;Nein, dieser Krieg macht zu viel Spaß, um ihn zu beenden!\n\nSie langweilen sich doch nicht etwa schon?
+
+GIFT_GIVE					;Wir haben etwas für Sie: {0} Credits! Gefällt Ihnen das?
+GIFT_THANKS					;Oh, ein Geschenk für uns! Danke! 
+
+WARNING_INTELLIGENCEMISSIONS			;He, wir wissen alles über Ihre Geheimmissionen gegen uns.\n\nUnd wir sind ziemlich wütend darüber!\n\nAlso hören Sie sofort auf damit, ja?
+WARNING_ATTACKS					;Beenden Sie unverzüglich die Angriffe auf unsere Schiffe!\n\nUnsere Geduld geht langsam zu Ende - wir warnen Sie!
+
+
+WARNING							;Eine Warnung? Wir fragen uns, weswegen?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir verstehen Ihre Besorgnis.\n\nWir stellen sicher, dass dies kein weiteres Mal geschieht.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Bevor wir Ihnen antworten, müssen wir die Details dieses Vorfalles überprüfen.\n\nWir melden uns bei Ihnen, in Ordnung?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Nun, da Sie es erwähnen: Ja, wir haben diese Missionen gegen Sie angeordnet.\n\nWarum? Weil wir Sie wirklich hassen.\n\nIst nun alles geklärt?
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Wie schrecklich. Bitte nehmen Sie unsere Entschuldigung an.\n\nTeilen Sie uns die Details des Vorfalles mit und wir kümmern uns um den Schiffkommandanten, der dafür verantwortlich ist.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Hmmm, nicht gut. Erwischt zu werden, meinen wir.\n\nBitte nehmen Sie unsere Entschuldigung an.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Wir entsinnen uns, kürzlich Angriffe befohlen zu haben.\n\nAber wir behandeln so lediglich unsere Feinde. Ich nehme also an, dass Sie unser Feind sind?

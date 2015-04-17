@@ -1,0 +1,48 @@
+'Shandar Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Hallo! Wir sind das Imperium "{0}".\n\nWir nehmen alles um uns herum ziemlich entspannt auf.\n\nAlles, was wir wollen, ist in Ruhe gelassen zu werden, um die natürliche Wärme unseres vulkanischen Heims zu genießen.
+GREETING_FRIENDLY				;Was gibt's, Freund?\n\nHaben Sie Lust auf ein kühles, frisches Rephidium-Bier und ein Bad in unseren warmen, geothermischen Schwimmbecken?
+GREETING_NEUTRAL				;Hallo, Besucher aus der Galaxie!\n\nWorüber wollen wir reden?
+GREETING_ANGRY					;Also gut. Hier gibt's Ärger. Was haben Sie nun für ein Problem?
+
+OFFER_FREETRADE					;He! Wir hatten gerade eine Spitzenidee: ein Freihandelsabkommen!\n\nSie kriegen haufenweise funkelnde Edelsteine von uns und wir... was auch immer Sie anbieten.\n\nWas meinen Sie?
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen? Ja, das klingt echt toll!\n\nWir stimmen zu. 
+FREETRADE_REJECT				;Nein, wir glauben nicht, dass ein Freihandelsabkommen mit Ihnen eine gute Idee ist.\n\nVielleicht später, ja?
+
+CANCELTREATY					;Sie wissen schon, die Abmachung ({0}), die wir mit Ihnen haben? Na ja, wir lösen den Vertrag hiermit auf.\n\nTut uns leid, aber Sie kommen sicher darüber hinweg.
+CANCELTREATY_RESPONSE_FRIENDLY			;Kein Vertrag mehr, hmmm? Na ja, kann passieren.\n\nAlso kein Problem.
+CANCELTREATY_RESPONSE_NEUTRAL			;Sie wollen keinen Vertrag mehr? Wenn Sie's sagen.
+CANCELTREATY_RESPONSE_ANGRY			;Wissen Sie was? Sie sind wirklich kaltherzig.\n\n Es passiert nicht oft, dass wir so etwas von jemand behaupten.
+
+TREATY_PROPOSAL					;Sie haben einen Plan? Erzählen Sie uns davon.
+TREATY_ACCEPTRESPONSE				;Großartig!\n\nDas schreit nach einer Feier. Mögen Sie heiße Schwimmbecken?
+TREATY_REJECTRESPONSE				;Wir kriegen ein sehr frostiges Gefühl in Ihrer Nähe. Sollte uns das beunruhigen?
+
+TRADESANCTIONS_IMPOSE				;Es ist soweit: Wir verhängen Handelssanktionen gegen Sie!\n\nSie werden jetzt einen anderen Weg finden müssen, um an Ihre Edelsteine zu kommen.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Sie gehen wirklich zu weit! Wir werden das nicht länger erdulden, Sie eiskalter Fremder!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Handelssanktionen können wir alles andere als gebrauchen!\n\nSie müssen wirklich lernen, sich zu entspannen...
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Handelssanktionen?! Was ist passiert?\n\nSie müssen sich beruhigen. Das wird zu nichts führen.
+TRADESANCTIONS_LIFT				;Wir haben uns entschieden, die Handelssanktionen gegen Sie aufzuheben.\n\nSie scheinen nicht mehr so verspannt zu sein.
+TRADESANCTIONS_LIFT_RESPONSE			;Klasse. Wir sind ebenfalls bereit, wieder zu handeln.
+
+WAR_DECLARE					;Sie haben es wirklich zu weit getrieben: KRIEG Ihrem griesgrämigen Imperium!\n\nWir lassen feurige Lava auf Sie üble Unterdrücker herabregnen!
+WAR_DECLARE_RESPONSE_EAGER			;Wir haben auf diese Gelegenheit gewartet!\n\nWir begrüßen den Krieg mit Ihnen. Nun können wir Ihnen eine Lektion erteilen!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Sie sind echt ein Haufen übellauniger Kerle, oder?\n\nWenn Sie einen Kampf wollen, dann sollen Sie ihn kriegen.
+WAR_DECLARE_RESPONSE_SURPRISED			;Krieg, haben Sie gesagt?! Wieso denn das?\n\nWissen Sie, wenn Sie verärgert sind, sollten Sie einfach mit uns darüber sprechen.
+
+WAR_END						;Dieser Krieg belastet uns wirklich. Wir schlagen einen Waffenstillstand vor.\n\nStimmen Sie zu?
+WAR_END_ACCEPT					;In Ordnung, beenden wir diesen Krieg.\n\nWir brauchen nicht noch mehr Stress.
+WAR_END_REJECT					;Keine Chance! Wir beenden diesen Krieg doch nicht, wenn wir Ihnen überlegen sind!
+
+GIFT_GIVE					;Hallo! Wir haben ein Geschenk für Sie: {0} Credits.\n\nSehen Sie, wir mögen Sie wirklich!
+GIFT_THANKS					;Vielen Dank für Ihr Geschenk!
+
+WARNING							;Eine Warnung für uns? Was haben wir falsch gemacht?
+WARNING_INTELLIGENCEMISSIONS				;Wir wissen alles über Ihre Geheimmissionen gegen uns.\n\nDie regen uns ziemlich auf, also beenden Sie sie sofort!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Geheimmissionen? Das wäre mir neu.\n\nWir überprüfen das und melden uns später wieder bei Ihnen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Geheimmissionen? Wir sind nicht ganz sicher.\n\nKönnen wir uns später bei Ihnen melden, wenn wir das überprüft haben?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen?\n\nSind Sie sicher, dass das nicht nur Ihre angeborene Paranoia ist, die aus Ihnen spricht?\n\nSie müssen sich wirklich mal entspannen.
+WARNING_ATTACKS						;Wir sind wirklich wütend über Ihre Angriffe auf unsere Schiffe und Basen!\n\nLassen Sie uns in Ruhe oder sonst...!
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Es tut uns so leid. Was für ein schrecklicher Fehler!\n\nWir stellen sicher, dass dies nicht noch einmal geschieht.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Es tut uns so leid. Was für ein schrecklicher Fehler!\n\nWir stellen sicher, dass dies nicht noch einmal geschieht.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe gegen Sie?\n\nDenken Sie mal nach: Wenn ein lässiges Volk wie wir Sie angreift, sollten Sie sich wirklich einmal nach dem Grund fragen.

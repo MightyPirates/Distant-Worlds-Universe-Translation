@@ -1,0 +1,168 @@
+
+INFO_NOFUNDS					;Es scheint, als hätten Sie nicht genug Geld, um dies zu bezahlen.
+INFO_UNMETEMPIRE				;Das neue Imperium trägt den Namen "{0}".
+INFO_EXPLORATION	 			;Wir haben Ihnen Karten des Systems {0} in Sektor {1} übermittelt.
+INFO_INDEPENDENTCOLONY				;Die unabhängige Kolonie befindet sich auf {0}.
+INFO_RUINS					;Unsere Kontakte berichten von antiken Ruinen, "{0}", auf {1}.\n\nMöglicherweise stoßen Sie dort auf etwas Wertvolles...
+INFO_DEBRISFIELD				;Uns sind Gerüchte über ein riesiges Trümmerfeld aus Schiffswracks im System {0} in Sektor {1} zu Ohren gekommen, die aus einer uralten Schlacht stammen sollen.\n\nOffensichtlich sind viele der Schiffe noch zu retten. Wenn Sie ein Konstruktionsschiff aussenden, sollten Sie in der Lage sein, einige wieder zum Laufen zu bringen...
+INFO_PLANETDESTROYER				;Wir haben Gerüchte über ein gewaltiges verlassenes Bauprojekt im System {0} in Sektor {1} vernommen.\n\nWir sind uns über den Zweck dieses Projekts nicht im Klaren, aber mit der richtigen Ausrüstung könnte es möglicherweise fertiggestellt werden...
+INFO_RESTRICTEDAREA				;Uns sind Gerüchte über ein geheimes Sperrgebiet in der Nähe des Systems {0} in Sektor {1} zu Ohren gekommen.\n\nOffenbar wird der Hyperantrieb von Schiffen, die das Gebiet kreuzen, plötzlich auf mysteriöse Weise deaktiviert. Von vielen hat man nie wieder gehört...
+PIRATE_PROTECTIONPROPOSE			;Es ist sehr klug von Ihnen, uns um Schutz zu bitten. Gegen die unten angezeigte, vollkommen angemessene Gebühr können wir Ihre Sicherheit in unserem Gebiet für sechs Monate gewährleisten.
+PIRATE_PROTECTIONPROPOSEINITIATE		;Wer weiß, welche verborgenen Gefahren auf Sie warten, wenn Sie durch die gesetzlosen Regionen des Weltraums reisen?\n\nGegen die unten angezeigte und vollkommen angemessene Gebühr können wir sechs Monate lang Ihre Sicherheit in unserem gesamten Gebiet garantieren.\n\nWas sagen Sie dazu?
+PIRATE_PROTECTIONACCEPTRESPONSE			;Exzellent! Wir stellen sicher, dass Ihre Schiffe keine "bedauerlichen Unfälle" erleiden, bis unsere nächste Gebühr fällig ist...
+PIRATE_PROTECTIONREJECTRESPONSE			;Zu schade, dass Sie so geizig sind! Ohne Bezahlung können wir Ihre Sicherheit nicht garantieren...
+PIRATE_PROTECTIONALREADYPAID			;Sie haben uns bereits eine Schutzgebühr bezahlt.\n\nKommen Sie wieder, wenn die laufende Schutzphase abgelaufen ist. Wir werden dann gerne weitere Zahlungen entgegennehmen.
+PIRATE_BUYINFO					;Wir können Sie zu den angegebenen Preisen mit Informationen zu allen Gegenständen versorgen, die unten aufgeführt sind.
+PIRATE_ATTACKOFFER_EMPIRES			;Wir wären bereit, zu den angegebenen Preisen jedes der unten aufgeführten Imperien anzugreifen.
+PIRATE_ATTACKOFFER_SINGLEEMPIRE			;Anscheinend haben Sie Probleme mit dem Imperium "{0}". Wir würden liebend gerne ihre Basen für Sie angreifen.\n\nNatürlich wären wir sehr diskret bezüglich unserer Abmachung - niemand würde davon erfahren.\n\nAlles, worum wir für diesen Dienst bitten, ist eine kleine Zahlung von {1} Credits. Was sagen Sie dazu?
+PIRATE_ATTACKCOMMENCE				;Betrachten Sie es als sinnvolle Investition. Wir werden unverzüglich mit unseren Angriffen auf das Imperium "{0}" beginnen!
+
+PIRATE_ALLIANCEPROPOSE				;Ihre früheren Vereinbarungen mit uns sind nun abgelaufen. Wie wäre es mit einer dauerhaften Allianz zwischen uns?\n\Gegen eine laufende Monatsgebühr von {0} Credits könnten wir sowohl Ihre Schiffe schützen als auch Ihre Feinde angreifen, während Ihre Hände sauber blieben.\n\nWas meinen Sie?
+PIRATE_ALLIANCEACCEPT				;Wir stimmen einer Allianz zu.
+PIRATE_ALLIANCEACCEPTRESPONSE		;Eine exzellente Entscheidung!\n\nWir stellen sicher, dass Ihre Schiffe vor unseren Plünderern sicher sind, und beginnen, die Streitkräfte Ihrer Feinde ins Visier zu nehmen.\n\nLassen Sie uns wissen, wenn es jemanden im Besonderen gibt, den wir für Sie angreifen sollen.
+PIRATE_ALLIANCEREJECT				;Wir lehnen eine Allianz ab.
+PIRATE_ALLIANCEREJECTRESPONSE		;Eine schlechte Wahl.\n\nOhne angemessene Entschädigung können wir Ihnen nicht helfen.\n\nWissen Sie, Piraterie ist ein teures Geschäft!
+PIRATE_ALLIANCECANCEL				;Wir möchten diese Allianz auflösen.
+PIRATE_ALLIANCECANCELRESPONSE		;Ein trauriges Ende für eine höchst profitable Geschäftsbeziehung...\n\nDenken Sie daran, ohne laufende Bezahlung können wir die Sicherheit Ihrer Schiffe nicht garantieren.\n\nVielleicht sollten Sie es sich noch einmal überlegen?
+
+INFO_OFFER_UNMETEMPIRE				;Der Austausch mit anderen Zivilisationen ist der Schlüssel zu Wachstum und Wohlstand, finden Sie nicht auch?\n\nFür {0} Credits vermitteln wir Ihnen den Kontakt zu einem anderen Imperium.
+INFO_OFFER_INDEPENDENTCOLONY			;Sie fragen sich, wo Sie Ihre nächste Kolonie gründen sollen?\n\nFür {0} Credits können wir Ihnen den Standort einer unabhängigen Kolonie anzeigen.
+INFO_OFFER_SYSTEMMAPS				;Seine Umgebung zu kennen, ist der Schlüssel zum Überleben.\n\nWir besitzen Karten eines unerforschten Systems, die wir Ihnen gerne für {0} Credits verkaufen.
+INFO_OFFER_RUINS				;Die Galaxie birgt viele wertvolle Geheimnisse.\n\nWir haben eine faszinierende Entdeckung gemacht, die wir gerne für {0} Credits mit Ihnen teilen.\n\nWas sagen Sie dazu?
+INFO_OFFER_DEBRISFIELD				;Die Galaxie birgt viele wertvolle Geheimnisse.\n\nWir haben eine faszinierende Entdeckung gemacht, die wir gerne für {0} Credits mit Ihnen teilen.\n\nWas sagen Sie dazu?
+INFO_OFFER_RESTRICTEDAREA			;Die Galaxie birgt viele wertvolle Geheimnisse.\n\nWir haben eine faszinierende Entdeckung gemacht, die wir gerne für {0} Credits mit Ihnen teilen.\n\nWas sagen Sie dazu?
+INFO_OFFER_PLANETDESTROYER			;Die Galaxie birgt viele wertvolle Geheimnisse.\n\nWir haben eine faszinierende Entdeckung gemacht, die wir gerne für {0} Credits mit Ihnen teilen.\n\nWas sagen Sie dazu?
+
+GREETING_INTRODUCTION				;Wir grüßen Sie! Wir sind das Imperium "{0}".
+GREETING_FRIENDLY				;Lassen Sie uns an Ihren Gedanken teilhaben, Freund.
+GREETING_NEUTRAL				;Sie wollten mich sprechen?
+GREETING_ANGRY					;Was wollen Sie?
+
+OFFER_FREETRADE					;Wir bitten Sie dringend, sich unserer dynamischen Wirtschaft im Rahmen eines Freihandelsabkommens anzuschließen!\n\nWas sagen Sie dazu?
+OFFER_PROTECTORATE				;Freunde, wir bieten Ihnen Zuflucht in einem Protektoratsabkommen. Unser mächtiges Imperium wird Sie gegen jeden Angreifer verteidigen.\n\nWas meinen Sie?
+OFFER_MUTUALDEFENSE				;Unsere guten Freunde, wir glauben, dass es in unser beider Interesse läge, einen Verteidigungspakt einzugehen.\n\nDies würde andere davon abhalten, einen von uns anzugreifen.\n\nWas meinen Sie?
+OFFER_DEAL					;Akzeptieren Sie dieses Angebot?
+OFFER_DEAL_RESPONSE			;Was für einen Handel schlagen Sie vor?
+
+OFFER_DEAL_TERRITORYMAP		;Interesse, Gebietskarten mit uns auszutauschen?
+OFFER_DEAL_GALAXYMAP		;Interesse, Galaxiekarten mit uns auszutauschen?
+OFFER_DEAL_COMPONENT		;Würden Sie uns gerne Technologie abkaufen?\n\nWir verkaufen Ihnen gerne "{0}" für {1} Credits.\n\nWas sagen Sie dazu?
+
+DEAL_BEGIN					;Was schlagen Sie vor?
+DEAL_OFFER					;Bitte überdenken Sie dieses Handelsangebot.\n\nWir geben Ihnen: {0}...\n\n... im Austausch gegen: {1}
+DEAL_DEMAND					;Wir fordern Sie auf, folgenden Besitz an uns abzutreten:\n\n{1}
+DEAL_THREAT					;Sie haben uns Folgendes zu überlassen:\n\n{1}\n\n... {0}
+DEAL_ACCEPT					;Wir nehmen Ihr Angebot an.
+DEAL_ACCEPTCOMPLAIN			;Wir gehen auf Ihre unverschämten Forderungen ein, aber nur unter Protest!
+DEAL_IMPROVE				;Ihr Vorschlag ist einer weiteren Überlegung wert - können Sie Ihr Angebot noch verbessern?
+DEAL_REJECT					;Dieses Angebot deckt sich nicht mit unseren Interessen - abgelehnt.
+DEAL_REJECTCOMPLAIN			;Versuchen Sie nicht, uns einzuschüchtern! Wir haben keine Angst vor Ihren Drohungen!
+DEAL_REJECT_RESPONSE			;Wie enttäuschend...
+DEAL_REJECTDEMAND_RESPONSE		;Wie können Sie es wagen, unser vollkommen vernünftiges Ultimatum zurückzuweisen?\n\nDas ist der letzte Fehler, den Sie je begangen haben!
+DEAL_ACCEPT_RESPONSE			;Ein exzellentes Ergebnis!
+'DEAL_REJECTCOMPLAIN			;Dieses Geschäft ist vollkommen einseitig! Wir werden es NICHT akzeptieren!
+'DEAL_REJECTCOMPLAIN			;Versuchen Sie nicht, uns einzuschüchtern! Bieten Sie einen fairen Tausch an und wir werden es noch einmal überdenken.
+
+MUTUALDEFENSE_ACCEPT				;Wir stimmen zu, ein Verteidigungspakt mit Ihnen wäre von großem Vorteil.\n\nLang lebe unsere Allianz! 
+MUTUALDEFENSE_REJECT				;Danke für Ihr Angebot, aber wir wünschen zu diesem Zeitpunkt keinen Verteidigungspakt.
+MUTUALDEFENSE_REQUESTHELP			;Das Imperium "{0}" greift uns an! Wir bitten Sie, den Vertrag zwischen uns zu ehren und ihnen den Krieg zu erklären.\n\nWerden Sie uns beistehen?
+MUTUALDEFENSE_HONORREQUESTHELP			;Wir stehen an der Seite unserer Freunde und Verbündeten - wir erklären dem Imperium "{0}" den Krieg!
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE		;Wir danken Ihnen vielmals für Ihre loyale Unterstützung, Freund!
+MUTUALDEFENSE_DECLINEREQUESTHELP		;Tut uns leid, aber Sie sind auf sich allein gestellt...
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE		;Wir werden nicht vergessen, wie verräterisch Sie uns im Stich gelassen haben!
+PROTECTORATE_ACCEPT				;Wir nehmen Ihr Angebot, uns Ihrem Protektorat zu unterstellen, dankbar an!
+PROTECTORATE_REJECT				;Tut uns leid, aber wir wollen uns momentan nicht Ihrem Protektorat unterstellen.
+FREETRADE_ACCEPT				;Wir nehmen Ihr Angebot zu einem Freihandelsabkommen gerne an!
+FREETRADE_REJECT				;Tut uns leid, aber wir sind für den Moment an keinem Freihandelsabkommen interessiert.
+
+CANCELTREATY					;Wir lösen unsere Vereinbarung ({0}) mit Ihnen auf.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wir bedauern Ihre Entschlossenheit, diese gewinnbringende Beziehung zu beenden.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wie Sie wollen.
+CANCELTREATY_RESPONSE_ANGRY			;Wir sind froh, dass wir diesen wertlosen Vertrag endlich los sind!
+
+TREATY_PROPOSAL					;Was schlagen Sie vor?
+TREATY_ACCEPTRESPONSE				;Exzellent! Wir begrüßen unsere neuen Verbündeten.
+TREATY_REJECTRESPONSE				;Wie enttäuschend...
+
+SUBJUGATION_RELEASE_RESPONSE			;Endlich frei!
+SUBJUGATIONDEMAND_ACCEPT_RESPONSE		;Wir begrüßen Sie als unsere neuen Sklaven! Eine Niederlage ist bitter, finden Sie nicht auch?
+WAR_END_ACCEPT_RESPONSE				;Eine weise Entscheidung.
+
+TRADESANCTIONS_IMPOSE				;Wir verhängen Handelssanktionen gegen Sie. Mit sofortiger Wirkung wird jeglicher Handel zwischen unseren beiden Imperien eingestellt!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Das ist ein Skandal! Sie werden für diese Niederträchtigkeit bezahlen!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Also gut! Dies wird Ihnen mehr weh tun, als uns!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Handelssanktionen?! Was haben wir falsch gemacht? Ich dachte, wir wären Freunde?
+TRADESANCTIONS_LIFT				;Wir heben die Handelssanktionen gegen Sie auf. Wir werden den normalen Handel nun wieder fortsetzen.
+TRADESANCTIONS_LIFT_RESPONSE			;Ha! Wir brauchen Ihren Handel nicht... Aber wir akzeptieren diese Wendung.
+TRADESANCTIONS_REQUESTLIFTOTHER			;Wir fordern, dass Sie den Handel mit dem Imperium "{0}" unverzüglich wieder aufnehmen!
+TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT		;Gemäß Ihrer Bitte nehmen wir den Handel mit dem Imperium "{0}" wieder auf.
+TRADESANCTIONS_REQUESTLIFTOTHER_REJECT		;Wir sehen keinen Grund, den Handel mit dem Imperium "{0}" wieder aufzunehmen.
+TRADESANCTIONS_REQUESTIMPOSEJOINT		;Wir ersuchen Sie, den Handel mit dem Imperium "{0}" einzustellen.
+TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT		;Gemäß Ihrer Bitte haben wir jeglichen Handel mit dem Imperium "{0}" eingestellt.
+TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT		;Wir sehen keinen Grund, den Handel mit dem Imperium "{0}" einzustellen.
+
+WAR_DECLARE					;Wir erklären Ihrem wertlosen Imperium hiermit offiziell den Krieg. Eure Kolonien werden von Ihrer Tyrannei befreit werden.
+WAR_DECLARE_RESPONSE_EAGER			;Wir freuen uns darauf, Ihr wertloses Imperium dem Boden gleich zu machen!
+WAR_DECLARE_RESPONSE_NEUTRAL			;So sei es. Seien Sie bereit, sich zu verteidigen!
+WAR_DECLARE_RESPONSE_SURPRISED			;Da muss ein Fehler vorliegen! Was haben wir Ihnen getan?! Sind wir keine Freunde mehr?
+
+WAR_DECLARE_REQUESTJOINT			;Wir ersuchen Sie hiermit offiziell, dem Imperium "{0}" den Krieg zu erklären.
+WAR_DECLARE_REQUESTJOINT_ACCEPT			;Gemäß Ihrer Bitte erklären wir dem Imperium "{0}" den Krieg.
+WAR_DECLARE_REQUESTJOINT_REJECT			;Wir werden dem Imperium "{0}" nicht den Krieg erklären. Fechten Sie Ihre Kämpfe selbst aus!
+
+WAR_END						;Wir schlagen ein Ende dieses sinnlosen Krieges vor.\n\nWas sagen Sie dazu?
+WAR_END_SUBJUGATIONDEMAND			;Wir stimmen einem Ende dieses Krieges zu, vorausgesetzt, Sie akzeptieren, als unser unterworfenes Reich versklavt zu werden.\n\nEin kleiner Preis für Ihr Leben, finden Sie nicht?
+WAR_END_SUBJUGATIONOFFER			;Wir bieten Ihnen an, uns Ihrem mächtigen Reich als Sklaven zu unterwerfen, vorausgesetzt, Sie stimmen einem Ende dieses verheerenden Krieges zu.\n\nIhre demütigen Sklaven harren Ihrer Antwort - was sagen Sie dazu?
+WAR_END_ACCEPT					;Auch wir denken, dass dieser Krieg enden sollte - wir werden die Kampfhandlungen unverzüglich einstellen.
+WAR_END_REJECT					;Nein, wir werden weiterkämpfen.
+
+WAR_END_REQUESTOTHER				;Bitte beenden Sie Ihren Krieg mit dem Imperium "{0}".
+WAR_END_REQUESTOTHER_ACCEPT			;Gemäß Ihrer Bitte beenden wir den Krieg mit dem Imperium "{0}".
+WAR_END_REQUESTOTHER_REJECT			;Wir werden nicht aufhören, gegen das erbärmliche Imperium "{0}" zu kämpfen!
+
+SUBJUGATIONDEMAND_ACCEPT			;Ja, wir akzeptieren unsere Niederlage und erkennen Ihren Status als unser Herrscher an.
+SUBJUGATIONDEMAND_REJECT			;Nein, wir werden Ihrer unverschämten Forderung nach Unterwerfung nicht Folge leisten!
+SUBJUGATIONOFFER_ACCEPT				;Gut, wir akzeptieren das Bekenntnis Ihrer Niederlage. Wir erwarten, regelmäßig Tribut von Ihnen zu erhalten.\n\nNun gehen Sie und stiften Sie nicht weiter Unruhe!
+SUBJUGATIONOFFER_REJECT				;Nein, wir wollen Sie noch weiter leiden sehen, bevor dieser Krieg zu Ende ist.
+
+SUBJUGATION_REQUESTRELEASE			;Unser Volk leidet unter Ihrer despotischen Herrschaft! Wir flehen Sie an, uns aus der Sklaverei zu entlassen.
+SUBJUGATION_RELEASE				;Wir entlassen Sie aus der Sklaverei. Nutzen Sie Ihre Freiheit weise.
+SUBJUGATION_REFUSERELEASE			;Nein, Sie werden unsere Sklaven bleiben. Sie machen sich gut darin, finden Sie nicht?
+
+GIFT_GIVE					;Bitte nehmen Sie dieses Geschenk von {0} Credits als ein Zeichen unseres guten Willens an.
+GIFT_THANKS					;Danke für Ihr freundliches Geschenk.
+GIFT_PROPOSE					;Welche Art von Geschenk haben Sie im Sinn?
+
+WARNING							;Was ist los?
+WARNING_INTELLIGENCEMISSIONS				;Wir warnen Sie! Stellen Sie Ihre verräterischen Geheimmissionen gegen uns unverzüglich ein! Wir werden nicht tolerieren, dass Sie sich ständig in unsere Angelegenheiten einmischen!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir sind uns keiner Missionen gegen Sie bewusst, mein Freund, aber wir werden der Sache sofort nachgehen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Seien Sie versichert, dass wir diesen Vorfall überprüfen werden.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen? Was für Missionen? Wenn es irgendwelche Missionen gäbe, würden wir gewiss nicht mit Ihnen darüber sprechen. Aber es liegen ohnehin keine vor... also hören Sie auf, derartig paranoid zu sein!
+WARNING_ATTACKS						;Wir warnen Sie hiermit offiziell, setzen Sie allen militärischen Angriffen gegen uns ein Ende! Anderenfalls werden wir mit überwältigender Kraft zurückschlagen!
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Wie schrecklich, bitte nehmen Sie unsere aufrichtige Entschuldigung für jede übereifrige Aktion unserer Militärkommandanten an.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Wir werden diesen Vorfall überprüfen und uns um die entsprechenden Militärkommandanten kümmern.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe? Wir würden keine Zeit verschwenden, ein armseliges Imperium wie das Ihre anzugreifen.
+
+WARNING_REMOVEFORCESSYSTEM						;Wir werden die Anwesenheit Ihrer Truppen in unserem Territorium nicht erdulden.\n\nZiehen Sie Ihre Kriegsschiffe sofort aus dem System {0} ab!
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY		;Wir sehen keinen Grund, unsere Schiffe aus Ihren Systemen abzuziehen.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE		;Wir werden Ihrer Bitte nachkommen. Unsere Schiffe verlassen Ihre Systeme.
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT		;Sicherlich liegt hier ein Fehler vor? Wir haben keine militärischen Streitkräfte in Ihrem Territorium stationiert.
+
+HISTORY_OFFER_LOCATIONHINT			;Unsere Forscher haben wichtige historische Gegenstände geortet.\n\nWürden Sie gerne mehr darüber erfahren?
+HISTORY_LOCATIONHINT				;Unsere Informationsquellen berichten uns von den {0}.\n\nWichtige Gegenstände können dort gefunden werden.
+HISTORY_OFFER_STORYCLUE				;Wir haben etwas Wichtiges entdeckt, von dem wir glauben, dass Sie es sich ansehen sollten.\n\nHaben wir Ihre volle Aufmerksamkeit?
+HISTORY_OFFER_STORYMESSAGE			;Wir haben eine wichtige Warnung, die Sie sich anhören müssen.\n\nHaben wir Ihre volle Aufmerksamkeit?
+MININGRIGHTS_OFFER		;Wir freuen uns, Ihnen Schürfrechte innerhalb unserer Grenzen anzubieten.\n\nSie können nun Bergbaustationen in unserem Gebiet errichten.
+MININGRIGHTS_CANCEL		;Ihre Abbaurechte innerhalb unserer Grenzen sind annulliert worden.\n\nSie müssen alle Ihre Bergbaustationen innerhalb unseres Gebiets entfernen!
+MILITARYREFUELING_OFFER		;Wir freuen uns, Ihnen die Gewährung von Nachschub für Ihre Militärschiffe auf unseren Kolonien und an Raumhäfen anzubieten.\n\nWir hoffen, dass Ihnen diese Anordnung nützlich ist.
+MILITARYREFUELING_CANCEL		;Wir gewähren Ihnen nicht länger, Nachschub auf unseren Raumhäfen und Basen aufzunehmen.\n\nIhre Militärschiffe können nicht mehr bei uns auftanken.
+CANCELPIRATEPROTECTION				;Wir benötigen Ihren "Schutz" nicht länger. Diese Vereinbarung ist aufgelöst.
+CANCELPIRATEPROTECTIONPIRATE				;Wir werden Sie nicht länger beschützen. Diese Vereinbarung ist aufgelöst.
+PIRATE_PROTECTIONPROPOSE_OFFER_ACCEPT		;Wir akzeptieren Ihr Angebot eines Schutzabkommens. Wir sind damit einverstanden, monatlich {0} Credits an Sie zu bezahlen.
+PIRATE_PROTECTIONPROPOSE_OFFER_REJECT		;Wir lehnen Ihren "Schutz" ab.
+
+PIRATE_EXTORTPROTECTION		;Grüße an unsere Opfer! Vielleicht haben Sie schon bemerkt, dass wir dabei sind, Sie anzugreifen. Doch für eine bescheidene "Spende" von lächerlichen {0} Credits könnten wir die unschöne Anwendung von Gewalt sein lassen.\n\nNatürlich hätten Sie schon früher bezahlen sollen... Jetzt, wo unser Angriff schon läuft, wird es natürlich teurer.\n\nSind Sie nun bereit, zu bezahlen?
+PIRATE_TRUCEPROPOSE		;Sie sind gut beraten, einen Waffenstillstand mit uns zu suchen. Wenn Sie ihm zustimmen, können wir sichere Passagen für Ihre Schiffe garantieren.
+PIRATE_TRUCEPROPOSEINITIATE		;Wer kann schon so genau sagen, welch schreckliche Gefahren Ihre Schiffe dort draußen in den gesetzlosen Weiten des Raumes erwarten?\n\nWenn Sie einem Waffenstillstand zustimmen, können wir sichere Passagen für Ihre Schiffe garantieren.\n\nWas sagen Sie dazu?
+PIRATE_TRUCEACCEPTRESPONSE		;Ausgezeichnet! Solange der Waffenstillstand besteht, werden wir sicherstellen, dass Ihre Schiffe keinem "unglücklichen Unfall" zum Opfer fallen... 
+PIRATE_TRUCEREJECTRESPONSE		;Wie Sie wollen. Aber ohne einen Waffenstillstand können wir nicht für die Sicherheit Ihrer Schiffe garantieren...

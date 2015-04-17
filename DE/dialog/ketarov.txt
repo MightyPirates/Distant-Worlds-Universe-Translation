@@ -1,0 +1,68 @@
+'Ketarov Dialog Text - GERMAN
+
+GREETING_INTRODUCTION				;Seien Sie gegrüßt! Wir sind das Imperium "{0}".\n\nWir schätzen Wissen - besonders das Wissen derer, die gegen uns intrigieren.\n\nSind Sie ein Intrigant oder ein Freund?
+GREETING_FRIENDLY				;Willkommen, Freund. Lassen Sie uns den Niedergang unserer Feinde planen!
+GREETING_NEUTRAL				;Sie möchten etwas mit uns besprechen?
+GREETING_ANGRY					;Oh, SIE schon wieder. Rasch, was ist Ihr Begehr?
+
+OFFER_FREETRADE					;Schließen Sie mit uns ein Freihandelsabkommen!\n\nJa?
+
+OFFER_PROTECTORATE				;Sie müssen sich mit einem starken Imperium wie dem unseren in einem Protektoratsabkommen zusammenschließen. Wir könnten Sie gegen jeden Angreifer beschützen.\n\nSie stimmen sicherlich zu?
+OFFER_MUTUALDEFENSE				;Wir bewundern Ihre Stärke - wir sollten uns in einem Verteidigungspakt zusammenschließen. Dies würde andere abschrecken, sich gegen uns zu verschwören.\n\nEin weiser Plan, finden Sie nicht?
+OFFER_DEMANDITEM				;Wir brauchen etwas von Ihnen. Enttäuschen Sie uns nicht - geben Sie uns, worum wir Sie bitten.
+OFFER_DEAL					;Sagt Ihnen dieser Handel zu?
+
+DEMAND_ACCEPT					;Wir werden uns hiermit von Ihnen verabschieden.
+DEMAND_REJECT					;Sie schüchtern uns nicht ein. Wir mögen einen fairen Handel akzeptieren, aber keine Drohungen.
+
+DEAL_BEGIN					;Was schlagen Sie vor?
+DEAL_ACCEPT					;Abgemacht!
+DEAL_IMPROVE					;Ein verlockendes Angebot - aber das reicht uns noch nicht ganz.
+DEAL_REJECT					;Wir können dieses Angebot nicht annehmen.
+DEAL_COMPLAIN					;Sie scherzen doch! Aber wir lachen nicht. Unterbreiten Sie uns ein ernsthaftes Angebot oder gar keins.
+
+MUTUALDEFENSE_ACCEPT				;Einverstanden, ein Verteidigungspakt ist sinnvoll. Willkommen als unsere neuen Verbündeten!
+MUTUALDEFENSE_REJECT				;Nein, ein Verteidigungspakt verträgt sich nicht mit unseren momentanen Plänen.
+MUTUALDEFENSE_REQUESTHELP			;Das Imperium "{0}", dieses hinterlistige Pack, greift uns an! Wir appellieren an Sie, unser Abkommen zu ehren und ihnen den Krieg zu erklären.\n\nStehen Sie uns bei?
+MUTUALDEFENSE_HONORREQUESTHELP			;Wir werden dieses Abkommen ehren - und dem Imperium "{0}" den Krieg erklären!
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE		;Es ehrt Sie, dass Sie sich an unsere Vereinbarung halten. 
+MUTUALDEFENSE_DECLINEREQUESTHELP		;Tut uns leid, aber unsere Pläne sehen keine Kriege vor, die wir nicht gewinnen können.\n\nWir können Ihnen nicht helfen...
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE		;Wir haben schon immer vermutet, dass Sie uns verraten werden.\n\nFür diese Ehrlosigkeit werden Sie bezahlen!
+PROTECTORATE_ACCEPT				;Wir versprechen uns einen großen Nutzen davon, unter Ihrem Schutz zu stehen - wir stimmen zu.\n\nMöge unsere Freundschaft währen, bis wir groß genug sind, um Sie zu besiegen.
+FREETRADE_ACCEPT				;Ein Freihandelsabkommen - was für eine brillante Idee! Wir nehmen Ihr Angebot an.
+
+CANCELTREATY					;Wir ziehen keinen Nutzen mehr aus diesem Abkommen ({0}) - wir treten davon zurück.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wie traurig. Vielleicht ändern Sie später noch einmal Ihre Meinung.
+CANCELTREATY_RESPONSE_NEUTRAL			;Nun gut also - es ist vorbei.
+CANCELTREATY_RESPONSE_ANGRY			;Wir waren selbst gerade dabei, von diesem Vertrag zurückzutreten.\n\nWir wollten ihn sowieso nicht.
+
+TREATY_PROPOSAL					;Was haben Sie im Sinn?
+TREATY_ACCEPTRESPONSE				;Eine sehr kluge Entscheidung - willkommen in unserer Allianz!
+TREATY_REJECTRESPONSE				;Eine schlechte Wahl.\n\nVielleicht erkennen Sie das später und ändern Ihre Meinung noch einmal...
+
+TRADESANCTIONS_IMPOSE				;Wir haben etwas für Sie: Handelssanktionen!\n\nWir werden Ihre Streitlust nicht weiter finanzieren - jeglicher Handel zwischen uns wird eingestellt.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Glauben Sie wirklich, der Verlust unserer Handelsbeziehungen würde uns etwas ausmachen? Er bedeutet uns nichts!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Unser Verdacht hat sich bestätigt: Sie sind vollkommen unzuverlässig.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wie kriminell! Wie verstörend, Ihre Freunde auf diese Weise zu hintergehen.
+TRADESANCTIONS_LIFT				;Unsere Handelssanktionen gegen Sie sind vorüber. Wir werden wieder mit Ihnen Geschäfte machen.
+TRADESANCTIONS_LIFT_RESPONSE			;Wir freuen uns, dass Sie zur Vernunft gekommen sind. Wir begrüßen einen fairen Handel zwischen uns.
+
+WAR_DECLARE					;Unsere Vorbereitungen sind abgeschlossen - nun ist es Zeit für KRIEG!\n\nWir können es kaum erwarten, jede letzte Spur Ihrer miserablen Existenz aus der Galaxie zu tilgen!
+WAR_DECLARE_RESPONSE_EAGER			;Wir wussten, dass es soweit kommen würde!\n\nSie wollen Krieg, aber wir bringen Ihnen Vernichtung!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wir wussten, dass Sie planten, uns zu hintergehen!\n\nNun werden wir Ihnen eine Lektion in Sachen Kampf erteilen!
+WAR_DECLARE_RESPONSE_SURPRISED			;Wir hatten immer den Verdacht, dass Sie ein Verräter sind. Nun wissen wir, dass es wahr ist.\n\nWir werden Ihnen Krieg bringen, wenn es das ist, was Sie wünschen!
+
+WAR_END						;Dieser Krieg schwächt uns nur beide. Wir schlagen ein unverzügliches Ende der Kampfhandlungen vor.
+WAR_END_ACCEPT					;Einverstanden. Lassen Sie uns den Krieg sofort beenden.
+WAR_END_REJECT					;Den Krieg beenden? Nein, wir laufen uns gerade erst warm!
+
+GIFT_GIVE					;Wir bieten Ihnen ein Geschenk von {0} Credits.\n\nWir hoffen, dass es Sie von unseren friedvollen Absichten überzeugt.
+GIFT_THANKS					;Wir danken Ihnen für Ihr Geschenk.\n\nVielleicht sind Sie doch nicht so durchtrieben, wie wir dachten.
+
+WARNING							;Was gibt es?
+WARNING_INTELLIGENCEMISSIONS				;Wir warnen Sie: Wagen Sie keine weiteren Geheimmissionen gegen uns.\n\nIhre ganzen hinterhältigen Pläne sind uns alle wohlbekannt...
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir sind uns keiner Missionen gegen Sie bewusst, mein Freund, aber wir werden der Sache unverzüglich nachgehen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Das muss doch ein Irrtum sein? Wir sind uns keiner Missionen gegen Sie bewusst.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Sie fürchten unser meisterliches Spionagenetzwerk zu Recht.\n\nWir wissen mehr, als Sie sich vorstellen können - einschließlich all Ihrer Schwachpunkte...
+
+WARNING_ATTACKS						;Wir sind über Ihre Angriffe gegen uns verärgert.\n\nMachen Sie dem ein Ende oder rechnen Sie mit unserer Vergeltung!

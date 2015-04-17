@@ -1,0 +1,50 @@
+﻿
+GREETING_INTRODUCTION			;Guten Tag. Wir sind die {0}.\n\Unsere Kultur ist allen anderen überlegen.\n\nDu kannst unsere Größe bewundern und über unsere Leistungen staunen.
+GREETING_FRIENDLY			;Welche simplen Gedanken möchtest Du mit uns teilen, mein Freund?
+GREETING_NEUTRAL			;Wir sind bereit, Deine oberflächlichen Gedanken zu hören.\n\nDu darfst jetzt sprechen.
+GREETING_ANGRY				;Teile Dein dummes Geschwätz mit uns, aber mach schnell!
+
+OFFER_FREETRADE				;Du würdest einen großen Gewinn erzielen, wenn wir ein Freihandelsabkommen schließen. Aber das Beste ist: Auch wir würden dabei viel Geld verdienen!\n\nWas sagst Du dazu?
+FREETRADE_ACCEPT			;Das Freihandelsabkommen ist eine exzellente Idee!\n\nWir sehen große Profite voraus - Vor allem für uns!
+FREETRADE_REJECT			;Tut uns leid, aber ein Freihandelsabkommen kommt nicht in Frage.\n\nDu bist einfach zu arm.
+
+CANCELTREATY				;Dieser {0} ist aufgelöst. Auf Wiedersehen.
+CANCELTREATY_RESPONSE_FRIENDLY		;Nun, das kommt... Überraschend. Willst Du Dir das nicht noch mal überlegen?
+CANCELTREATY_RESPONSE_NEUTRAL		;Kein Vertrag mehr? Wie schade.\n\nAndererseits wird da eine sehr hohe Konventionalstrafe fällig...
+CANCELTREATY_RESPONSE_ANGRY		;Wie empörend! Nach all dem, was wir für Dich getan haben... Nachdem wir uns Dein ganzes langweiliges Geschwätz angehört haben und vor allem VIEL GELD gespendet haben!
+
+TREATY_PROPOSAL				;Ein Vertrag! Erzähle uns mehr darüber!\n\nGeht es um viel Geld?
+TREATY_ACCEPTRESPONSE			;Herrlich! Unsere Beziehungen werden davon maßgeblich profitieren. Es wird uns beide reich machen - Vor allem uns!
+TREATY_REJECTRESPONSE			;Du lehnst unser Angebot ab!?\n\nDas kann nicht richtig sein. Hast Du denn unser Angebot nicht verstanden?
+
+TRADESANCTIONS_IMPOSE			;Wir verhängen mit sofortiger Wirkung Handelssanktionen gegen Dich!\n\nWir werden sehen, wie Dein armseliges "Imperium" ohne unseren Handel überleben kann!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;Wie kannst Du nur jeden Handel mit uns einstellen!\n\nDas ist... Dumm... Mhm, arrr... Nicht fair!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Wie töricht Du bist... Glaubst wohl, die Sanktionen würden uns treffen? \n\nEndlich sind wir den Handelsvertrag los!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Handelssanktionen?! Du meintest nicht HandelsBONI? Doch, ganz sicher meintest Du das...
+TRADESANCTIONS_LIFT			;Wir heben die Handelssanktionen gegen Dich auf.\n\nObwohl wir Deine minderwertige Zivilisation verachten, es gibt da doch eins, was wir an ihr schätzen: Euer Geld.
+TRADESANCTIONS_LIFT_RESPONSE		;Den Handel wieder aufzunehmen war eine weise Entscheidung.\n\nSchließlich ist Geld das Wichtigste von allem, findest Du nicht auch?
+
+WAR_DECLARE				;Es ist uns ein großes Vergnügen, Deinem primitiven Imperium den Krieg zu erklären!
+WAR_DECLARE_RESPONSE_EAGER		;DU greifst UNS an?! Wir brüllen vor Lachen, und kriegen keine Luft mehr.\n\nNun gut, wie Du willst... Bereite Dich auf den Geschmack der Niederlage vor!
+
+WAR_DECLARE_RESPONSE_NEUTRAL		;Wie gemein. Wir hassen Kriege - Sie sind so teuer!
+WAR_DECLARE_RESPONSE_SURPRISED		;Da muss ein Fehler vorliegen! Was haben wir Dir getan?! Sind wir keine Freunde mehr?
+
+WAR_END					;Wir haben genug in diesem Krieg draufgezahlt - Lassen wir ihn jetzt enden. Was sagst Du dazu?
+WAR_END_ACCEPT				;In Ordnung, wir werden den Krieg sofort beenden - Er hat schon viel zu viel gekostet!
+
+WAR_END_REJECT				;Nein, dieser Krieg wird so lange dauern, bis entweder wir gewonnen oder Du verloren hast!
+
+GIFT_GIVE				;Wir wollen euch {0} Credits schenken.\n\nUnd vergiss nicht: Wenn Geizhälse wie wir jemandem wie euch freiwillig Geld schenken, müssen wir euch wirklich sehr mögen!
+GIFT_THANKS				;Vielen Dank für eure edle Spende!\n\nWir wären froh, wenn es das nächste Mal etwas mehr sein könnte... Nur damit ihr es wisst...
+
+WARNING_INTELLIGENCEMISSIONS		;Wir haben eure tückischen Geheimdienstoperationen gegen uns aufgedeckt!\n\nStelle diese sofort ein, frecher Fremder, oder wir werden sehr wütend und tun schreckliche Dinge!
+WARNING_ATTACKS				;Stelle sofort Deine frechen Angriffe gegen unsere Schiffe und Basen ein!\n\nWenn Du es nicht tust, werden wir Dich mit schlimmen Schimpfwörtern belegen! Oder gar schlimmeres!
+
+WARNING						;Eine Warnung für uns?\n\nNun machs nicht so spannend! Bitte teile Deine Sorgen mit uns.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;Das ist uns neu. Wir haben keine derartigen Missionen gegen Dich beauftragt.\n\nWir werden der Sache auf den Grund gehen und das aufklären.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Verdeckte Missionen gegen Dich?\n\nYDu musst Dich irren? Oder bist Du einfach nur paranoid?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Verdeckte Missionen gegen Dich? Nein, wir glauben nicht, dass das wirklich passiert ist. \n\nWie auch immer, wir können uns nicht derartige Missionen erinnern, wie solche, über die Du hier redest.
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;Nun ja, Du weißt ja, wie es ist: Manchmal sind diese Schiffskommandanten eben ein wenig aufgeregt!\n\nWir werden ihnen ins Gewissen reden. Das sollte nicht wieder vorkommen.
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;Erwartest Du eine Entschädigung irgendwelcher Art? Wenn dem so ist, wir wissen nichts über derartige Vorfälle...
+WARNING_ATTACKS_RESPONSE_ANGRY			;Wir sind ehrlich zu Dir: Wir sind eurer primitiven Spezies überdrüssig.\n\nDie Zielübungen an euren Schiffen nehmen uns etwas von unserem Frust.

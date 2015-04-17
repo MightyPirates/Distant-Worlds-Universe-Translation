@@ -1,0 +1,48 @@
+'Securan Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Willkommen, Besucher aus der Fremde! Wir sind die unbeschwerten Sekuran des Imperiums "{0}".\n\nMachen Sie es sich gemütlich und erzählen Sie uns den Grund Ihres Besuchs.
+GREETING_FRIENDLY				;Was möchten Sie mit uns besprechen, unser lieber Freund?
+GREETING_NEUTRAL				;Gibt es etwas, worüber Sie sprechen möchten?
+GREETING_ANGRY					;Was ist Ihr Anliegen? Schnell - wir haben wenig Zeit für Sie.
+
+OFFER_FREETRADE					;Wir kommen, um Ihnen ein Freihandelsabkommen anzubieten.\n\nDieser Vertrag wäre für unsere beiden Imperien höchst profitabel. Und wir könnten unsere exquisiten Speisen und Weine exportieren!\n\nStimmen Sie zu? 
+FREETRADE_ACCEPT				;Wir nehmen Ihr Angebot zu einem Freihandelsabkommen gerne an!\n\nBitte kosten Sie für den Anfang dieses köstliche Bakdur-Steak, das wir Ihnen geschickt haben!
+FREETRADE_REJECT				;Bedauerlicherweise ist uns ein Freihandelsabkommen momentan nicht dienlich. Vielleicht ändern wir aber zu einem späteren Zeitpunkt unsere Meinung.
+
+CANCELTREATY					;Wir haben genug von unserer Vereinbarung ({0}) mit Ihnen. Dieser Vertrag ist hiermit ungültig.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wie bedauerlich, dass Sie unsere Freundschaft nicht mehr länger schätzen. Aber das ist Ihre Entscheidung.
+CANCELTREATY_RESPONSE_NEUTRAL			;Verträge kommen und gehen. Aber wichtige Dinge bleiben: Singen und Tanzen, Speis und Trank.
+CANCELTREATY_RESPONSE_ANGRY			;Kein Verlust für uns - es war sowieso ein wertloser Vertrag. Ganz ähnlich Ihrem wertlosen kleinen Imperium!
+
+TREATY_PROPOSAL					;Was haben Sie vorzuschlagen?
+TREATY_ACCEPTRESPONSE				;Ihre Zustimmung macht uns überglücklich! Zu Ehren dieses großartigen Anlasses wollen wir nun ein Lied komponieren!
+TREATY_REJECTRESPONSE				;Wie typisch! Sie sind ein unsympathischer Haufen, nicht?
+
+TRADESANCTIONS_IMPOSE				;Wir haben etwas für Sie zubereitet: Handelssanktionen!\n\nIhre Provokationen haben uns gezwungen, jeglichen Handel zwischen unseren zwei Imperien einzustellen.\n\nHoffentlich wird Sie diese Lektion lehren, sich zivilisiert zu verhalten.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Sie sind ein ziemlich übler kleiner Despot, nicht wahr?\n\nAber wir lassen uns nicht durch bloße Handelssanktionen kleinkriegen!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Ihre erbärmlichen Handelssanktionen beeindrucken uns nicht.\n\nWir werden Sie ab jetzt ignorieren...
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wieso verhängen Sie Handelssanktionen gegen Ihre Freunde?\n\nSie können das doch nicht ernst meinen...
+TRADESANCTIONS_LIFT				;Wir haben beschlossen, die Handelssanktionen gegen Sie aufzuheben.\n\nDer normale Handel wird wieder aufgenommen.
+TRADESANCTIONS_LIFT_RESPONSE			;Wir wussten, Sie würden es nicht lange ohne unser vorzügliches Bakdur-Steak aushalten!\n\nLassen Sie sich das eine Lehre sein.
+
+WAR_DECLARE					;Mit großer Trauer müssen wir Ihnen Folgendes mitteilen: Ab sofort herrscht zwischen uns Krieg.\n\nWir müssen Ihren verräterischen Aktivitäten ein für alle Mal ein Ende bereiten!
+WAR_DECLARE_RESPONSE_EAGER			;Eine weitere Ihrer unklugen Entscheidungen!\n\nDieser Krieg wird Ihr Ende sein! Bereiten Sie sich auf Ihre Vernichtung vor!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Wir werden mit Tapferkeit und Stärke kämpfen!\n\nSie sind es, die leiden werden, nicht wir.
+WAR_DECLARE_RESPONSE_SURPRISED			;Was?! Sind wir nicht mehr länger Freunde?\n\nDa muss ein Fehler vorliegen...
+
+WAR_END						;Wir bitten Sie eingehend, diesen zwecklosen Krieg zwischen uns zu beenden.\n\nWas ist Ihre Antwort?
+WAR_END_ACCEPT					;Wir stimmen zu - lassen Sie uns diesen Krieg unverzüglich beenden.\n\nUnsere Streitkräfte werden zu ihren Basen zurückkehren.
+WAR_END_REJECT					;Nein - wir werden weiterkämpfen, bis Ihr niederträchtiges Imperium zerschmettert ist!
+
+GIFT_GIVE					;Wir überreichen Ihnen voller Freude ein Geschenk von {0} Credits.\n\nMöge unsere Freundschaft weiter gedeihen.
+GIFT_THANKS					;Danke für Ihr Geschenk, wir wissen es sehr zu schätzen.
+
+WARNING							;Eine Warnung für uns? Wir fragen uns, was der Grund sein könnte.
+WARNING_INTELLIGENCEMISSIONS				;Wir haben genug von Ihren verräterischen Geheimmissionen!\n\nSetzen Sie ihnen sofort ein Ende, Sie erbärmlicher Wurm!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir sind uns keiner Missionen gegen Sie bewusst, mein Freund, aber wir werden der Sache unverzüglich nachgehen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Wir versichern Ihnen, dass wir diesen Vorfall überprüfen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen? Was für Missionen? Wenn es welche gäbe, würden wir sicherlich nicht mit Ihnen darüber sprechen. Aber es gibt ohnehin keine Missionen... also hören Sie auf, so paranoid zu sein!
+WARNING_ATTACKS						;Ihre grundlosen militärischen Angriffe entflammen unsere Wut!\n\nSchüren Sie dieses Feuer nicht noch mehr oder es wird Sie verzehren!
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Wie schrecklich, bitte nehmen Sie unsere aufrichtige Entschuldigung für jede übereifrige Tat unserer Militärkommandanten an.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Wir werden diesen Vorfall untersuchen und uns um den angreifenden Militärkommandanten kümmern.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe? Wir würden unsere Zeit nicht mit Angriffen gegen ein erbärmliches Imperium wie das Ihre verschwenden.

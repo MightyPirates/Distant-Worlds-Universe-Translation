@@ -1,0 +1,48 @@
+'Kiadian Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Willkommen, Besucher!\n\nWir sind die stolzen und feinfühligen Kiadian des Imperiums "{0}".\n\nKönnen wir etwas für Sie tun?
+GREETING_FRIENDLY				;Was verschafft uns das Vergnügen Ihrer Gesellschaft, Freund?
+GREETING_NEUTRAL				;Was sollen wir besprechen?
+GREETING_ANGRY					;Erklären Sie Ihre Anwesenheit hier.
+
+OFFER_FREETRADE					;Wir wären geehrt, wenn Sie mit uns ein Freihandelsabkommen eingingen.\n\nWas meinen Sie?
+FREETRADE_ACCEPT				;Ihr Angebot über ein Freihandelsabkommen ist ausgesprochen sinnvoll. Wir stimmen zu.
+FREETRADE_REJECT				;Es tut uns leid, aber wir können zu diesem Zeitpunkt kein Freihandelsabkommen eingehen.
+
+CANCELTREATY					;Nach sorgfältiger Überlegung haben wir uns entschieden, dass wir unsere Abmachung ({0}) mit Ihnen nicht länger einhalten können.\n\nDieser Vertrag ist hiermit ungültig.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wir sind überrascht und ein wenig besorgt angesichts Ihrer irrationalen Auflösung dieses Vertrags.\n\nAber das ist Ihre Entscheidung.
+CANCELTREATY_RESPONSE_NEUTRAL			;Wir finden Ihren Mangel an Hingabe beunruhigend...
+CANCELTREATY_RESPONSE_ANGRY			;Die Auflösung dieses Vertrags ist mehr zu Ihrem Schaden als zu unserem...
+
+TREATY_PROPOSAL					;Was genau schlagen Sie vor?
+TREATY_ACCEPTRESPONSE				;Ihre Zustimmung ehrt uns.\n\nMöge dieses Abkommen stark und profitabel sein!
+TREATY_REJECTRESPONSE				;Wie enttäuschend...
+
+TRADESANCTIONS_IMPOSE				;Sie lassen uns keine andere Wahl, als Handelssanktionen gegen Sie zu verhängen.\n\nWir hoffen, dass Sie noch Vernunft annehmen, doch bis dahin wird jeglicher Handel zwischen unseren beiden Imperien eingestellt.
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Unser Verdacht hat sich bewahrheitet: Sie handeln ehrlos.
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Sie sollten vorsichtig sein und sich nicht mehr zumuten, als es Ihre Fähigkeiten erlauben...
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Wir sind zutiefst bestürzt über Ihren Verrat!\n\nSind Sie sich ganz sicher?
+TRADESANCTIONS_LIFT				;Unsere Handelssanktionen gegen Sie wurden aufgehoben.\n\nDer normale Handel zwischen uns wird wieder aufgenommen.
+TRADESANCTIONS_LIFT_RESPONSE			;Wir begrüßen die Rückkehr zu einem offenen und freien Handelsverhältnis mit Ihnen.
+
+WAR_DECLARE					;Wir können Ihre grausame Tyrannei nicht länger dulden. Deswegen erklären wir Ihrem niederträchtigen Imperium den KRIEG.\n\nWir werden Ihre kriminellen Machenschaften beenden!
+WAR_DECLARE_RESPONSE_EAGER			;Sie haben das Feuer entzündet, aber es werden SIE sein, die davon verzehrt werden!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Ihre Vermessenheit entbehrt jeder Grundlage - dies wird nicht gut für Sie enden.
+WAR_DECLARE_RESPONSE_SURPRISED			;Wir sind schockiert von Ihrem unehrenhaften Verrat!\n\nWir werden Ihnen diese Heimtücke niemals vergeben!
+
+WAR_END						;Dieser Krieg nimmt einfach kein Ende.\n\nWir ordnen einen Waffenstillstand an, stimmen Sie zu?
+WAR_END_ACCEPT					;Wir stimmen einem Waffenstillstand zu. Unsere Streitkräfte stellen sofort das Feuer ein.
+WAR_END_REJECT					;Nein, dieser Krieg wird weitergehen.
+
+GIFT_GIVE					;Wir schicken Ihnen ein Geschenk von {0} Credits.\n\nMöge es die guten Beziehungen zwischen unseren zwei großartigen Imperien begünstigen.
+GIFT_THANKS					;Danke für Ihr Geschenk. Es war eine freundliche Geste.
+
+WARNING							;Eine Warnung für uns? Was soll das?
+WARNING_INTELLIGENCEMISSIONS				;Wir sind uns Ihrer Geheimmissionen gegen uns bewusst. Unterlassen Sie sie sofort oder stellen Sie sich den Konsequenzen!
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Geheimmissionen gegen unsere Freunde? Das erscheint uns sehr zweifelhaft.\n\nNichtsdestotrotz werden wir Ihren Anschuldigungen nachgehen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Danke für Ihre Warnung.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen gegen Sie?\n\nWieso sollten wir so etwas tun?\n\nVielleicht sollten Sie über diese Frage einmal nachdenken...
+WARNING_ATTACKS						;Ihre unverschämten militärischen Angriffe gegen uns müssen unverzüglich aufhören!\n\nWir warnen Sie: Wir werden unser Territorium mit tödlicher Kampfkraft verteidigen!
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Diese Neuigkeiten sind zutiefst verstörend! Bitte nehmen Sie unsere aufrichtige Entschuldigung an.\n\nSie können sicher sein, dass wir uns der abtrünnigen Militärkommandanten, die in diese abscheulichen Taten verwickelt sind, annehmen werden.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Wir werden dieser Sache nachgehen und angemessen reagieren.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Bei dem geringen Abstand zwischen unseren beiden Streitkräften ereignen sich nun einmal von Zeit zu Zeit Unfälle.\n\nWir schlagen daher vor, dass Sie Ihre Truppen abziehen.

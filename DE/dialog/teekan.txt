@@ -1,0 +1,49 @@
+'Teekan Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Willkommen! Wir sind das Imperium "{0}".\n\nWir gerne Maschinen reparieren und Bakdurs jagen.\n\nWir mögen nicht Bäder oder völkermordende Diktatoren.
+GREETING_FRIENDLY				;Willkommen in unserem bescheidenen Lager, Freund!\n\nWorüber wir reden?
+GREETING_NEUTRAL				;Was können wir tun für Sie?
+GREETING_ANGRY					;Nicht glücklich, Sie zu sehen, kapiert?\n\nAlso machen Sie schnell.
+
+OFFER_FREETRADE					;Wir machen Freihandelsabkommen mit Ihnen! Gute Idee, hmmm?\n\nSagen Sie ja!
+FREETRADE_ACCEPT				;Jippiiiieh für Freihandelsabkommen! Wir nehmen an!\n\nBleiben Sie für Fest, ja?
+FREETRADE_REJECT				;Nein, wollen Ihr Freihandelsabkommen nicht. Es ist nicht gut für uns.
+
+CANCELTREATY					;{0} mit Ihnen ist jetzt nicht gut. Alles vorbei.
+CANCELTREATY_RESPONSE_FRIENDLY			;Sie haben aufgehört, uns zu mögen? Wie reparieren wir?\n\nWir nehmen sogar Bad, wenn Sie wollen.
+CANCELTREATY_RESPONSE_NEUTRAL			;Hm? Sie mögen uns jetzt nicht?\n\nNa gut.
+CANCELTREATY_RESPONSE_ANGRY			;Kein Vertrag jetzt?\n\nNa ja, wir dachten sowieso, Sie sehen komisch aus. Sie haben keinen Geruch! Und zu sauber.
+
+TREATY_PROPOSAL					;Oooh, Vertrag! So aufregend!\n\nGut, wir hören nun zu. Sagen Sie uns Plan.
+TREATY_ACCEPTRESPONSE				;Juhuu! Neuer Freund!\n\nHaben Sie kaputten Ramsch, den Sie nicht wollen? Wir nehmen ihn für Sie, ja?
+TREATY_REJECTRESPONSE				;Zu schade. Wir haben Feier schon vorbereitet.\n\nAber nicht jetzt.
+
+TRADESANCTIONS_IMPOSE				;Wir mögen Sie jetzt nicht. Also Handelssanktionen gegen Sie!\n\nKein Bakdur-Fleisch mehr für Sie!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Yiiieh! Wir sehr wütend auf Sie!\n\nGroßer Ärger für geruchloses Volk!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Aaak! Das nicht gut. Sie sind nicht fair mit uns!
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Sie großer Fiesling! Wir freundlich zu Ihnen, aber Sie böse zu uns.\n\nGibt keinen Sinn.
+TRADESANCTIONS_LIFT				;Wir handeln jetzt wieder mit Ihnen.\n\nBrauchen mehr kaputten Ramsch, also schicken Sie uns welchen, ja?
+TRADESANCTIONS_LIFT_RESPONSE			;Sie ändern immer Meinung.\n\nAber wir glücklich, Handel ist gut.
+
+WAR_DECLARE					;Sie machen uns sehr wütend! Wir KRIEG über Sie!\n\nPassen Sie auf: Große Jagdschiffe kommen zu Ihnen!
+WAR_DECLARE_RESPONSE_EAGER			;Wir froh, Sie zu bekämpfen! Sie zu sauber, haben keinen Geruch!\n\nSie müssen gejagt werden.
+WAR_DECLARE_RESPONSE_NEUTRAL			;Na gut. Wir prügeln Sie jetzt!
+WAR_DECLARE_RESPONSE_SURPRISED			;Krieg, sagen Sie? Nicht gut!\n\nGibt keinen Sinn.
+
+WAR_END						;Krieg nicht gut. Wir hören jetzt auf.\n\nSie auch?
+WAR_END_ACCEPT					;Gut, Krieg vorbei.\n\nSowieso bald Bakdur-Jagdsaison.
+WAR_END_REJECT					;Sie hatten genug Kampf?\n\nWir nicht! Wir jagen Sie weiter!
+
+GIFT_GIVE					;Für Sie: {0} Credits.\n\nHaben Sie gute Zeit, ja?
+GIFT_THANKS					;Sie geben uns Geschenk! Danke.
+
+WARNING_INTELLIGENCEMISSIONS			;Sie betrügerische Schlange! Sie machen mit uns geheime gruselige Sachen!\n\nNicht froh über betrügerisches Zeug! Hören Sie auf, oder sonst...!
+WARNING_ATTACKS					;Sie verrückter Fremder! Hören Sie auf, uns anzugreifen!\n\nWir jagen Sie sonst!
+
+WARNING							;Wofür die Warnung?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Missionen? Was ist das?\n\nKeine Missionen gegen Sie. Sie haben Unrecht.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Wir überprüfen Missionen. Nicht sicher, ob wir geschickt haben.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Ja, wir schicken Missionen. Wir mögen Sie nicht - Sie riechen nach nichts!\n\nWir schicken mehr Missionen, wenn Sie uns weiter Angst machen.
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Das sehr schlecht. Tut uns leid.\n\nWir befehlen verrückten Schiffkommandanten, jetzt aufzuhören.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Das nicht gut.\n\nWir überprüfen Dinge. Rausfinden, was passiert ist, ja?
+WARNING_ATTACKS_RESPONSE_ANGRY				;Ja, wir schicken Angriffe gegen Sie. Unsere Schiffe jagen Sie, weil Sie gemein.\n\nHören Sie auf, irre böse zu sein, dann beenden wir Angriffe, ja?

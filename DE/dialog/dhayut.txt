@@ -1,0 +1,58 @@
+'Dhayut Dialog - GERMAN
+
+GREETING_INTRODUCTION				;Wir sind das Imperium "{0}".\n\nWir fürchten niemanden. Wir verteidigen unser Territorium mit Mut. Provozieren Sie uns nicht.
+GREETING_FRIENDLY				;Teilen Sie uns Ihre Gedanken mit, Verbündeter.
+GREETING_NEUTRAL				;Haben Sie etwas zu sagen?
+GREETING_ANGRY					;Sprechen Sie schnell, Ihre bloße Anwesenheit ist uns ein Ärgernis!
+
+PIRATE_PROTECTIONPROPOSE			;Sie suchen Schutz?\n\nFür die kleine, unten abgebildete Gebühr können wir alle Ihre Schiffe in unserer Region sechs Monate lang „beschützen“.
+PIRATE_PROTECTIONPROPOSEINITIATE		;Die Galaxie kann ein dunkler, gefährlicher Ort sein. Ohne angemessenen Schutz besteht das Risiko, dass Sie verletzt werden.\n\nWir könnten sicherstellen, dass Ihren Schiffen nichts geschieht, solange Sie in unserem Territorium Handel treiben.\n\nDie Gebühr für sechsmonatigen Schutz ist unten abgebildet.
+
+PIRATE_PROTECTIONACCEPTRESPONSE			;Sie haben eine gute Wahl getroffen!\n\nSie können nun sechs Monate lang sorgenfrei mit allen Ihren Schiffen Handel treiben.
+PIRATE_PROTECTIONREJECTRESPONSE			;Wenn Sie nicht zahlen, könnten schlimme Dinge passieren.\n\nDas wäre tragisch.
+PIRATE_ATTACKOFFER_SINGLEEMPIRE			;Sie verstehen sich nicht besonders gut mit dem Imperium "{0}". Wir könnten Ihnen bei diesem Problem helfen, indem wir dem Imperium "{0}" einige empfindliche Verluste zufügen.\n\nSie werden nicht wissen, wie ihnen geschieht!\n\nBezahlen Sie uns einfach {1} Credits und lassen Sie uns die Sache für Sie regeln.\n\nKommen wir ins Geschäft?
+PIRATE_ATTACKCOMMENCE				;Geldtransfer erfolgreich.\n\nUnsere Angriffe auf das Imperium "{0}" werden sofort eingeleitet!
+
+
+OFFER_FREETRADE					;Wir bieten Ihnen ein Freihandelsabkommen. Die Profite könnten enorm sein!\n\nStimmen Sie zu?
+FREETRADE_ACCEPT				;Dieses Freihandelsabkommen klingt höchst profitabel! Wir nehmen an!
+FREETRADE_REJECT				;Wir wünschen kein Freihandelsabkommen mit Ihnen. Sie sind zu schwach, um uns von Nutzen zu sein.
+
+CANCELTREATY					;Diese Vereinbarung ({0}) zahlt sich für uns nicht länger aus. Wir beenden die Sache.
+CANCELTREATY_RESPONSE_FRIENDLY			;Wie bedauerlich.\n\nWir haben diesen Vertrag hoch geschätzt. Sie hingegen scheinbar nicht.
+CANCELTREATY_RESPONSE_NEUTRAL			;Also gut. Der Vertrag ist beendet.
+CANCELTREATY_RESPONSE_ANGRY			;Haha, soll uns das erschrecken? Wir können Ihnen zeigen, was echte Furcht ist.\n\nFordern Sie uns nicht heraus!
+
+TREATY_PROPOSAL					;Tragen Sie Ihr Angebot vor. Wir hören.
+TREATY_ACCEPTRESPONSE				;Gut, gut. Wir heißen unsere neuen Verbündeten willkommen!
+TREATY_REJECTRESPONSE				;Das ist Ihre Wahl. Wenn auch eine schlechte.
+
+TRADESANCTIONS_IMPOSE				;Nun sollen Sie unseren Zorn spüren! Wir lösen sofort alle Verträge zwischen unseren Imperien auf!\n\nWir werden ja sehen, wie Ihnen unsere Handelssanktionen gefallen!
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY		;Wie können Sie es wagen, uns derartig abzusägen?\n\nSie werden unseren Zorn spüren, wir lassen uns das nicht bieten!
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL		;Sparen Sie sich Ihre lästigen Reden für jemand anderen auf.\n\nSie als Handelspartner zu verlieren, tut uns nicht weh. Wir sind stark.
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED		;Handelssanktionen?! Sind Sie sich sicher?\n\nVielleicht sollten Sie diese törichte Entscheidung noch einmal überdenken...
+TRADESANCTIONS_LIFT				;Wir beenden die Handelssanktionen gegen Sie und nehmen den normalen Handel wieder auf.\n\nVerärgern Sie uns nicht noch einmal.
+TRADESANCTIONS_LIFT_RESPONSE			;Verfahren Sie, wie es Ihnen beliebt. Ihr Tun berührt uns nicht.
+
+WAR_DECLARE					;Genug der Provokationen - der Zorn wallt in uns auf!\n\nWir bringen KRIEG über Ihr erbärmliches Imperium! Wir setzen Ihren Machenschaften ein Ende.
+WAR_DECLARE_RESPONSE_EAGER			;Wir heißen den Krieg mit Ihnen willkommen! Nun können wir Sie ein für alle Mal eliminieren!
+WAR_DECLARE_RESPONSE_NEUTRAL			;Das wird nicht gut für Sie ausgehen.\n\nRüsten Sie Ihre Verteidigung - Sie werden sie brauchen!
+WAR_DECLARE_RESPONSE_SURPRISED			;Wir haben einen solchen Verrat nicht von Ihnen erwartet.\n\nAber nun haben Sie Ihr Schicksal besiegelt: Wir werden Ihre wertlose Zivilisation auslöschen.
+
+WAR_END						;Unser Zorn ist verflogen. Nun ist es Zeit, diesen Krieg zu beenden.\n\nWas meinen Sie?
+WAR_END_ACCEPT					;Ja, wir stimmen zu, diesen Krieg zu beenden. Zumindest fürs Erste...
+WAR_END_REJECT					;Nein, wir genießen diesen Krieg viel zu sehr, um ihn zu beenden!
+
+GIFT_GIVE					;Wir geben Ihnen {0} Credits. Sind wir nicht großzügig?
+GIFT_THANKS					;Ein Geschenk? Für uns? Wie wundervoll! Danke.
+
+WARNING_INTELLIGENCEMISSIONS				;Ihre Geheimmissionen verärgern uns maßlos!\n\nStellen Sie sie unverzüglich ein oder machen Sie sich auf eine schmerzvolle Antwort gefasst!
+WARNING_ATTACKS						;Weshalb attackieren Sie unsere Schiffe?!\n\nHören Sie auf! Wir sind wütend, wütend, WÜTEND!
+
+WARNING							;Was soll diese Warnung?
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY		;Wir wissen von keinen Missionen gegen Sie, Freund.\n\nAber wir wissen auch nicht immer, was in unserem gewaltigen Imperium vor sich geht.\n\nWir werden uns der Sache für Sie annehmen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL		;Wir werden Ihren Anschuldigungen nachgehen.
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY		;Geheimmissionen? Ja, wir mögen Sie einfach nicht.\n\nSie können mit weiteren rechnen und hoffentlich decken Sie die nächsten nicht mehr auf...
+WARNING_ATTACKS_RESPONSE_FRIENDLY			;Wir bitten um Entschuldigung: Einige unserer Raumschiffkommandanten haben sich wohl hinreißen lassen.\n\nWir stellen sicher, dass das nicht nochmal passiert.
+WARNING_ATTACKS_RESPONSE_NEUTRAL			;Das ist höchst besorgniserregend. Wir werden diese Angelegenheit untersuchen.
+WARNING_ATTACKS_RESPONSE_ANGRY				;Angriffe? Ja, wir haben diese Angriffe veranlasst.\n\nÜberrascht Sie das? Dachten Sie etwa, wir können Sie leiden?
