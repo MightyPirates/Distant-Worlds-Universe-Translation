@@ -1,0 +1,63 @@
+'Races file - Distant Worlds 1.5.0.0
+
+'You may modify existing races defined in this file, BUT do NOT add NEW races OR change the ORDER of races in this file
+'Place your modified race file in the 'Customization' folder - do NOT overwrite the original file in the game folder
+
+'Each race line below is comprised of comma-separated data as follows:
+' - Name: name of the race
+' - Picture index: index of picture used for this race from race pictures contained in Images\units\races\ folder or Customization\YourTheme\raceImages\ folder
+' - Race Family: 0=Humanoid, 1=Ursidian, 2=Insectoid, 3=Reptilian, 4=Amphibian, 5=Rodent, 6=Machine
+' - Reproduction rate: base rate of population growth. This rate is also modified by other external factors
+' - Intelligence: intelligence level (normal = 100). This factor influences research rate and smartness of interaction with other empires
+' - Aggression: aggression level (normal = 100). This factor influences interaction with other empires, level of military ship building
+' - Caution: caution level (normal = 100). This factor influences interaction with other empires, level of military ship building
+' - Friendliness: friendliness level (normal = 100). This factor influences likelihood of forming treaties with other empires and general interaction with other empires
+' - Loyalty: loyalty level (normal = 100). This factor influences how likely to stick to treaties with other empires
+' - Designs picture family index: index of default ships pictures used for this race from ship pictures contained in Images\units\ships\ folder or Customization\YourTheme\shipImages\ folder
+' - Design names index: index into default design names
+' - Ship Maintenance Savings: percentage rate of savings on maintenance costs for ships and bases
+' - Troop Maintenance Savings: percentage rate of savings on maintenance costs for troops
+' - Resource Extraction Bonus: percentage rate of speed increase for all mining operations
+' - War Weariness Attenuation: percentage rate of reduction in war weariness
+' - Satisfaction Modifier: percentage rate of happiness bonus at colonies
+' - Research Bonus: percentage rate of speed increase for research
+' - Espionage Bonus: percentage rate of skill bonus for all intelligence missions
+' - Trade Bonus: percentage rate of bonus for colony income
+' - Overall Ship Design Focus: 0=Balanced, 1=Speed/Agility, 2=Power, 3=Efficiency
+' - Tech Focus 1: 0=None, 1=Beams, 2=Torpedoes, 3=Missiles, 4=Area Weapons, 5=Ion Weapons, 6=Fighters, 7=Shields, 8=Reactors, 9=Engines, 10=HyperDrives, 11=Hyper Disruption, 12=Construction, 13=Computers, 14=Sensors
+' - Tech Focus 2: 0=None, 1=Beams, 2=Torpedoes, 3=Missiles, 4=Area Weapons, 5=Ion Weapons, 6=Fighters, 7=Shields, 8=Reactors, 9=Engines, 10=HyperDrives, 11=Hyper Disruption, 12=Construction, 13=Computers, 14=Sensors
+' - Native planet type: 0=Continental, 1=MarshySwamp, 2=Desert, 3=Ocean, 4=Ice, 5=Volcanic
+' - Special Component: 0=None, 1=Death Ray, 2=Devastator Pulse, 3=Super Laser, 4=StarBurner XX-12, 5=TurboThruster ER7, 6=Swift Vector 5000, 7=Megatron Z4, 8=NovaCore NX-700, 9=VelocityDrive ST3, 10=ShadowGhost ECM 2000, 11=Shaktur FireStorm, 12=High Density Fuel Cell, 13=S2F7 RepairBot, 14=PulseWave Cannon, 15=Raptor Targetting System
+' - Special Government: 0=None, 1=Technocracy, 2=HiveMind, 3=MercantileGuild, 4=UtopianParadise, 5=Way of the Ancients, 6=Way of Darkness
+' - Preferred Starting Government: 0=No preference, 1=Technocracy, 2=HiveMind, 3=MercantileGuild, 4=UtopianParadise, 5=Way of the Ancients, 6=Way of Darkness, 7=Despotism, 8=Feudalism, 9=Monarchy, 10=Republic, 11=Democracy, 12=Military Dictatorship
+' - Expanding: indicates whether this race will colonize new planets or not (Y/N). Set this to 'N' to create a static empire that does not colonize
+' - Can be Pirate: indicates whether this race can be a pirate faction or not (Y/N)
+' - Playable: indicates whether this race can be selected by the player as their empire's race at start of game or not (Y/N)
+' - Default primary color: 0-19
+' - Default secondary color: 0-20
+' - Default flag design: 0-38
+' - Home system name
+' - Troop name: default troop name, e.g. if 'Strike Battalion' then troops named '1st Strike Battalion', etc
+
+Ketarov,   0,  1, 1.12, 115, 60, 117, 90, 70,    4, 1, 0, 0, 0, 0, 0, 0, 50, 0,		0, 14, 0, 1, 0, 0, 0,	Y, N, Y,	5, 9, 6, Ketaros, Ketarov Battle Group
+Atuuk,     1,  1, 1.24, 50, 115, 40, 138, 125,   5, 12, 0, 0, 0, 0, 30, 0, 0, 0,	2, 3, 0, 0, 0, 0, 0,	Y, Y, Y,	4, 14, 7, Atuuko, Angry Hunting Party
+Gizurean,  2,  2, 1.27, 84, 110, 116, 70, 80,    8, 7, 35, 0, 0, 0, 0, 0, 0, 0,		1, 5, 0, 5, 0, 2, 2,	Y, N, Y,	8, 11, 38, Gizurea, Gizurean War Swarm
+Dhayut,    3,  2, 1.06, 106, 119, 95, 65, 70,    7, 2, 0, 0, 0, 50, 0, 0, 0, 0,		0, 10, 0, 2, 9, 0, 0,	Y, Y, Y,	10, 20, 36, Dhayu, Dhayut Mercenary Trooper
+Human,     4,  0, 1.14, 110, 110, 110, 110, 120, 0, 0, 0, 0, 0, 0, 0, 15, 15, 0,	0, 6, 0, 0, 0, 0, 0,	Y, N, Y,	1, 20, 18, Sol, Strike Trooper Battalion
+Quameno,   5,  4, 1.09, 135, 70, 117, 75, 130,   2, 4, 0, 0, 0, 0, 0, 40, 0, 0,		3, 8, 0, 3, 8, 1, 1,	Y, N, Y,	19, 11, 24, Quameno, Quameno BattleMech
+Mortalen,  6,  3, 1.11, 105, 127, 92, 80, 80,    7, 5, 0, 25, 0, 35, 0, 0, 0, 0,	2, 9, 0, 2, 6, 0, 0,	Y, Y, Y,	11, 14, 12, Mortalu, Mortalen Conqueror
+Ackdarian, 7,  4, 1.14, 110, 80, 122, 110, 120,  6, 6, 20, 0, 0, 0, 0, 10, 0, 0,	1, 9, 0, 3, 5, 0, 0,	Y, N, Y,	3, 1, 16, Ackdar, Ackdar Defender
+Haakonish, 8,  3, 1.12, 110, 113, 125, 75, 80,   8, 13, 20, 0, 0, 0, 0, 0, 10, 0,	0, 11, 0, 1, 12, 3, 3,	Y, N, Y,	14, 12, 31, Haako, Haakonish Battlematon
+Naxxilian, 9,  3, 1.18, 97, 121, 125, 88, 112,   2, 5, 0, 40, 0, 0, 0, 0, 0, 0,		0, 2, 0, 4, 0, 0, 0,	Y, Y, Y,	17, 8, 15, Naxxil, Naxxil Fighting Squad
+Zenox,     10, 5, 1.13, 115, 90, 129, 87, 105,   4, 9, 10, 0, 0, 0, 20, 0, 0, 0,	3, 7, 0, 0, 7, 1, 1,	Y, N, Y,	13, 20, 1, Zenox, Zenox RoboGuard
+Teekan,    11, 5, 1.15, 88, 63, 86, 107, 142,    3, 12, 0, 0, 40, 0, 0, 0, 0, 20,	0, 5, 0, 2, 0, 3, 3,	Y, Y, Y,	12, 9, 29, Teeka, Teekan Trapper Group
+Wekkarus,  12, 4, 1.12, 101, 80, 107, 71, 90,    6, 11, 0, 0, 20, 0, 0, 0, 0, 25,	1, 1, 0, 3, 14, 0, 0,	Y, N, Y,	7, 12, 20, Wekkaru, Wekkaru Guardian
+Boskara,   13, 2, 1.18, 100, 140, 72, 84, 80,    1, 3, 0, 25, 0, 70, 0, 0, 0, 0,	2, 2, 0, 5, 11, 2, 2,	Y, Y, Y,	16, 20, 3, Boskar, Boskaran Executioner
+Shandar,   14, 3, 1.16, 96, 84, 116, 103, 109,   3, 9, 0, 0, 0, 0, 40, 0, 0, 0,		0, 3, 0, 5, 0, 4, 4,	Y, N, Y,	9, 12, 14, Shandar, Shandar Protector
+Ugnari,    15, 5, 1.09, 94, 76, 81, 108, 70,     5, 2, 0, 0, 30, 0, 10, 0, 0, 0,	0, 13, 0, 4, 15, 3, 3,	Y, N, Y,	18, 11, 11, Ugnar, Ugnari WarBot
+Kiadian,   16, 0, 1.13, 128, 100, 125, 105, 137, 0, 8, 10, 0, 0, 0, 0, 20, 0, 0,	1, 13, 3, 0, 10, 0, 0,	Y, N, Y,	0, 3, 13, Kiadia, Kiadian Strike Trooper
+Sluken,    17, 2, 1.16, 108, 123, 103, 82, 80,   1, 3, 0, 20, 0, 40, 0, 0, 0, 0,	2, 9, 0, 1, 4, 2, 2,	Y, Y, Y,	15, 8, 17, Slukis, Sluken Terminator
+Securan,   18, 0, 1.23, 102, 73, 91, 110, 125,   7, 10, 0, 0, 0, 0, 50, 0, 0, 0,	0, 11, 0, 2, 0, 4, 4,	Y, N, Y,	2, 8, 25, Secura, Securan Assassin
+Ikkuro,    19, 1, 1.12, 114, 115, 111, 92, 114,  5, 5, 10, 30, 0, 0, 0, 0, 0, 10,	3, 12, 0, 0, 13, 0, 0,	Y, Y, Y,	6, 4, 34, Ikkuro, Ikkuro Strike Commando
+Shakturi,  20, 2, 1.19, 128, 150, 65, 65, 70,    9, 13, 20, 20, 0, 90, 0, 0, 0, 0,	2, 2, 0, 2, 11, 6, 6,	Y, N, N,	22, 19, 40, Shaktur, Shakturi Slayer
+Mechanoid, 21, 6, 1.07, 140, 50, 140, 60, 150,   10, 6, 20, 0, 0, 100, 50, 0, 0, 0,	0, 5, 11, 0, 0, 5, 5,	N, N, N,	21, 4, 39, Utopia, Mechanoid Guardian

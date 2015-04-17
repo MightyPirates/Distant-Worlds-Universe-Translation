@@ -1,0 +1,46 @@
+'Design names
+
+'Each line is a single "family" of design names used by a single empire - there should ALWAYS be 14 families, each on a separate line
+'If you modify this file, place your modified version in the 'Customization' folder - do NOT overwrite the original file in the game folder
+
+'0
+Excelsior, Titan, Colossia, Striker, Thunder, Royale, Centurion, Consul, Senator, Praetor, Quaestor, Imperator, Maximus, Praefectus, Tetrarch, Decimator, Argossia, Apulon, Battleaxe, Javelin, Trident, Shadow, Cossack, Minotaur, Medusa, Victory, Vengeance, Eclipse, Enforcer, Sovereign, Executor, Venator, Dominator, Allegiance, Decurion, Sabre
+
+'1
+Kazan, Ostrov, Kirov, Astrakhan, Ivanov, Vasil, Murmansk, Batumi, Rostov, Vostok, Stavropol, Omsk, Novgorod, Leningrad, Chelyabinsk, Kharkov, Kiev, Minsk, Volgograd, Odessa, Ufa, Gorkiy, Vilnius, Smolensk, Sevastopol, Donetsk, Grozny, Tula, Zhitomir, Yekaterinburg, Kamchatka, Khabarovsk, Vladivostok, Severnaya, Saratov, Sibirskaya
+
+'2
+Dessau, Munich, Dresden, Kiel, Kassel, Graz, Linz, Montreux, Westfalen, Osnabruck, Brandenburg, Ingolstadt, Dortmund, Stuttgart, Teuton, Eindhoven, Koblenz, Heidelberg, Hannover, Lubeck, Berlin, Munich, Hamburg, Frankfurt, Innsbruck, Zurich, Dachau, Baden, Kufstein, Klagenfurt, Stralsund, Wismar, Dusseldorf, Hagen, Lindau, Bremen
+
+'3
+Constantia, Stara Zagora, Oradea, Foscani, Satu Mare, Napoca, Zalau, Rimnicu, Varna, Negru Voda, Medias, Venezia, Rovigo, Rimini, Brindisi, Cosenza, Capri, Livorno, Alassio, Macerata, Taranto, Salerno, Bergamo, Imperia, Barcelona, Valencia, Cartagena, Zaragoza, Lerida, Montblanc, Toledo, Portalegre, Sintra, Segovia, Legrono, Agricento
+
+'4
+Kobe, Sendai, Sapporo, Yokohama, Hiroshima, Shikoku, Kagoshima, Nara, Ise, Fujiyama, Yokosuka, Sasebo, Niigata, Shibata, Sakata, Hirosaki, Morioka, Ishinomaki, Iwaki, Shinjuku, Nakano, Ikejiri, Osaka, Himeji, Hamamatsu, Otaru, Hokkaido, Aomori, Kumamoto, Nagasaki, Kyoto, Tokyo, Hirosaki, Nakatsugawa, Shizuoka, Senkaku
+
+'5
+Isfahan, Shiraz, Bushehr, Tabriz, Mashhad, Ashkhabad, Hamadan, Yerevan, Ahvaz, Sanandaj, Kashan, Ankara, Trabzon, Istanbul, Tarsus, Adana, Mersin, Izmir, Iskenderun, Sarikamis, Hakkari, Ordu, Mosul, Nasiriyah, Aleppo, Malatya, Baku, Baqubah, Abadan, Rutbah, Ramadi, Bubiyan, Astara, Latakia, Zagros, Arak
+
+'6
+Deliverance, Axos, Arcadia, Atlantis, Equinox, Epsilon, Meridian, Nimitz, Phoenix, Raptor, Rekallios, Sentinel, Tarassian, Vortex, Verossus, Xeros, Corellos, Cantras, Challenger, Discovery, Enterprise, Falcon, Giraxon, Hercules, Lapricus, Portia, Eagle, Osprey, Pegasus, Sentry, Viper, Liberty, Archaea, Condor, Iridos, Independence
+
+'7
+Jaipur, Kathmandu, Varanasi, Guntur, Agra, Kochi, Dhaka, Karachi, Kashmir, Delhi, Orissa, Pradesh, Dehra Dun, Bhopal, Jamnagar, Bhavnagar, Kanpur, Bihar, Bhatpara, Akola, Hyderabad, Bangalore, Tenali, Proddatur, Sira, Bhatkal, Badagara, Imphal, Alwar, Gurkha, Simikot, Bengal, Ratlam, Sikar, Ranchi, Srinagar
+
+'8
+Sheffield, Bristol, Plymouth, York, Nottingham, Aberdeen, Inverness, Dover, Windsor, Birmingham, Cambridge, Missouri, Ohio, Seattle, Houston, Chicago, Philadelphia, Orlando, Oregon, Dakota, Baltimore, Nevada, Sacramento, Perth, Adelaide, Melbourne, Sydney, Brisbane, Auckland, Rockhampton, Hobart, Canberra, Timaru, Dunedin, Wellington, Vancouver
+
+'9
+Panama, Nicaragua, Venezuela, Salvador, Janeiro, Santiago, Comodoro, Arica, Maracaibo, Cali, Acapulco, Veracruz, Merida, Managua, Cuzco, Santa Cruz, Antofagasta, Fortaleza, Sorocaba, Concordia, Durazno, Osorno, Rancagua, Punta Alta, Olavarria, Sarmiento, Valcheta, Punta Arenas, Cordoba, Mendoza, Reconquista, Alegrete, Pelotas, Catamarca, Iquitos, Buenaventura
+
+'10
+Bordeaux, Bayeux, Nazaire, Lyon, Monaco, Montpellier, Avignon, Strasbourg, Douai, Besancon, Montauban, Bayonne, Carcassonne, Narbonne, Bergerac, Chateauroux, Vendome, Valence, Cavaillon, Carpentras, Dijon, Beauvais, Calais, Versailles, Chartres, Chaumont, Massif, Anjou, Artois, Picardie, Rochefort, Auxerre, Montargis, Cherbourg, Verdun, Dunkerque
+
+'11
+Oslo, Bergen, Stavanger, Arendal, Malmo, Orebro, Sundsvall, Tromso, Hammerfest, Helsinki, Vaasa, Vyborg, Stockholm, Karlstad, Ludvika, Ostersund, Sodankyla, Lillehammer, Larvik, Drammen, Grimstad, Alesund, Reykajavik, Keflavik, Suduroy, Narvik, Storuman, Kerava, Hudiksvall, Alborg, Roskilde, Hammerdal, Ardal, Dalen, Arvika, Ivalo
+
+'12
+Lusaka, Bindura, Sofala, Lobito, Zanzibar, Mombasa, Mahajanga, Comoros, Kinshasa, Cabinda, Nairobi, Axum, Senanga, Ubundu, Aketi, Turkana, Nyasa, Asmera, Atbara, Calabar, Sokoto, Takoradi, Abidjan, Monrovia, Bamako, Dakar, Ibadan, Tripoli, Aswan, Cairo, Giza, Suez, Casablanca, Tangiers, Agadir, Kaduna
+
+'13
+Medan, Pattani, Malacca, Letong, Tenasserim, Tavoy, Henzada, Chon Buri, Vung Tau, Chiang Mai, Mandalay, Haiphong, Saigon, Bangkok, Kelang, Singapore, Lumpur, Jakarta, Sarawak, Andaman, Surabaya, Bandar Seri, Semarang, Kalimanta, Surakarta, Sumbawa, Telok, Saravane, Samarinda, Kandangan, Phan Thiet, Mekong, Sumatra, Hanoi, Kuantan, Sanggau

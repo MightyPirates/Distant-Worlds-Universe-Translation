@@ -1,0 +1,29 @@
+'Each line defines a list of names to be used sequentially when naming new ships or bases
+'The role of the ship or base must be the first item on the line, followed by a colon
+'Any number of names may follow on the same line, separated by commas
+'
+'e.g. SmallFreighter: Falcon, Eagle, Hawk, Condor
+
+Escort: 
+Frigate: 
+Destroyer: 
+Cruiser: 
+CapitalShip: 
+TroopTransport: 
+ResupplyShip: 
+ExplorationShip: 
+SmallFreighter: 
+MediumFreighter: 
+LargeFreighter: 
+ColonyShip: 
+PassengerShip: 
+ConstructionShip: 
+GasMiningShip: 
+MiningShip: 
+GasMiningStation: 
+MiningStation: 
+SmallSpacePort: 
+MediumSpacePort: 
+LargeSpacePort: 
+ResortBase: 
+GenericBase: 

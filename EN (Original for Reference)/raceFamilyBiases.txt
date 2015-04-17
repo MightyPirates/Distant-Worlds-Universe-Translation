@@ -1,0 +1,18 @@
+﻿'Distant Worlds Race Family Biases - version 1.9.5.0
+
+'determines natural bias of each race family towards other race families
+'this bias can be either positive or negative
+'maximum value is 50, minimum value is -50
+'each row determines the natural bias feelings of the race family named at left to all race families
+'  each bias value (column) in the row is how the named race family feels towards the race family matching the index number for the column
+'  e.g. Humanoids have natural +10 bias towards other Humanoids (race family index 0), 0 bias towards Ursidians (race family index 1), -10 bias towards Insectoids (race family index 2), etc
+
+'#, Name,					   0,   1,   2,   3,   4,   5,   6
+
+0,	Humanoid,				  10,   0, -10,   0,   0,   0,   0
+1,	Ursidian,				   0,  10,   0,   0,   0,   5,   0
+2,	Insectoid,				 -10,   0,  10,   5, -10, -10, -10
+3,	Reptilian,				   0,   0,   5,  10,   5,   0,   0
+4,	Amphibian,				   0,   0, -10,   0,  10,   0,   0
+5,	Rodent,					   0,   0, -10,   0,   0,  10,   0
+6,	Machine,				  10,   0, -10,   0,   0,   0,   0

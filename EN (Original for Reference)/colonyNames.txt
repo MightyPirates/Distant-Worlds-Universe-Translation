@@ -1,0 +1,6 @@
+﻿'Distant Worlds Colony Names - 1.9.5.0
+
+'Add names to this file that will be used to name new colonies for the player empire
+'Names should be comma-separated, with new lines as necessary
+'Note that this file is optional - if the file is missing, or contains no names, then new player colonies will simply not be renamed
+
