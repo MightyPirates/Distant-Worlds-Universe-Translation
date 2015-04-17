@@ -1,0 +1,110 @@
+﻿Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about your Empire and Colonies.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Your Empire
+Your Empire
+Now let's get an overview of your empire.
+
+You can view a summary of your empire from the Empire Summary screen (F6). Click the Empire Summary button to show this screen.
+~
+State vs Private
+State vs Private
+Your empire is divided into two sections:
+- State: the portion you control
+- Private: your private citizens who go about their own business without your help
+
+Note that you only control the State portion of your empire. You have no direct control of your private citizens activities.
+~
+Private Citizens
+Private Citizens
+Your private citizens go about their own business, improving their colonies.
+
+This means that they trade goods, transport cargo and mine resources - all without any intervention from you.
+~
+State Activities
+State Activities
+The state portion of your empire has four basic tasks:
+- Exploring the galaxy
+- Colonizing new planets
+- Constructing new ships
+- Defending your empire
+~
+Government Style
+Government Style
+Each empire follows a particular style of government. Each government type has specific advantages and disadvantages.
+
+You can change your government style by having a revolution. But there are negative side effects from revolution, including a temporary setback of development at your colonies.
+~
+State Income
+State Income
+Money is critical to fund your empire. Your state economy derives income from four areas:
+- colony taxes
+- transaction fees at your space ports
+- purchases of new ships by your private citizens
+- bonuses from trade with other empires
+~
+Colonies
+Colonies
+Let's take a look at the colonized planets in your empire.
+
+Colonies are the heart of your empire. When you lose all of your colonies, you lose the game.
+~
+Colonies - Tax
+Colonies - Tax
+Colonies produce wealth. Your empire's main revenue comes from taxing colonies.
+
+By default colony tax levels are controlled automatically, but you can alter each colony tax rate directly if you prefer.
+~
+Colonies - Growth
+Colonies - Growth
+Colonies grow in two ways: population and development level
+
+Population: grows over time until it reaches a maximum level for the planet.
+
+Development Level: when a colony receives a steady supply of luxury resources its general development level grows. Higher development level means more wealth and thus more tax revenue.
+~
+Population Indicator
+Population Indicator
+The population size and development level of a colony is indicated by the graph displayed in the colony's name badge.
+
+The horizontal axis indicates the population size. The vertical axis relates to the development level.
+~
+Empire and Capital
+Empire and Capital
+The empire owning a colony is indicated by the color of the surrounding circle and name badge. If the colony is the empire capital a gold star also appears to the left of the name.
+~
+Dominant Race
+Dominant Race
+The dominant alien race at the colony is displayed at the bottom of the name badge.
+~
+Resources
+Resources
+The natural resources present at the colony are also displayed at the bottom of the name badge.
+
+These resources at your colonies are automatically mined and then used, either to build things or to be sold.
+~
+Colony List
+Colony List
+A complete list of all the colonies in your empire is available from the Colonies screen.
+
+You can open this screen using the button indicated or by pressing the 'F2' key.
+~
+Colonies - Cycling
+Colonies - Cycling
+You can quickly cycle through all of the colonies in your empire by using the Cycle Colonies button.
+
+You can do the same thing by pressing the 'C' key.
+~
+Completed
+Completed
+Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+
+When you are ready you can also try the other tutorials from the main menu.
+~

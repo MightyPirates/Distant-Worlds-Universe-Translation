@@ -1,0 +1,162 @@
+﻿Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about Ships and Bases, and assigning missions to your ships.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Ships and Bases
+Ships and Bases
+Now let's take a look at ships and bases.
+
+Ships travel throughout the galaxy performing a wide range of tasks, from transporting cargo to defending your empire.
+
+Bases are fixed platforms in space, usually located at a planet.
+
+To see a complete list of all the ships and bases in your empire click the Ships and Bases button (F11 key).
+~
+Ships and Bases - Designing
+Ships and Bases - Designing
+All your empire's ships and bases can be designed to your exact specifications in the Designs screen (F8 key).
+
+See the tutorial 'Research, Ship Design and Construction' for more information on how to do this.
+~
+Assigning Missions
+Assigning Missions
+You can assign missions to any state-owned ship or base in your empire.
+
+However this does NOT include privately-owned ships like freighters, mining ships or mining stations. You have no control over these privately-owned ships and bases. They go about their business automatically, selecting missions for themselves.
+~
+Assigning a Mission
+Assigning a Mission
+To assign a mission to a ship first select it in the main view by left-clicking on it with the mouse.
+
+Then right-click the mouse over the mission target, e.g. to make a ship move to another location right-click the mouse at that location.
+
+Note that you may need to unpause the game to see the ship move.
+~
+Missions - Popup Menu
+Missions - Popup Menu
+Right-clicking on the ship or base may also bring up a popup menu listing a number of missions.
+
+These missions are specific to the particular type of ship or base. They may include: Exploration, Colonization, Building, Refueling, or many others.
+~
+Automating Missions
+Automating Missions
+Ships can also be completely automated. This means that they assign missions for themselves.
+
+To automate a ship first select it and then press the 'A' key. To turn off automation just assign a mission to the ship.
+
+When a ship is automated a circular blue arrow appears in the bottom-right corner of the Selection Panel.
+
+Note that ALL ships start the game automated.
+~
+Missions for Bases
+Missions for Bases
+Although bases are stationary, they can also have missions.
+
+Base missions can include: building new ships, retrofitting to a new design or scrapping the base when it is no longer needed.
+~
+Types of Ships and Bases
+Types of Ships and Bases
+Let's take a look at the different types of ships and bases in your empire.
+~
+Exploration Ships
+Exploration Ships
+Exploration ships chart unknown areas of the galaxy. As they explore they reveal colonizable planets, uncover valuable resources and make contact with other empires.
+
+Exploration ships can be automated to explore on their own ('A' key).
+
+To cycle through all of your Exploration ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+~
+Colony Ships
+Colony Ships
+Colony ships allow you to colonize other planets, founding new worlds for your empire.
+
+The ship is consumed when a new colony is established. The resources from the ship are used to give the colony a kickstart.
+
+While most ships are built at space ports, Colony ships can only be built at colonies.
+~
+Colony Ships contd.
+Colony Ships contd.
+To start with you can only colonize the native planet type of your race. But as your research uncovers new technology you can progressively colonize other types of planets.
+
+However you can always colonize planets where there is an existing independent alien population - regardless of the type of planet. In these situations the preexisting population may resist your colonization attempt, with the loss of your colony ship.
+
+To cycle through all your colony ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+~
+Space Ports
+Space Ports
+Space Ports are bases that provide many important services for your empire. Space Ports must always be built at a colony.
+
+They serve as a central point of trade for your empire. Mined resources are brought here by freighters and mining ships.
+
+Space Ports also provide construction facilities for your empire. Both state and private ships are built here. When private citizens purchase freighters or other ships, your empire earns income.
+~
+Space Ports contd.
+Space Ports contd.
+Space Ports also provide other vital functions:
+- Heavy weapons provide strong defense for the colony
+- Research facilities for your scientists and engineers
+- Bonuses that help keep the colony population happy: medical facilities and recreation centres
+
+To cycle through all of your Space Ports use the Cycle Space Ports button, or use the 'P' key.
+~
+Freighters
+Freighters
+Freighters transport cargo between colonies, mining stations and space ports. They come in small, medium and large sizes.
+
+Freighters work for your empire, but they are not yours. They belong to the private citizens in your empire. All transportation of goods in your empire is performed by private citizens.
+
+Thus you cannot assign missions to Freighters.
+~
+Mining Ships
+Mining Ships
+Mining Ships are mobile resource extraction ships. They mine resources that are in high demand, returning them to your nearest space port.
+
+Mining ships work for your empire, but they are not yours. They belong to the private citizens in your empire.
+
+Thus you cannot assign missions to Mining ships.
+~
+Mining Stations
+Mining Stations
+Mining Stations are bases that extract resources from planets, moons, asteroids and gas clouds.
+
+They can be either standard mining stations or gas mining stations.
+
+Mining Stations are built by Construction Ships at resource-rich planets.
+~
+Construction Ships
+Construction Ships
+Construction Ships are mobile construction yards. They can build bases at uninhabited planets or even in deep space.
+
+Use the Cycle Construction Ships button to cycle through all the construction ships in your empire, or use the 'Y' key.
+~
+Military Ships
+Military Ships
+Military ships defend your empire from enemy empires and from marauding pirates.
+
+They can be assigned the following missions:
+- Attack an enemy target
+- Patrol a colony or base, watching for attackers
+- Escort a civilian ship, such as a construction ship or mining ship
+
+There are various sizes and classes of military ships.
+
+Use the Cycle Military Ships button to cycle through them, or use the 'M' key.
+~
+Find Idle Ships
+Find Idle Ships
+You can find ships that don't currently have a mission by clicking the Cycle Idle Ships button (or press the I key).
+
+This helps you find ships that are not being used so that you can assign missions to them.
+~
+Completed
+Completed
+Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+
+When you are ready you can also try the other tutorials from the main menu.
+~

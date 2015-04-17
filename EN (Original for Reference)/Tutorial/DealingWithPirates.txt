@@ -1,0 +1,73 @@
+﻿Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about Dealing with Pirates when playing as a normal empire.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Pirates
+Pirates
+You will likely encounter pirates at some point in your expansion across your home system.
+
+Early in the game you are poorly equipped to resist any pirates, so you should agree to pay a Protection Agreement with any pirates. This is especially true before your spaceport is armed.
+
+Paying dastardly pirates may seem to be cowardly and weak, but it will give you time to establish your empire properly.
+~
+Pirates - Putting Them To Work
+Pirates - Putting Them To Work
+However pirates can also be useful to you. In the early game you may have resource shortages at your colony. For a price, pirates can help fill any gaps by smuggling resources to you.
+
+To request a pirate smuggling mission select your colony and click the 'Assign Mercenary Smuggling Mission' action button underneath the Selection Panel. Select the desired resource (or 'All') in the small pop-up panel that appears and click the Assign button.
+
+The smuggling mission will appear in the Pirate Missions panel in the Empire Navigation Tool at screen left. You can cancel the smuggling mission at any time by clicking the Cancel button here.
+
+Once accepted by a pirate faction, their smuggling freighters will eventually arrive at your colony to drop off the requested resources.
+~
+Pirates - Attack Missions
+Pirates - Attack Missions
+You can also pay pirates to attack a target of another empire.
+
+To request one of these Pirate Attack missions, select the target enemy base and click the 'Assign Mercenary Attack Mission' action button underneath the Selection Panel.
+
+The new attack mission will appear in the Pirate Missions panel in the ENT, the same as for smuggling missions. Pirate factions will bid on the mission, until one faction wins the mission.
+
+When the pirates complete the attack mission for you (by destroying or capturing the target base) the fee will automatically be paid to them.
+~
+Pirates - Defend Missions
+Pirates - Defend Missions
+You can also pay pirates to protect a base or colony in your own empire for two years. These Defend missions are obviously only available to pirate factions with whom you already have a Protection Agreement.
+
+To request one of these Pirate Defend missions, select the base or colony you want protected and click the 'Assign Mercenary Defense Mission' action button underneath the Selection Panel.
+
+The new defend mission will appear in the Pirate Missions panel in the ENT, the same as for smuggling missions. Pirate factions will bid on the mission, until one faction wins the mission.
+
+When the pirates complete the defend mission for you (by protecting your base or colony until the specified date) the fee will automatically be paid to them.
+~
+Clearing out Pirates
+Clearing out Pirates
+As your empire becomes stronger you may want to eradicate nearby pirate factions.
+
+To completely eliminate a pirate faction you must destroy all of the following:
+- colonies (controlled or owned)
+- refuelling locations (spaceports or gas mining stations)
+- construction ships or resupply ships
+
+Tracking down and eliminating all of the above can take time and effort. However you can severely handicap a pirate faction by simply destroying their spaceport. With their construction yard eliminated the faction is no longer able to build new ships.
+~
+Eradicating Pirates at your Colonies
+Eradicating Pirates at your Colonies
+Pirate factions may establish control at one or more of your colonies. They may have also built a pirate facility at the colony, such as a Pirate Base or Pirate Fortress.
+
+Pirates derive much of their income from controlling colonies, so you should make every effort to remove them from your colony. To eradicate the pirates you should launch a ground invasion against the pirate facility at your colony.
+
+To do this open the Facilities tab in the Colonies screen (F2). Select the target pirate facility - the 'Scrap' button will change to 'Attack'. Clicking the attack button will launch a ground attack against the pirate facility using all of your troops currently at the colony. If successful, the ground attack will destroy the pirate facility.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for more information.
+~

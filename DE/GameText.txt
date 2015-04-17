@@ -37,7 +37,7 @@ Edit Planet or Moon		;Planet oder Mond bearbeiten
 Edit Ship or Base		;Raumschiff oder Basis bearbeiten
 Edit Star		;Stern bearbeiten
 Edit Creature		;Kreatur bearbeiten
-Empire Exploration		;Erkundung der Galaxis
+Empire Exploration		;Erkundung der Galaxie
 Erase Independent Alien Race		;Unabhängige fremde Rasse entfernen
 Erase Alien Race		;Fremde Rasse entfernen
 Erase Asteroid Field		;Asteroidenfeld entfernen
@@ -114,7 +114,7 @@ Diplomacy Screen		;Diplomatiebildschirm
 Empire Comparisons and Victory Conditions		;Imperienvergleich und Siegbedingungen
 Your Empire Summary Screen		;Imperialer Überblick
 Fleets Screen		;Flottenbildschirm
-Galaxy Map Screen		;Galaxiskarte
+Galaxy Map Screen		;Galaxiekarte
 Game Menu		;Spielmenü
 Game Options		;Spieloptionen
 Selection Panel		;Auswahlfenster
@@ -323,9 +323,9 @@ Welcome to Your Empire		;Willkommen in Ihrem Imperium
 Start Playing		;Spiel starten
 You are ruler of		;Sie sind der Herrscher des Imperiums "{0}".\nIhre Regierungsform ist "{1}".\nIhr Imperium erstreckt sich über {2} Kolonie(n) in {3} System(en).
 To win this game		;Um dieses Spiel zu gewinnen, muss eine der folgenden Bedingungen erfüllt sein:\n
-To win - Economy		; - Ihre Wirtschaft sorgt für {0}% des Gesamtumsatzes der Galaxis
-To win - Population		; - Sie herrschen über {0}% der Gesamtbevölkerung in der Galaxis
-To win - Territory		; - Sie kontrollieren {0}% aller Kolonien in der Galaxis
+To win - Economy		; - Ihre Wirtschaft sorgt für {0}% des Gesamtumsatzes der Galaxie
+To win - Population		; - Sie herrschen über {0}% der Gesamtbevölkerung in der Galaxie
+To win - Territory		; - Sie kontrollieren {0}% aller Kolonien in der Galaxie
 To win - Time Limit		; Das Spiel endet am {0}
 To win - Time Limit explanation		;Wer an diesem Datum den höchsten strategischen Wert aufweist, gewinnt das Spiel
 To win - Start Date		; Siegbedingungen gelten erst ab dem {0}
@@ -334,7 +334,7 @@ Introduction Conclusion		; Hilfe erhalten Sie jederzeit mit F1.\n\nErkunden, kol
 
 Could not create save game folder		;Spielstandordner konnte unter {0} nicht erstellt werden
 Could not set save game folder		;Spielstandordner konnte nicht festgelegt werden
-Saving the Galaxy...		;Galaxis wird gespeichert...
+Saving the Galaxy...		;Galaxie wird gespeichert...
 Leave automation on		;Automatisierung aktiviert lassen
 Turn off automation		;Automatisierung deaktivieren
 Turn Off TASKNAME Automation?		;Automatisierung von "{0}" deaktivieren?
@@ -453,7 +453,7 @@ Ctrl-Right-click for more missions		;Strg+Rechtsklick für weitere Missionen
 
 Increase game speed		;Spielgeschwindigkeit erhöhen
 Decrease game speed		;Spielgeschwindigkeit senken
-Open Galactic History screen		;Nachrichten zur Galaxisgeschichte anzeigen
+Open Galactic History screen		;Nachrichten zur Galaxiegeschichte anzeigen
 Open Message History screen		;Nachrichtenübersicht anzeigen
 Next selected item		;Nächstes ausgewähltes Objekt
 Previous selected item		;Vorheriges ausgewähltes Objekt
@@ -478,7 +478,7 @@ Next Fleet		;Nächste Flotte
 Zoom to 100%		;Zoom 100%
 Zoom In		;Hineinzoomen
 Zoom Out		;Herauszoomen
-Zoom to Galaxy		;Auf Galaxis zoomen
+Zoom to Galaxy		;Auf Galaxie zoomen
 Zoom to Sector		;Auf Sektor zoomen
 Zoom to System		;Auf System zoomen
 Zoom to selected item		;Auf ausgewähltes Objekt zoomen
@@ -490,7 +490,7 @@ Open Colonies screen		;Bildschirm "Kolonien" öffnen
 Open Construction Yards screen		;Bildschirm "Konstruktionsanlagen" öffnen
 Open Designs screen		;Bildschirm "Schiffsentwürfe" öffnen
 Open Diplomacy screen		;Bildschirm "Diplomatie" öffnen
-Open Galaxy Map screen		;Bildschirm "Galaxiskarte" öffnen
+Open Galaxy Map screen		;Bildschirm "Galaxiekarte" öffnen
 Open Intelligence Agents screen		;Bildschirm "Charaktere" öffnen
 Open Research screen		;Bildschirm "Forschung" öffnen
 Open Fleets screen		;Bildschirm "Flotten" öffnen
@@ -527,7 +527,7 @@ Another empire has persuaded us to declare war on you		;Ein anderes Imperium hat
 Another empire has persuaded us to impose trade sanctions on you		;Ein anderes Imperium hat uns davon überzeugt, Handelssanktionen gegen Ihr bemitleidenswertes Imperium zu verhängen.\n\nUnser Handel mit Ihnen ist aus und vorbei!
 Could not parse message		;Nachricht konnte nicht erstellt werden
 Reveal Historical Secret		;Die {0} enthüllen historische Geheimnisse
-Reveal Historical Secret Details		;Die {0} teilen uns mit: Wir haben in antiken Ruinen auf einem fernen Planeten einen Datenkern gefunden. Darauf befindet sich eine Nachricht, die unheimliche Details über die Geschichte der Galaxis offenbart.
+Reveal Historical Secret Details		;Die {0} teilen uns mit: Wir haben in antiken Ruinen auf einem fernen Planeten einen Datenkern gefunden. Darauf befindet sich eine Nachricht, die unheimliche Details über die Geschichte der Galaxie offenbart.
 We terminate all trade with you effective immediately!		;Wir beenden mit sofortiger Wirkung alle Handelsbeziehungen zu Ihnen!
 Prepare for war!		;Machen Sie sich bereit für den Krieg!
 Thanks!		;Danke!
@@ -553,7 +553,7 @@ Tell me about this empire		;Verraten Sie mir mehr über dieses Imperium ({0} Cre
 We stand alongside our friends and allies		;Wir stehen an der Seite unserer Freunde und Verbündeten - und erklären dem Imperium "{0}" den Krieg!
 Sorry, we can't help you right now...		;Leider können wir Ihnen momentan nicht helfen...
 Swap Territory maps (empire systems)		;Gebietskarten austauschen (Imperiale Systeme)
-Swap Galaxy maps (all exploration)		;Galaxiskarten austauschen (alles Erkundete)
+Swap Galaxy maps (all exploration)		;Galaxiekarten austauschen (alles Erkundete)
 Sell TECH for X credits		;Für {1} Credits verkaufen: {0}
 Would you accept this trade?		;Würden Sie diesen Handel akzeptieren?
 We accept this proposal		;Wir nehmen dieses Angebot an
@@ -619,7 +619,7 @@ X says		;{0} sagt
 Catastrophe!		;Katastrophe!
 Trade Deal offered		;Handelsabkommen wurde vorgeschlagen
 Territory Map swap offered		;Tausch von Gebietskarten wurde vorgeschlagen
-Galaxy Map swap offered		;Tausch von Galaxiskarten wurde vorgeschlagen
+Galaxy Map swap offered		;Tausch von Galaxiekarten wurde vorgeschlagen
 Technology offered		;Die Technologie "{0}" wurde angeboten
 Celebration!		;Jubel!
 You must decide...		;Sie müssen sich entscheiden...
@@ -663,7 +663,7 @@ Ruins discovered		;Ruinen entdeckt
 Valuable Resource Discovered		;Wertvoller Rohstoff entdeckt
 Valuable Resource Traded with Us		;Handel mit wertvollen Rohstoffen mit uns
 Valuable Resource Trading Terminated		;Handel mit wertvollen Rohstoffen beendet
-Galactic History revealed		;Wissen über Galaxisgeschichte erhalten
+Galactic History revealed		;Wissen über Galaxiegeschichte erhalten
 Secret location offered		;Enthüllung eines geheimen Standorts angeboten
 Secret history offered		;Geheimes Geschichtswissen angeboten
 Monetary Gift		;Geldgeschenk
@@ -795,7 +795,7 @@ This is not a valid Distant Worlds game file		;Hierbei handelt es sich um keine 
 Cannot load file		;Datei kann nicht geladen werden
 Distant Worlds saved game files		;Gespeicherte "Distant Worlds"-Spielstände
 Load Distant Worlds game		;"Distant Worlds" Spielstand laden
-Loading the Galaxy...		;Galaxis wird geladen...
+Loading the Galaxy...		;Galaxie wird geladen...
 Could not create save game folder at X		;Spielstandordner konnte unter {0} nicht erstellt werden
 Save Distant Worlds game		;"Distant Worlds" Spielstand speichern
 Are you sure that you wish to exit this game?		;Wollen Sie das Spiel wirklich beenden?
@@ -898,14 +898,14 @@ Defeat suits you well		;Die Niederlage steht Ihnen gut.
 Your oppression will never return!		;Ihre Diktatur ist ein für alle Mal vorbei!
 You lost - ha ha!		;Sie haben verloren - ha ha!
 How could you lose when you had such a big headstart?		;Wie kann man trotz eines solchen Vorsprungs noch verlieren?
-Lost again? Maybe you should find a smaller galaxy...		;Schon wieder verloren? Vielleicht sollten Sie sich eine kleinere Galaxis suchen...
+Lost again? Maybe you should find a smaller galaxy...		;Schon wieder verloren? Vielleicht sollten Sie sich eine kleinere Galaxie suchen...
 Perhaps galactic conquest just isn't your thing...		;Vielleicht ist die galaktische Herrschaft einfach nicht Ihr Ding...
 You move slower than a blind space slug!		;Man wird noch in tausend Jahren Lieder über Ihre Langsamkeit singen!
 Want to try again?		;Wollen Sie es erneut versuchen?
 How much failure can you take?		;Wie viele Niederlagen können Sie eigentlich wegstecken?
 Explore and Expand, NOT Shrink and Collapse!		;Erkunden und Erobern lautet das Motto, nicht Erschrecken und Erzittern!
-You don't even qualify to be in the same galaxy as us!		;Sie verdienen es nicht einmal, in derselben Galaxis wie wir zu sein!
-The beginner's galaxy is back that way... See you later!	;Die Galaxis für Anfänger ist dort drüben... bis später!
+You don't even qualify to be in the same galaxy as us!		;Sie verdienen es nicht einmal, in derselben Galaxie wie wir zu sein!
+The beginner's galaxy is back that way... See you later!	;Die Galaxie für Anfänger ist dort drüben... bis später!
 You're fired!		;Sie sind gefeuert!
 Maybe you should switch careers: asteroid miner would suit you better		;Vielleicht sollten Sie sich eine andere Arbeit suchen? Im Bergbau soll es ganz fabelhafte Stellen geben!
 Ever thought of trying Solitaire instead?		;Haben Sie je darüber nachgedacht, etwas anderes zu probieren? Solitär z.B.?
@@ -951,11 +951,11 @@ Explodes		;Explodiert
 Edit Moon		;Mond bearbeiten
 Edit Planet		;Planet bearbeiten
 Edit Empires		;Imperien bearbeiten
-Maximum Empires Message		;Sie haben die maximale Anzahl an Imperien erreicht, die in dieser Galaxis möglich sind. Wenn Sie ein neues Imperium hinzufügen möchten, müssen Sie zuerst ein vorhandenes entfernen.
-Maximum Empires in the Galaxy		;Maximale Imperien in der Galaxis
+Maximum Empires Message		;Sie haben die maximale Anzahl an Imperien erreicht, die in dieser Galaxie möglich sind. Wenn Sie ein neues Imperium hinzufügen möchten, müssen Sie zuerst ein vorhandenes entfernen.
+Maximum Empires in the Galaxy		;Maximale Imperien in der Galaxie
 This empire is your player empire		;Hierbei handelt es sich um Ihr eigenes Imperium. Daher können Sie es nicht entfernen.
 Cannot Remove Player		;Spielerimperium kann nicht entfernt werden
-This will permanently remove the selected empire		;Hiermit entfernen Sie das ausgewählte Imperium samt aller dazugehöriger Raumschiffe, Basen und Kolonien aus der Galaxis. Wollen Sie das Imperium wirklich entfernen?
+This will permanently remove the selected empire		;Hiermit entfernen Sie das ausgewählte Imperium samt aller dazugehöriger Raumschiffe, Basen und Kolonien aus der Galaxie. Wollen Sie das Imperium wirklich entfernen?
 Remove Empire?		;Imperium entfernen?
 You may enter a password below to protect this game from unauthorized editing		;Sie können unten ein Kennwort festlegen, um dieses Spiel vor unerlaubtem Zugriff zu schützen. Zum Ändern eines bestehenden Kennworts müssen Sie es lediglich mit dem gewünschten neuen Kennwort überschreiben.
 Click 'Save' to save the password		;Klicken Sie auf "Speichern", um das Kennwort zu speichern. Merken Sie sich das Kennwort gut - ohne es können Sie dieses Spiel nicht bearbeiten.\n\nKlicken Sie auf "Löschen", um das Kennwort zu entfernen - danach kann jeder dieses Spiel bearbeiten.
@@ -976,7 +976,7 @@ Save Distant Worlds designs		;"Distant Worlds" Schiffsentwürfe speichern
 Load Distant Worlds designs		;"Distant Worlds" Schiffsentwürfe laden
 Show All Messages		;Alle Nachrichten anzeigen
 Show Non-Battle Messages		;Keine Kampfnachrichten anzeigen
-Show Galactic History Messages		;Nachrichten zur Galaxisgeschichte anzeigen
+Show Galactic History Messages		;Nachrichten zur Galaxiegeschichte anzeigen
 This ship is not owned by your empire - it cannot be scrapped		;Dieses Raumschiff gehört nicht zu Ihrem Imperium - es kann nicht verschrottet werden
 This ship is privately owned - it cannot be scrapped		;Dieses Raumschiff befindet sich in privatem Besitz - es kann nicht verschrottet werden
 Cannot scrap ship		;Raumschiff kann nicht verschrottet werden
@@ -1006,7 +1006,7 @@ No Colony ships available		;Keine Kolonieschiffe verfügbar
 No Construction ship selected		;Kein Konstruktionsschiff ausgewählt
 No resource target selected		;Keine Rohstoffquelle ausgewählt
 No Construction ships available		;Keine Konstruktionsschiffe verfügbar
-Galactic History		;Galaxisgeschichte
+Galactic History		;Galaxiegeschichte
 Messages		;Nachrichten
 Research Area		;Forschungsbereich
 Resources required to manufacture		;Für den Bau benötigte Rohstoffe
@@ -1046,7 +1046,7 @@ Copyright		;Copyright ©2010 CodeForce Limited. Alle Rechte vorbehalten.
 Starting		;Starte
 Current Theme		;Aktuelles Theme
 The default Distant Worlds theme, using the standard images, names and music.		;Das Standard-Theme von Distant Worlds mit voreingestellten Bildern, Namen und Musikstücken.
-Start a New Game: The Galaxy		;Ein neues Spiel beginnen: Die Galaxis
+Start a New Game: The Galaxy		;Ein neues Spiel beginnen: Die Galaxie
 stars		;Sterne
 Dwarf		;Zwerg
 Tiny		;Winzig
@@ -1054,7 +1054,7 @@ Small		;Klein
 Standard		;Normal
 Large		;Groß
 Huge		;Riesig
-Galaxy\nSize		;Galaxisgröße
+Galaxy\nSize		;Galaxiegröße
 Very Low		;Sehr niedrig
 Very High		;Sehr hoch
 Rare		;Selten
@@ -1095,9 +1095,9 @@ Highly Advanced		;Hochentwickelt
 Exceptional		;Herausragend
 OR specify the starting empires below...		;ODER legen Sie die Startimperien hier fest:
 Allow independent alien colonies to start new empires during the game		;Unabhängige fremde Kolonien dürfen während des Spiels neue Imperien gründen
-TERRITORY control X		;Kontrollieren Sie {0}% aller Kolonien in der Galaxis
-POPULATION control X		;Herrschen Sie über {0}% der Bevölkerung in der Galaxis
-ECONOMY control X		;Priv. Wirtschaft muss {0}% des Gesamteinkommens der Galaxis erzielen
+TERRITORY control X		;Kontrollieren Sie {0}% aller Kolonien in der Galaxie
+POPULATION control X		;Herrschen Sie über {0}% der Bevölkerung in der Galaxie
+ECONOMY control X		;Priv. Wirtschaft muss {0}% des Gesamteinkommens der Galaxie erzielen
 TIME LIMIT X		;Das Spiel endet nach {0} Jahren
 Victory Conditions X		;Die Siegbedingungen gelten nach {0} Jahren
 
@@ -1118,14 +1118,14 @@ Monitoring Station		;Überwachungsbasis
 
 random location		;zufälliger Startpunkt
 Start Location		;Startpunkt
-The approximate starting location of your empire within the galaxy		;Der ungefähre Startpunkt für Ihr Imperium in der Galaxis. Hierbei handelt es sich nicht um exakte Koordinaten - es wird nur die Region der Galaxis festgelegt, in der sich Ihr Heimatsystem befinden wird. Diese Region wird in der Galaxisvoransicht rot markiert.
+The approximate starting location of your empire within the galaxy		;Der ungefähre Startpunkt für Ihr Imperium in der Galaxie. Hierbei handelt es sich nicht um exakte Koordinaten - es wird nur die Region der Galaxie festgelegt, in der sich Ihr Heimatsystem befinden wird. Diese Region wird in der Galaxievoransicht rot markiert.
 Flag		;Flagge
 The design of your empire's flag		;Die Flagge Ihres Imperiums
 Victory		;Sieg
 Territory		;Territorium
-To win the game you must control the specified percentage of all colonies in the galaxy		;Um das Spiel zu gewinnen, müssen Sie den angegebenen Prozentsatz aller Kolonien in der Galaxis kontrollieren
-To win the game you must control the specified percentage of the galaxy's population		;Um das Spiel zu gewinnen, müssen Sie über den angegebenen Prozentsatz der Bevölkerung in der Galaxis herrschen
-To win the game your empire's private economy must generate the specified percentage of the galaxy's total income		;Um das Spiel zu gewinnen, muss die private Wirtschaft Ihres Imperiums den angegebenen Prozentsatz des Gesamteinkommens in der Galaxis erzeugen
+To win the game you must control the specified percentage of all colonies in the galaxy		;Um das Spiel zu gewinnen, müssen Sie den angegebenen Prozentsatz aller Kolonien in der Galaxie kontrollieren
+To win the game you must control the specified percentage of the galaxy's population		;Um das Spiel zu gewinnen, müssen Sie über den angegebenen Prozentsatz der Bevölkerung in der Galaxie herrschen
+To win the game your empire's private economy must generate the specified percentage of the galaxy's total income		;Um das Spiel zu gewinnen, muss die private Wirtschaft Ihres Imperiums den angegebenen Prozentsatz des Gesamteinkommens in der Galaxie erzeugen
 Time Limit		;Zeitlimit
 The game will finish after the specified number of years have passed		;Das Spiel wird nach der angegebenen Anzahl von Jahren beendet. Der Herrscher des Imperiums, das zu dem Zeitpunkt den größten strategischen Wert aufweist, gewinnt das Spiel
 Start Time		;Startzeit
@@ -1135,32 +1135,32 @@ The winning empire will be determined after this many years have passed		;Nachde
 Start Time Years		;Startzeit - Jahre
 Victory Conditions will not apply until this many years have passed		;Die Siegbedingungen werden wirksam, nachdem so viele Jahre, wie hier festgelegt, vergangen sind
 
-Your computer does not have enough memory to play a Quick Start galaxy of this size		;Ihr Computer verfügt nicht über genügend RAM für eine Schnellstart-Galaxis dieser Größe. Galaxien mit mehr als {0} Sternen benötigen {1} RAM.\n\nBitte wählen Sie ein Schnellstart-Spiel mit kleinerer Galaxis aus und versuchen Sie es erneut.
-Not Enough Memory for this Galaxy Size		;Nicht genügend RAM für diese Galaxisgröße
-Creating new Galaxy...		;Neue Galaxis wird erstellt...
-Galaxy Size		;Galaxisgröße
+Your computer does not have enough memory to play a Quick Start galaxy of this size		;Ihr Computer verfügt nicht über genügend RAM für eine Schnellstart-Galaxie dieser Größe. Galaxien mit mehr als {0} Sternen benötigen {1} RAM.\n\nBitte wählen Sie ein Schnellstart-Spiel mit kleinerer Galaxie aus und versuchen Sie es erneut.
+Not Enough Memory for this Galaxy Size		;Nicht genügend RAM für diese Galaxiegröße
+Creating new Galaxy...		;Neue Galaxie wird erstellt...
+Galaxy Size		;Galaxiegröße
 colony		;Kolonie
 colonies		;Kolonien
 Epic		;Episch
-QuickStart Epic		;Machen Sie sich bereit für eine epische Auseinandersetzung in einer riesigen Galaxis.\n\nSie beginnen mit einer einzelnen Kolonie und rudimentärer Technologie. Die gesamte Galaxis wartet nur darauf, von Ihnen entdeckt zu werden...
-QuickStart Ring Race		;Sie beginnen mit einer oder zwei Kolonien in einer Ringgalaxis. Vergrößern Sie Ihr Imperium in beide Richtungen des Rings, um an Macht zu gewinnen.\n\nSobald Sie auf andere Imperien stoßen, wird sich eine Auseinandersetzung mit ihnen nicht vermeiden lassen...
-QuickStart Random		;Ein absolut zufälliger Start. Machen Sie sich gefasst auf Überraschungen: Die Form und Größe der Galaxis, die Eigenschaften Ihres Imperiums sowie alle gegnerischen Imperien werden rein zufällig ausgewählt.
+QuickStart Epic		;Machen Sie sich bereit für eine epische Auseinandersetzung in einer riesigen Galaxie.\n\nSie beginnen mit einer einzelnen Kolonie und rudimentärer Technologie. Die gesamte Galaxie wartet nur darauf, von Ihnen entdeckt zu werden...
+QuickStart Ring Race		;Sie beginnen mit einer oder zwei Kolonien in einer RingGalaxie. Vergrößern Sie Ihr Imperium in beide Richtungen des Rings, um an Macht zu gewinnen.\n\nSobald Sie auf andere Imperien stoßen, wird sich eine Auseinandersetzung mit ihnen nicht vermeiden lassen...
+QuickStart Random		;Ein absolut zufälliger Start. Machen Sie sich gefasst auf Überraschungen: Die Form und Größe der Galaxie, die Eigenschaften Ihres Imperiums sowie alle gegnerischen Imperien werden rein zufällig ausgewählt.
 QuickStart Conflict		;In diesem Spiel sind frühe und häufige Konflikte vorprogrammiert.\n\nSie werden es mit Feindseligkeiten und Verrat durch andere Imperien und zahllosen Piraten, die ständig Ihr Reich überfallen, zu tun haben...
-QuickStart Expanding Settlements		;Die Galaxis wartet mit vielen fortgeschrittenen Imperien auf. Ihr Imperium umfasst 16 bis 20 Kolonien.\n\nObwohl der Großteil der Galaxis bereits erkundet und besiedelt wurde, gibt es weiterhin unbekannte Gebiete, die auf tapfere Abenteurer warten...
-QuickStart Expanding from the Core		;Die alten Welten des Galaxiskerns wurden bereits erkundet und besiedelt. Jetzt setzt ein Wettrennen um die Besiedlung des Galaxisrandes ein.\n\nMachen Sie dabei mit und sichern Sie sich Ihren Teil in den wilden und unbekannten Randwelten.
-QuickStart Fast		;Sie beginnen im relativ fortgeschrittenen Stadium mit mehreren Kolonien. Die Galaxis ist sehr klein und weist eine Reihe von anderen Imperien auf.\n\nMachen Sie sich bereit für reichlich Action, denn die Jagd nach Kolonien und Rohstoffen beginnt!
-QuickStart Fully Developed - Small		;Die gesamte Galaxis wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxis.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxis!
-QuickStart Fully Developed - Standard		;Die gesamte Galaxis wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxis.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxis!
-QuickStart Fully Developed - Large		;Die gesamte Galaxis wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxis.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxis!
-QuickStart Galactic Republic - Supreme Ruler		;Die Galaxis wird von Ihrem mächtigen Imperium beherrscht - der Galaktischen Republik. Ihr riesiges Reich umspannt mehr als 100 Kolonien.\n\nDoch wenn Sie auch den Kern der Galaxis beherrschen, reicht Ihr Einfluss nicht bis in die wilden Randwelten. Diese werden von anderen kleinen Imperien bevölkert.\n\nWie werden Sie sich diesen gegenüber verhalten? Werden Sie sie ignorieren? Sie mittels Diplomatie friedlich assimilieren? Oder gar mit Gewalt erobern?
-QuickStart Galactic Republic - Wild Frontiers		;Die Galaxis wird von der mächtigen Galaktischen Republik beherrscht. Sie kontrolliert den Kern der Galaxis, doch hier im äußeren Randbereich haben andere Imperien das Sagen.\n\nIhr Imperium gehört zu diesen Reichen, die fern von der Macht der Galaktischen Republik existieren.\n\nWie werden Sie Ihr Imperium im Schatten eines solch übermächtigen Konkurrenten vergrößern? Für welchen Weg werden Sie sich entscheiden?
-QuickStart Sovereign Territories - Regional Ruler		;Mehrere große Imperien dominieren verschiedene Teile der Galaxis. Zudem gibt es noch zahlreiche kleinere Imperien.\n\nIhr Imperium gehört zu den Schwergewichten und umspannt ungefähr 40 bis 60 Kolonien.\n\nVergrößern Sie Ihr Imperium, um noch mehr an Einfluss zu gewinnen. Bilden Sie Bündnisse mit anderen Imperien, um Ihre Position zu stärken.
-QuickStart Sovereign Territories - Minor Faction		;Mehrere große Imperien dominieren verschiedene Teile der Galaxis. Zudem gibt es noch zahlreiche kleinere Imperien.\n\nIhr Imperium gehört zu den kleineren Fraktionen und umspannt einige wenige Kolonien.\n\nVergrößern Sie Ihr Imperium und bilden Sie Bündnisse mit anderen Imperien, um Ihre Position zu stärken.
+QuickStart Expanding Settlements		;Die Galaxie wartet mit vielen fortgeschrittenen Imperien auf. Ihr Imperium umfasst 16 bis 20 Kolonien.\n\nObwohl der Großteil der Galaxie bereits erkundet und besiedelt wurde, gibt es weiterhin unbekannte Gebiete, die auf tapfere Abenteurer warten...
+QuickStart Expanding from the Core		;Die alten Welten des Galaxiekerns wurden bereits erkundet und besiedelt. Jetzt setzt ein Wettrennen um die Besiedlung des Galaxierandes ein.\n\nMachen Sie dabei mit und sichern Sie sich Ihren Teil in den wilden und unbekannten Randwelten.
+QuickStart Fast		;Sie beginnen im relativ fortgeschrittenen Stadium mit mehreren Kolonien. Die Galaxie ist sehr klein und weist eine Reihe von anderen Imperien auf.\n\nMachen Sie sich bereit für reichlich Action, denn die Jagd nach Kolonien und Rohstoffen beginnt!
+QuickStart Fully Developed - Small		;Die gesamte Galaxie wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxie.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxie!
+QuickStart Fully Developed - Standard		;Die gesamte Galaxie wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxie.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxie!
+QuickStart Fully Developed - Large		;Die gesamte Galaxie wurde bereits erkundet und besiedelt. Die Kolonien vieler Imperien erstrecken sich über die ganze Galaxie.\n\nWas steht nun als Nächstes an? Friedlicher Handel und nette Diplomatie? Oder ein brutaler Eroberungsfeldzug?\n\nSie bestimmen die Zukunft für Ihr Imperium... und für die Galaxie!
+QuickStart Galactic Republic - Supreme Ruler		;Die Galaxie wird von Ihrem mächtigen Imperium beherrscht - der Galaktischen Republik. Ihr riesiges Reich umspannt mehr als 100 Kolonien.\n\nDoch wenn Sie auch den Kern der Galaxie beherrschen, reicht Ihr Einfluss nicht bis in die wilden Randwelten. Diese werden von anderen kleinen Imperien bevölkert.\n\nWie werden Sie sich diesen gegenüber verhalten? Werden Sie sie ignorieren? Sie mittels Diplomatie friedlich assimilieren? Oder gar mit Gewalt erobern?
+QuickStart Galactic Republic - Wild Frontiers		;Die Galaxie wird von der mächtigen Galaktischen Republik beherrscht. Sie kontrolliert den Kern der Galaxie, doch hier im äußeren Randbereich haben andere Imperien das Sagen.\n\nIhr Imperium gehört zu diesen Reichen, die fern von der Macht der Galaktischen Republik existieren.\n\nWie werden Sie Ihr Imperium im Schatten eines solch übermächtigen Konkurrenten vergrößern? Für welchen Weg werden Sie sich entscheiden?
+QuickStart Sovereign Territories - Regional Ruler		;Mehrere große Imperien dominieren verschiedene Teile der Galaxie. Zudem gibt es noch zahlreiche kleinere Imperien.\n\nIhr Imperium gehört zu den Schwergewichten und umspannt ungefähr 40 bis 60 Kolonien.\n\nVergrößern Sie Ihr Imperium, um noch mehr an Einfluss zu gewinnen. Bilden Sie Bündnisse mit anderen Imperien, um Ihre Position zu stärken.
+QuickStart Sovereign Territories - Minor Faction		;Mehrere große Imperien dominieren verschiedene Teile der Galaxie. Zudem gibt es noch zahlreiche kleinere Imperien.\n\nIhr Imperium gehört zu den kleineren Fraktionen und umspannt einige wenige Kolonien.\n\nVergrößern Sie Ihr Imperium und bilden Sie Bündnisse mit anderen Imperien, um Ihre Position zu stärken.
 Basic Tutorial		;Basistutorial
 Advanced Tutorial		;Fortgeschrittenes Tutorial
-Galaxy		;Galaxis
+Galaxy		;Galaxie
 Creatures		;Kreaturen
-Space creatures are distributed throughout the galaxy at the start of the game		;Weltraumkreaturen werden bei Spielbeginn in der Galaxis verteilt.\n\nDiese Einstellung legt fest, wie viele es von ihnen geben soll.
+Space creatures are distributed throughout the galaxy at the start of the game		;Weltraumkreaturen werden bei Spielbeginn in der Galaxie verteilt.\n\nDiese Einstellung legt fest, wie viele es von ihnen geben soll.
 
 Close Credits		;Credits ausblenden
 Design && Development		;Konzeption und Entwicklung
@@ -1199,9 +1199,9 @@ Scientific and Technical Advisor		;Wissenschaftliche und technische Beratung
 Catering by		;Catering
 No Giant Kaltors were harmed in the making of this game		;Bei der Entwicklung dieses Spiels sind keine Riesenkaltoren zu Schaden gekommen.
 
-Pirates are distributed throughout the galaxy at the start of the game		;Piraten werden bei Spielbeginn in der Galaxis verteilt.\n\nDiese Einstellung legt fest, wie viele es von ihnen geben soll
+Pirates are distributed throughout the galaxy at the start of the game		;Piraten werden bei Spielbeginn in der Galaxie verteilt.\n\nDiese Einstellung legt fest, wie viele es von ihnen geben soll
 Start New Game		;Neues Spiel starten
-Click here to start a fully configurable game		;Klicken Sie hier, um ein voll konfigurierbares Spiel zu starten. Sie können die Einstellungen für die Galaxis, für Ihr Imperium und alle anderen Imperien sowie für die Siegbedingungen anpassen
+Click here to start a fully configurable game		;Klicken Sie hier, um ein voll konfigurierbares Spiel zu starten. Sie können die Einstellungen für die Galaxie, für Ihr Imperium und alle anderen Imperien sowie für die Siegbedingungen anpassen
 Tutorials		;Tutorials
 Select one of the interactive tutorials to help you learn how to play Distant Worlds		;Wählen Sie eines der interaktiven Tutorials aus, um die Grundlagen über Distant Worlds zu erlernen
 Quick Start		;Schnellstart
@@ -1219,7 +1219,7 @@ Options		;Optionen
 Control display, sound and other game settings		;Hier können Sie die Einstellungen für die Steuerung, den Sound und das Spiel anpassen
 Start a New Game: Victory Conditions		;Ein neues Spiel beginnen: Siegbedingungen
 Start a New Game: Your Empire		;Ein neues Spiel beginnen: Ihr Imperium
-Your computer does not have enough memory to play a galaxy of this size		;Ihr Computer verfügt nicht über genügend RAM für eine Galaxis dieser Größe. Galaxien mit mehr als 700 Sternen benötigen 2 GB RAM.\n\nBitte verkleinern Sie die Anzahl der Sterne in der Galaxis und versuchen Sie es erneut.
+Your computer does not have enough memory to play a galaxy of this size		;Ihr Computer verfügt nicht über genügend RAM für eine Galaxie dieser Größe. Galaxien mit mehr als 700 Sternen benötigen 2 GB RAM.\n\nBitte verkleinern Sie die Anzahl der Sterne in der Galaxie und versuchen Sie es erneut.
 random		;zufällig
 Random		;Zufällig
 Average		;Durchschnittlich
@@ -1230,7 +1230,7 @@ Distant		;Weit entfernt
 Random - not too close		;Zufällig - nicht zu nahe
 
 Start a New Game: Other Empires		;Ein neues Spiel beginnen: Andere Imperien
-SHAPE Galaxy		;{0}e Galaxis
+SHAPE Galaxy		;{0}e Galaxie
 Elliptical		;Elliptisch
 Spiral		;Spiralförmig
 Ring		;Ringförmig
@@ -1245,16 +1245,16 @@ Void		;Leere
 Rim		;Rand
 Center		;Zentrum
 Edge		;Rand
-Elliptical galaxies have a classic spiral shape		;Elliptische Galaxien haben eine klassische Spiralform mit zwei großen Nebelwolkenarmen, die sich vom Zentrum der Galaxis ausgehend ausbreiten.\n\nDer Galaxiskern ist vollgepackt mit Sternen. Je weiter man sich vom Zentrum entfernt, desto zerstreuter und weniger werden die Sternformationen.\n\nDoch am Rand der Galaxis werden die Sterne wieder dichter, die so einen auffälligen äußeren Randbereich der Galaxis bilden.
-Spiral galaxies have a distinctive shape		;Spiralförmige Galaxien weisen mit ihren zwei großen Nebelwolkenarmen, die sich aus dem Zentrum der Galaxis heraus spiralförmig ausbreiten, eine charakteristische Form auf.\n\nDer Galaxiskern ist vollgepackt mit Sternen in einer zweiarmigen Spiralformation.\n\nJe weiter man sich vom Zentrum entfernt, desto zerstreuter und weniger werden jedoch die Sterne.\n\n
+Elliptical galaxies have a classic spiral shape		;Elliptische Galaxien haben eine klassische Spiralform mit zwei großen Nebelwolkenarmen, die sich vom Zentrum der Galaxie ausgehend ausbreiten.\n\nDer Galaxiekern ist vollgepackt mit Sternen. Je weiter man sich vom Zentrum entfernt, desto zerstreuter und weniger werden die Sternformationen.\n\nDoch am Rand der Galaxie werden die Sterne wieder dichter, die so einen auffälligen äußeren Randbereich der Galaxie bilden.
+Spiral galaxies have a distinctive shape		;Spiralförmige Galaxien weisen mit ihren zwei großen Nebelwolkenarmen, die sich aus dem Zentrum der Galaxie heraus spiralförmig ausbreiten, eine charakteristische Form auf.\n\nDer Galaxiekern ist vollgepackt mit Sternen in einer zweiarmigen Spiralformation.\n\nJe weiter man sich vom Zentrum entfernt, desto zerstreuter und weniger werden jedoch die Sterne.\n\n
 Ring galaxies contain most of their stars		;In ringförmigen Galaxien befinden sich die meisten Sterne in einem großen, dichten Ring, der den galaktischen Kern umfasst.\n\nIm Zentrum selbst kann man auf vereinzelte, verstreute Sterne und Nebelwolken stoßen.\n\n
-Irregular galaxies have no fixed shape or structure		;Irreguläre Galaxien weisen keine bestimmte Form oder Struktur auf.\n\nSterne und Nebelwolken sind gleichmäßig in der Galaxis verteilt.\n\n
+Irregular galaxies have no fixed shape or structure		;Irreguläre Galaxien weisen keine bestimmte Form oder Struktur auf.\n\nSterne und Nebelwolken sind gleichmäßig in der Galaxie verteilt.\n\n
 Race randomly selected		;Rasse wird zufällig ausgewählt
 Your Race		;Ihre Rasse
 Government randomly selected		;Regierungsform wird zufällig ausgewählt
 Your Government		;Ihre Regierungsform
 
-The Galaxy		;Die Galaxis
+The Galaxy		;Die Galaxie
 Other Empires		;Andere Imperien
 Main Color		;Hauptfarbe
 Secondary Color		;Nebenfarbe
@@ -1270,26 +1270,26 @@ Type the name of your empire here		;Geben Sie hier den Namen Ihres Imperiums ein
 The primary color for your empire		;Die Hauptfarbe Ihres Imperiums. Mit dieser Farbe werden Ihre Kolonien, Raumschiffe und Basen gekennzeichnet. Zudem gehört sie zu den Farben, die in Ihrer Flagge vorkommen.
 The secondary color for your empire		;Die Nebenfarbe Ihres Imperiums. Es handelt sich dabei um eine der Farben, die in Ihrer Flagge vorkommen.
 The dominant race at your empire's home colony		;Die dominante Rasse in der Hauptkolonie Ihres Imperiums. Indem Sie später weitere Planeten kolonisieren, können Sie andere fremde Völker assimilieren und so andere Rassen in Ihr Imperium einverleiben.
-Determines the layout and distribution of stars within the galaxy		;Legt die grundlegende Form und Verteilung der Sterne in der Galaxis fest.
-Determines how many stars are in the galaxy		;Legt die Anzahl der Sterne in der Galaxis fest. Mikroskopische, winzige, kleine und normale Galaxien benötigen 1 GB Hauptspeicher, während große und riesige Galaxien 2 GB erfordern.
-Influences the general quality of planets and moons in the galaxy		;Bestimmt die allgemeine Qualität der Planeten und Monde in der Galaxis. Planeten höherer Qualität können größere Bevölkerungen versorgen und erzeugen ein höheres Einkommen, wenn sie kolonisiert werden.
-Independent alien populations are distributed throughout the galaxy		;Unabhängige fremde Völker werden bei Spielbeginn in der Galaxis verteilt. Diese Einstellung legt fest, wie viele dieser Völker es in der Galaxis gibt und wie groß sie sind.
-Determines how old and developed the entire galaxy is		;Legt fest, wie alt und entwickelt die gesamte Galaxis ist. Das wirkt sich auf die folgenden Punkte aus: Die Größe und Entwicklungsstufe der automatisch erstellten Imperien sowie die Größe von unabhängigen fremden Völkern.
+Determines the layout and distribution of stars within the galaxy		;Legt die grundlegende Form und Verteilung der Sterne in der Galaxie fest.
+Determines how many stars are in the galaxy		;Legt die Anzahl der Sterne in der Galaxie fest. Mikroskopische, winzige, kleine und normale Galaxien benötigen 1 GB Hauptspeicher, während große und riesige Galaxien 2 GB erfordern.
+Influences the general quality of planets and moons in the galaxy		;Bestimmt die allgemeine Qualität der Planeten und Monde in der Galaxie. Planeten höherer Qualität können größere Bevölkerungen versorgen und erzeugen ein höheres Einkommen, wenn sie kolonisiert werden.
+Independent alien populations are distributed throughout the galaxy		;Unabhängige fremde Völker werden bei Spielbeginn in der Galaxie verteilt. Diese Einstellung legt fest, wie viele dieser Völker es in der Galaxie gibt und wie groß sie sind.
+Determines how old and developed the entire galaxy is		;Legt fest, wie alt und entwickelt die gesamte Galaxie ist. Das wirkt sich auf die folgenden Punkte aus: Die Größe und Entwicklungsstufe der automatisch erstellten Imperien sowie die Größe von unabhängigen fremden Völkern.
 Determines how aggressive computer players are in the game		;Legt fest, wie aggressiv die KI im Spiel vorgeht. Es gibt andere Faktoren, die sich von Imperium zu Imperium unterscheiden und ebenfalls die Aggressivitätsstufen festlegen, aber diese Einstellung ist ein globaler Wert, der sich auf alle Imperien auswirkt.
 Determines how fast research occurs in the galaxy		;Legt fest, wie teuer Forschungprojekte sind. Es gibt andere Faktoren, die sich von Imperium zu Imperium unterscheiden und ebenfalls das Forschungsgtempo beeinflussen, aber diese Einstellung ist ein globaler Wert, der sich auf alle Imperien auswirkt.
-Determines how many space creatures are present in the galaxy		;Legt fest, wie viele Weltraumkreaturen in der Galaxis existieren.
+Determines how many space creatures are present in the galaxy		;Legt fest, wie viele Weltraumkreaturen in der Galaxie existieren.
 The form of government that your empire follows		;Die Regierungsform Ihres Imperiums. Sie können Ihre Regierungsform durch eine Revolution ändern. Allerdings kann solch eine Revolution auch negative Konsequenzen mit sich bringen.
 The favorability of your home system		;Die Lebensfreundlichkeit Ihres Heimatsystems. Dies beinhaltet Faktoren wie Rohstoffvorkommen, Bevölkerungsstufe Ihrer Hauptkolonie und das Vorhandensein weiterer lebenswerter Planeten im System.
-Determines how many colonies you have and how well established your empire is		;Regelt die Anzahl und  Entwicklungsstufe der Kolonien, mit denen Sie starten. Dies betrifft folgende Faktoren: Zahl und Einwohnerzahl der Kolonien, den erkundeten Teil der Galaxis, sowie die Zahl der Schiffe und Basen in Ihrem Imperium.
+Determines how many colonies you have and how well established your empire is		;Regelt die Anzahl und  Entwicklungsstufe der Kolonien, mit denen Sie starten. Dies betrifft folgende Faktoren: Zahl und Einwohnerzahl der Kolonien, den erkundeten Teil der Galaxie, sowie die Zahl der Schiffe und Basen in Ihrem Imperium.
 Determines how advanced your research is		;Legt fest, wie fortgeschritten Ihre Forschung ist, und damit auch, welche Komponenten Ihnen für den Bau von Raumschiffen und Basen zur Verfügung stehen.
 Determines the level of corruption		;Legt die Stufe der Korruption und der Einkommensverluste in den Kolonien Ihres Imperiums fest.
-When this is turned on the specified number of empires are automatically generated		;Wenn aktiv, wird beim Start die angegebene Anzahl von Imperien erstellt. Die Eigenschaften und Rassen der Imperien werden zwar zufällig festgelegt, aber die Expansionseinstellung der Galaxis beeinflusst die Größe dieser Imperien.
+When this is turned on the specified number of empires are automatically generated		;Wenn aktiv, wird beim Start die angegebene Anzahl von Imperien erstellt. Die Eigenschaften und Rassen der Imperien werden zwar zufällig festgelegt, aber die Expansionseinstellung der Galaxie beeinflusst die Größe dieser Imperien.
 The number of starting empires to auto-generate		;Die Anzahl der Imperien, die bei Spielbeginn automatisch erstellt werden.
-Here you can manually specify all of the starting empires in the galaxy		;Hier können Sie alle Imperien samt ihrer Eigenschaften selbst festlegen, die bei Spielbeginn die Galaxis bevölkern sollen. Mit der Einstellung "Nähe zu Ihnen" bestimmen Sie die relative Entfernung zwischen dem jeweiligen Imperium und Ihrem Reich.
+Here you can manually specify all of the starting empires in the galaxy		;Hier können Sie alle Imperien samt ihrer Eigenschaften selbst festlegen, die bei Spielbeginn die Galaxie bevölkern sollen. Mit der Einstellung "Nähe zu Ihnen" bestimmen Sie die relative Entfernung zwischen dem jeweiligen Imperium und Ihrem Reich.
 New Empires appear during game		;Während des Spiels entstehen neue Imperien.
 If this is turned on then independent alien populations can eventually become empires		;Wenn aktiv, können unabhängige fremde Völker Imperien gründen, sobald sie eine bestimmte Entwicklungsstufe erreichen. Das bedeutet, dass sich während des Spiels unvermittelt neue Imperien bilden können.
 Change Theme DESCRIPTION		;Theme ändern:\nSie können die Bilder, Namen und Musik von Distant Worlds ändern und so das Spiel Ihren Wünschen anpassen.
-Determines how many pirates are present in the galaxy		;Legt fest, wie viele Piraten es in der Galaxis gibt. Piraten können Probleme bereiten, aber sie haben auch ihren Nutzen...
+Determines how many pirates are present in the galaxy		;Legt fest, wie viele Piraten es in der Galaxie gibt. Piraten können Probleme bereiten, aber sie haben auch ihren Nutzen...
 
 Not Explored		;Nicht erkundet
 SHIPTYPE NAME requires refuelling		;{0} {1} muss aufgetankt werden
@@ -1309,7 +1309,7 @@ HyperjumpDisabledArea		;Das Gebiet scheint sich auf unseren Hyperantrieb auszuwi
 A broadcast message announces		;Sie erhalten die folgende Funkmeldung
 Perhaps it would be wise to leave this area		;Vielleicht wäre es klüger, dieses Gebiet zu verlassen
 Debris Field Detail		;Es scheint sich um die Überreste einer großen Schlacht zu handeln.\n\nIn den Trümmern befinden sich auch viele mächtige Kriegsschiffe, die noch zu retten sein könnten. Wir sollten sofort Bauschiffe dorthin schicken, um möglichst viele dieser wertvollen Raumschiffe zu bergen.\n\nDurch die Reparatur der fortgeschrittenen Technologien in diesen Raumschiffen würde unser Imperium ohne Zweifel entscheidende Forschungsboni erhalten.\n\nZudem wäre es wohl klug, eine bewaffnete Eskorte mitzuschicken - damit niemand auf die Idee kommt, Anspruch auf die Raumschiffe zu erheben. Sie gehören uns... und nur uns!
-Planet Destroyer Detail		;Eine riesige mobile Militärbasis befindet sich im Bau. Sie weist eine Superwaffe auf, die dafür gedacht ist, einen ganzen Planeten zu zerstören! Die Basis, {0} genannt, scheint halbfertig aufgegeben worden zu sein.\n\nWer auch immer den Bau dieser Basis zu Ende bringt, würde damit über die gesamte Galaxis herrschen. Darüber hinaus würde unsere Forschung sehr davon profitieren, wenn wir die fortgeschrittenen Technologien in diesem Projekt untersuchen würden.\n\nDaher sollten wir versuchen, den Bau dieser gigantischen Waffe so schnell wie möglich abzuschließen!
+Planet Destroyer Detail		;Eine riesige mobile Militärbasis befindet sich im Bau. Sie weist eine Superwaffe auf, die dafür gedacht ist, einen ganzen Planeten zu zerstören! Die Basis, {0} genannt, scheint halbfertig aufgegeben worden zu sein.\n\nWer auch immer den Bau dieser Basis zu Ende bringt, würde damit über die gesamte Galaxie herrschen. Darüber hinaus würde unsere Forschung sehr davon profitieren, wenn wir die fortgeschrittenen Technologien in diesem Projekt untersuchen würden.\n\nDaher sollten wir versuchen, den Bau dieser gigantischen Waffe so schnell wie möglich abzuschließen!
 Valuable Discovery ENVIRONMENT PLANETTYPE NAME SYSTEM		;Wir haben auf {1} {2} ({0}) im System {3} eine sehr wertvolle Entdeckung gemacht
 Restricted Resource Discovery - Korabbian Spice		;Dieser {0} verfügt über einen sehr seltenen Rohstoff: Korabbiasalz.\n\nDas Salz erhöht die geistige Aufgewecktheit ungemein und ermöglicht es einem Lebewesen somit, unglaubliche gedankliche Meisterleistungen zu vollbringen.
 Restricted Resource Discovery - Zentabia Fluid		;Dieser {0} verfügt über einen sehr seltenen Rohstoff: Zentabiasaft.\n\nDieser Saft kann nahezu jede Wunde oder Krankheit heilen – selbst verletzte Gliedmaßen oder Organe.
@@ -1472,10 +1472,10 @@ IntelligenceMissionOutcome SabotageColony Succeed		;einen Aufstand auf {0} auszu
 IntelligenceMissionOutcome SabotageColony Fail		;einen Aufstand auf {0} auszulösen
 IntelligenceMissionOutcome SabotageConstruction Succeed		;die Konstruktion bei {0} zu sabotieren
 IntelligenceMissionOutcome SabotageConstruction Fail		;die Konstruktion bei {0} zu sabotieren
-IntelligenceMissionOutcome StealGalaxyMap Succeed		;die Galaxiskarte des Imperiums "{0}" zu stehlen
-IntelligenceMissionOutcome StealGalaxyMap Fail		;die Galaxiskarte des Imperiums "{0}" zu stehlen
-IntelligenceMissionOutcome StealGalaxyMap OurEmpire Succeed		;unsere Galaxiskarte zu stehlen!
-IntelligenceMissionOutcome StealGalaxyMap OurEmpire Fail		;unsere Galaxiskarte zu stehlen!
+IntelligenceMissionOutcome StealGalaxyMap Succeed		;die Galaxiekarte des Imperiums "{0}" zu stehlen
+IntelligenceMissionOutcome StealGalaxyMap Fail		;die Galaxiekarte des Imperiums "{0}" zu stehlen
+IntelligenceMissionOutcome StealGalaxyMap OurEmpire Succeed		;unsere Galaxiekarte zu stehlen!
+IntelligenceMissionOutcome StealGalaxyMap OurEmpire Fail		;unsere Galaxiekarte zu stehlen!
 IntelligenceMissionOutcome StealTerritoryMap Succeed		;die Gebietskarte des Imperiums "{0}" zu stehlen
 IntelligenceMissionOutcome StealTerritoryMap Fail		;die Gebietskarte des Imperiums "{0}" zu stehlen
 IntelligenceMissionOutcome StealTerritoryMap OurEmpire Succeed		;unsere Gebietskarte zu stehlen!
@@ -1660,12 +1660,12 @@ Pirate Offer Discovery		;Wir können Ihnen die Position einer faszinierenden Ent
 
 Victory Conditions Time Limit Win		;Das Zeitlimit von {0} ist verstrichen und Ihr Imperium ist das mächtigste!
 Victory Conditions Time Limit Lose		;Das Zeitlimit von {0} ist verstrichen und das Imperium "{1}" ist das mächtigste!
-Victory Conditions Population Win		;Sie haben die Siegbedingung "Bevölkerung" erfüllt, indem Sie über mehr als {0}% der Bevölkerung in der Galaxis herrschen
-Victory Conditions Territory Win		;Sie haben die Siegbedingung "Territorium" erfüllt, indem Sie mehr als {0}% der Kolonien in der Galaxis kontrollieren
-Victory Conditions Economy Win		;Sie haben die Siegbedingung "Wirtschaft" erfüllt, indem Sie mehr als {0}% des Gesamteinkommens der Galaxis erzeugen
-Victory Conditions Population Lose		;Das Imperium "{0}" hat die Siegbedingung "Bevölkerung" erfüllt, indem es über mehr als {1}% der Bevölkerung in der Galaxis herrscht
-Victory Conditions Territory Lose		;Das Imperium "{0}" hat die Siegbedingung "Territorium" erfüllt, indem es mehr als {1}% der Kolonien in der Galaxis kontrolliert
-Victory Conditions Economy Lose		;Das Imperium "{0}" hat die Siegbedingung "Wirtschaft" erfüllt, indem es mehr als {1}% des Gesamteinkommens der Galaxis erzeugt
+Victory Conditions Population Win		;Sie haben die Siegbedingung "Bevölkerung" erfüllt, indem Sie über mehr als {0}% der Bevölkerung in der Galaxie herrschen
+Victory Conditions Territory Win		;Sie haben die Siegbedingung "Territorium" erfüllt, indem Sie mehr als {0}% der Kolonien in der Galaxie kontrollieren
+Victory Conditions Economy Win		;Sie haben die Siegbedingung "Wirtschaft" erfüllt, indem Sie mehr als {0}% des Gesamteinkommens der Galaxie erzeugen
+Victory Conditions Population Lose		;Das Imperium "{0}" hat die Siegbedingung "Bevölkerung" erfüllt, indem es über mehr als {1}% der Bevölkerung in der Galaxie herrscht
+Victory Conditions Territory Lose		;Das Imperium "{0}" hat die Siegbedingung "Territorium" erfüllt, indem es mehr als {1}% der Kolonien in der Galaxie kontrolliert
+Victory Conditions Economy Lose		;Das Imperium "{0}" hat die Siegbedingung "Wirtschaft" erfüllt, indem es mehr als {1}% des Gesamteinkommens der Galaxie erzeugt
 
 Independent Colony Report Intro		;Wir haben ein unabhängiges Volk von {0} auf {2} {3} ({1}) im System {4} entdeckt
 Independent Colony Legend Intro		;Das Imperium "{0}" hat eine uralte Legende bewahrt, welche es mit Ihnen teilen möchte. 
@@ -1904,7 +1904,7 @@ IntelligenceMissionType DeepCover		;Infiltrierung
 IntelligenceMissionType InciteRevolution		;Revolution anstiften
 IntelligenceMissionType SabotageColony		;Revolution anstiften in Kolonie
 IntelligenceMissionType SabotageConstruction		;Konstruktion sabotieren
-IntelligenceMissionType StealGalaxyMap		;Galaxiskarte stehlen
+IntelligenceMissionType StealGalaxyMap		;Galaxiekarte stehlen
 IntelligenceMissionType StealOperationsMap		;Aufmarschpläne stehlen
 IntelligenceMissionType StealTechData		;Forschungsdaten stehlen
 IntelligenceMissionType StealTerritoryMap		;Gebietskarte stehlen
@@ -1942,7 +1942,7 @@ Location Planet		;{1} {2} ({0}) im System {3} in Sektor {4}
 
 'STORY CLUES
 SecondaryStoryClue1		; Sie erzählen, dass ihre Vorfahren einst die Raumfahrt beherrschten und die Sterne bereisten. Doch dieses Wissen ging in einer schrecklichen Katastrophe verloren, die sie "Das Große Vergessen" nennen.
-SecondaryStoryClue2		; Sie berichten von einer längst vergangenen Zeit, in der die Galaxis von einer grausamen fremden Rasse beherrscht wurde. Allerdings verschwanden diese skrupellosen Tyrannen irgendwann plötzlich und wurden danach nie wieder gesehen. Seitdem leben sie in ständiger Angst, dass ihre schrecklichen Häscher wieder zurückkehren könnten.
+SecondaryStoryClue2		; Sie berichten von einer längst vergangenen Zeit, in der die Galaxie von einer grausamen fremden Rasse beherrscht wurde. Allerdings verschwanden diese skrupellosen Tyrannen irgendwann plötzlich und wurden danach nie wieder gesehen. Seitdem leben sie in ständiger Angst, dass ihre schrecklichen Häscher wieder zurückkehren könnten.
 SecondaryStoryClue3		; Sie erinnern sich an eine längst vergangene Zeit, in der riesige Monster vom Himmel herabstiegen, um ganze Städte zu vernichten. Diese Monster zerstörten alles, was sich ihnen in den Weg stellte, und löschten ihre Zivilisation aus. Seitdem leben sie in ständiger Angst, dass diese grauenhaften Monster wieder zurückkehren könnten.
 SecondaryStoryClue4		; Sie erzählen, dass ihre Vorfahren früher in einer Zeit schier endlosen Wissens lebten und über Technologien verfügten, die weit über den heutigen Stand der Technik hinausgingen. Ihre Zivilisation ging jedoch unter, als eine tödliche Seuche ihren Planeten heimsuchte und den größten Teil der Bevölkerung dahinraffte.
 SecondaryStoryClue5		; Die Nachricht scheint ein Statusbericht zu einem Mammutbauprojekt zu sein:\n\n========================================\nSTATUSBERICHT - PROJEKT "ZERSTÖRER"\n\nDie Bauarbeiten an unserem kolossalen Projekt gehen planmäßig voran. Es sind zwar zahlreiche technische Probleme aufgetreten, aber bisher konnten wir sie alle lösen - wir sind voll im Zeitplan.\n\nBesonders schwierig gestaltet sich die Geheimhaltung unserer Nachschubkonvois, da sie Unmengen an Material zur Baustelle transportieren müssen. Aber dadurch, dass wir vor kurzem das Judan-System erobert haben, konnten wir dieses Problem größtenteils lösen.\n\nWenn wir erst einmal unsere neue Superwaffe enthüllen, werden unsere Gegner in Panik erzittern!\n========================================
@@ -1954,15 +1954,15 @@ Archival Refuge Station		;Zufluchtsarchiv
 X Archival Refuge		;Zufluchtsarchiv {0}
 SecondaryStoryClue9 Location		; An alle Empfänger dieser Nachricht - alle unsere Schätze und unser gesamtes Wissen sind am folgenden Ort zu finden: {0} bei den galaktischen Koordinaten {1}, {2}, {3}.\n\nWir hoffen inständig, dass man sie umsichtig nutzt.\n
 
-StoryClue1		; Die Nachricht scheint ein vertraulicher Geheimdienstbericht über die Ankunft eines neuen Imperiums in der Galaxis zu sein:\n\n========================================\nVERTRAULICHE ANALYSE DER REPUBLIK GOLTAK - DIE SHAKTURI-ACHSE\n\nDie Shakturi-Achse kam vor etwa zehn Jahren in unserer Galaxis an. Sehr schnell erarbeiteten sich die Shakturi den Ruf, grausam und aggressiv zu sein. Wir sollten gegenüber ihnen immer sehr große Vorsicht walten lassen - ihnen ist absolut nicht zu trauen.\n\nDie Shakturi wollen ganz offensichtlich über alle herrschen. Sie strafen ihre Nachbarn mit extremer Geringschätzung. Wie sie mit dem Atuuk-Königreich umgegangen sind, ist ein sehr gutes Beispiel für ihre Brutalität.\n\nWir sind der Überzeugung, dass die Shakturi heimlich daran arbeiten, alle Imperien in ihrem Einflussbereich zu unterwerfen. Was darüber hinaus ihr Ziel sein könnte, ist bisher noch unklar.\n========================================
-StoryClue2		; Die Nachricht scheint ein Geheimdienstbericht über die Erfolge eines Imperiums bei geheimen Infiltrationsmissionen und der Schwächung seiner Gegner zu sein:\n\n========================================\nGEHEIMDIENSTBERICHT SHAKTURI-ACHSE\n\nUnsere aktuellen Anstrengungen, die erbärmlichen, zurückgebliebenen Völker dieser Galaxis zu spalten, verlaufen äußerst erfolgreich. Wir haben mittlerweile jedes Imperium infiltriert und arbeiten mehr und mehr daran, ihre kümmerlichen Allianzen zu unterwandern.\n\nDer uralte Karatur-Pakt ist nach unserem neuesten Täuschungsmanöver in die Brüche gegangen - wir hatten den Genozid bei Volindra 7 der Republik Goltak in die Schuhe geschoben! Es war zu köstlich, Zeuge ihrer vehementen Abstreitungsversuche zu werden!\n\nAllerdings ist es zu einem erwähnenswerten Problem in unseren diplomatischen Sabotageplänen gekommen - und das ist die Gründung der Freiheitsallianz. Dieses neue Bündnis stellt eine ernsthafte Bedrohung für unsere Ziele dar, denn die Menschen, die Kiadian und die Ackdarian bilden eine fähige Kombination aus Stärke und Intelligenz. Doch auch sie haben wir bereits unterwandert... wir sind über jeden ihrer Schritte informiert.\n\nWenn wir irgendwann unseren finalen Angriff starten, wird uns nichts und niemand mehr aufhalten können!\n========================================
+StoryClue1		; Die Nachricht scheint ein vertraulicher Geheimdienstbericht über die Ankunft eines neuen Imperiums in der Galaxie zu sein:\n\n========================================\nVERTRAULICHE ANALYSE DER REPUBLIK GOLTAK - DIE SHAKTURI-ACHSE\n\nDie Shakturi-Achse kam vor etwa zehn Jahren in unserer Galaxie an. Sehr schnell erarbeiteten sich die Shakturi den Ruf, grausam und aggressiv zu sein. Wir sollten gegenüber ihnen immer sehr große Vorsicht walten lassen - ihnen ist absolut nicht zu trauen.\n\nDie Shakturi wollen ganz offensichtlich über alle herrschen. Sie strafen ihre Nachbarn mit extremer Geringschätzung. Wie sie mit dem Atuuk-Königreich umgegangen sind, ist ein sehr gutes Beispiel für ihre Brutalität.\n\nWir sind der Überzeugung, dass die Shakturi heimlich daran arbeiten, alle Imperien in ihrem Einflussbereich zu unterwerfen. Was darüber hinaus ihr Ziel sein könnte, ist bisher noch unklar.\n========================================
+StoryClue2		; Die Nachricht scheint ein Geheimdienstbericht über die Erfolge eines Imperiums bei geheimen Infiltrationsmissionen und der Schwächung seiner Gegner zu sein:\n\n========================================\nGEHEIMDIENSTBERICHT SHAKTURI-ACHSE\n\nUnsere aktuellen Anstrengungen, die erbärmlichen, zurückgebliebenen Völker dieser Galaxie zu spalten, verlaufen äußerst erfolgreich. Wir haben mittlerweile jedes Imperium infiltriert und arbeiten mehr und mehr daran, ihre kümmerlichen Allianzen zu unterwandern.\n\nDer uralte Karatur-Pakt ist nach unserem neuesten Täuschungsmanöver in die Brüche gegangen - wir hatten den Genozid bei Volindra 7 der Republik Goltak in die Schuhe geschoben! Es war zu köstlich, Zeuge ihrer vehementen Abstreitungsversuche zu werden!\n\nAllerdings ist es zu einem erwähnenswerten Problem in unseren diplomatischen Sabotageplänen gekommen - und das ist die Gründung der Freiheitsallianz. Dieses neue Bündnis stellt eine ernsthafte Bedrohung für unsere Ziele dar, denn die Menschen, die Kiadian und die Ackdarian bilden eine fähige Kombination aus Stärke und Intelligenz. Doch auch sie haben wir bereits unterwandert... wir sind über jeden ihrer Schritte informiert.\n\nWenn wir irgendwann unseren finalen Angriff starten, wird uns nichts und niemand mehr aufhalten können!\n========================================
 StoryClue3		; Die Nachricht scheint eine archivierte Rundfunkmeldung über eine heftige Schlacht in einem großen galaktischen Krieg zu sein:\n\n========================================\nFTL INTERSEKTOR NEWS - BRENNPUNKT\n\nWir erhalten Berichte über eine katastrophale Niederlage in der Schlacht gegen die Shakturi-Achse.\n\nVertreter der Freiheitsallianz haben eine schockierende neue Entwicklung während der Verteidigung des Rekallios-Systems beschrieben. In der Schlacht setzten die Shakturi eine neuartige Superwaffe ein, die den Planeten Rekallios 5 vollständig zerstörte; zurück blieb lediglich ein Trümmerfeld voller Felsbrocken. Dieser tödliche Planetenzerstörer kam wie aus dem Nichts - die Streitkräfte der Allianz hatten keine andere Wahl, als zu fliehen.\n\nDieser herbe Verlust im Rekallios-System ist besonders bitter für die Freiheitsallianz, die zuvor schon eine Reihe von vernichtenden Niederlagen in den umliegenden Systemen hinnehmen musste. The Shakturi-Achse hat in den wenigen Monaten seit Beginn ihres Feldzugs mehr als 20 Sektoren unter ihre Kontrolle gebracht. Die Intensität der Shakturi-Angriffe stellt die überforderten Streitkräfte der Allianz vor schier unlösbare Probleme.\n\nAdmiral Kandulian, Oberbefehlshaber der Streitkräfte der Freiheitsallianz, hat aus diesem Grund die Gouverneure der Kolonien auf den Kernwelten der Allianz angewiesen, Notfallevakuierungsmaßnahmen einzuleiten.\n========================================
 StoryClue4		; Die Nachricht scheint ein vertraulicher Bericht über strenggeheime militärische Forschungsprojekte zu sein:\n\n========================================\nBERICHT ÜBER GEHEIME WAFFENFORSCHUNG DER FREIHEITSALLIANZ\n\nWie Sie alle wissen, waren unsere Niederlagen gegen die Shakturi-Achse geradezu vernichtend. Unseren Berechnungen zufolge werden wir schon in wenigen Monaten vollständig besiegt sein. Aufgrund dieser verzweifelten Lage hat uns das Oberkommando der Allianz vor einigen Monaten grünes Licht für Forschungsprojekte gegeben, mit denen wir hoffen, die Shakturi aufhalten zu können. Dieser Bericht soll Ihnen einen Überblick über unsere Fortschritte und den aktuellen Status geben.\n\nUnsere Forschungsprojekte können allgemein in zwei Bereiche unterteilt werden:\n1. Eine Virus-Biowaffe, die die genetische Struktur der Shakturi angreift.\n2. Eine genetisch modifizierte Weltraumkreatur, die dieses Virus verbreiten kann.\n\nDer zweite Teil verläuft bisher erfolgreich - der gewöhnliche Kaltor wurde genetisch modifiziert und in ein riesiges Weltraumraubtier verwandelt. Dieser neue Riesenkaltor dürfte ein hervorragender Träger unseres Supervirus sein.\n\nDie Arbeit an diesem Supervirus hingegen hat sich als relativ schwierig erwiesen. Es ist uns zwar gelungen, ein unglaublich tödliches Virus zu entwickeln, aber es ist äußerst kompliziert, dafür zu sorgen, dass es nur die Shakturi befällt. Nach aktuellem Stand ist das Virus zwar 100% tödlich für die Shakturi, aber auch 70% tödlich für die meisten anderen Spezies. Wir sind jedoch zuversichtlich, dass wir diesen Wert in den kommenden sechs Monaten auf nur 5% senken können.\n\nDas Oberkommando hat mehrfach betont, wie dringend diese tödlichen Waffen benötigt werden, doch wir befürchten, dass es zu katastrophalen Konsequenzen kommen könnte, wenn wir sie einsetzen, bevor die Arbeit daran abgeschlossen ist.\n========================================
-StoryClue5		; Hierbei scheint es sich um eine letzte Nachricht eines schwer beschädigten Hauptschiffs zu handeln. Die Nachricht schildert das Ergebnis eines katastrophalen Krieges in der Galaxis:\n\n========================================\nLETZTE NACHRICHT AN ALLE ÜBERLEBENDEN\nRaumschiff "Wächter der Freiheit" der Freiheitsallianz, Flaggschiff der 8. Flotte, Sternenzeit 9876.07.30\n\nDies hier ist die letzte Nachricht an alle Überlebenden der Streitkräfte der Freiheitsallianz und unserer Verbündeten. Unser Hauptreaktor gibt den Geist auf und wir sind dabei, eine Massenevakuierung auf einen gerade so bewohnbaren Planeten hier im Torak-System durchzuführen.\n\nDer große Krieg ist endlich vorbei, aber welchen Preis mussten wir dafür zahlen? Der "Erfolg" des tödlichen Xaraktor-Virus hat selbst die kühnsten Erwartungen übertroffen und die Shakturi buchstäblich dahingerafft. Soweit wir wissen, gibt es hier weit und breit keine Shakturi mehr.\n\nDoch leider hat das Virus auch fast alle anderen Lebewesen in der Galaxis getötet. Nachdem es freigelassen wurde, mutierte es mit rasender Geschwindigkeit und vernichtete alles, womit es in Berührung kam. Wir glauben, dass sich das Virus jedoch mittlerweile selbst ausgebremst hat - da es nur wenige Wochen in einem Wirt überleben kann. Dennoch rasen die Riesenkaltoren noch unkontrolliert durch den Weltraum, was den Aufenthalt in vielen Systemen sehr gefährlich macht.\n\nSeit Wochen haben wir schon keinen Kontakt zu irgendjemandem. Es ist nicht auszuschließen, dass hier und da kleine Teile der Zivilisation überlebt haben, aber wir machen uns da keine großen Hoffnungen. Wer auch immer diese Nachricht empfängt: Wir wünschen Ihnen viel Glück. Möge die galaktische Zivilisation eines Tages in ferner Zukunft wieder auferstehen...\n========================================
+StoryClue5		; Hierbei scheint es sich um eine letzte Nachricht eines schwer beschädigten Hauptschiffs zu handeln. Die Nachricht schildert das Ergebnis eines katastrophalen Krieges in der Galaxie:\n\n========================================\nLETZTE NACHRICHT AN ALLE ÜBERLEBENDEN\nRaumschiff "Wächter der Freiheit" der Freiheitsallianz, Flaggschiff der 8. Flotte, Sternenzeit 9876.07.30\n\nDies hier ist die letzte Nachricht an alle Überlebenden der Streitkräfte der Freiheitsallianz und unserer Verbündeten. Unser Hauptreaktor gibt den Geist auf und wir sind dabei, eine Massenevakuierung auf einen gerade so bewohnbaren Planeten hier im Torak-System durchzuführen.\n\nDer große Krieg ist endlich vorbei, aber welchen Preis mussten wir dafür zahlen? Der "Erfolg" des tödlichen Xaraktor-Virus hat selbst die kühnsten Erwartungen übertroffen und die Shakturi buchstäblich dahingerafft. Soweit wir wissen, gibt es hier weit und breit keine Shakturi mehr.\n\nDoch leider hat das Virus auch fast alle anderen Lebewesen in der Galaxie getötet. Nachdem es freigelassen wurde, mutierte es mit rasender Geschwindigkeit und vernichtete alles, womit es in Berührung kam. Wir glauben, dass sich das Virus jedoch mittlerweile selbst ausgebremst hat - da es nur wenige Wochen in einem Wirt überleben kann. Dennoch rasen die Riesenkaltoren noch unkontrolliert durch den Weltraum, was den Aufenthalt in vielen Systemen sehr gefährlich macht.\n\nSeit Wochen haben wir schon keinen Kontakt zu irgendjemandem. Es ist nicht auszuschließen, dass hier und da kleine Teile der Zivilisation überlebt haben, aber wir machen uns da keine großen Hoffnungen. Wer auch immer diese Nachricht empfängt: Wir wünschen Ihnen viel Glück. Möge die galaktische Zivilisation eines Tages in ferner Zukunft wieder auferstehen...\n========================================
 
 A datacore recovered from the ruins NAVIGATIONAL DIRECTIONS		;Ein Datenkern, der in den Ruinen gefunden wurde, enthält einige interessante Informationen. Darunter vor allem RICHTUNGSANGABEN, die folgende Position beschreiben:
 We should send a ship to investigate this location.		;Wir sollten ein Raumschiff losschicken, das sich dort umsieht.
-Ruins Discovery Historical Details		;In den Ruinen von "{0}" haben wir eine interessante Entdeckung gemacht: Ein Datenkern, den wir gefunden haben, enthält eine Nachricht über die Geschichte der Galaxis.
+Ruins Discovery Historical Details		;In den Ruinen von "{0}" haben wir eine interessante Entdeckung gemacht: Ein Datenkern, den wir gefunden haben, enthält eine Nachricht über die Geschichte der Galaxie.
 Ruins Discovery Money		;In den Ruinen von "{0}" haben wir einen wertvollen Schatz im Wert von {1} Credits gefunden.
 Treasure Recovered		;Schatz gefunden
 Ruins Discovery Research		;In den Ruinen von "{0}" haben wir eine Technologie gefunden, die unser Wissen über das Thema "{1}" erweitert hat.
@@ -1990,27 +1990,27 @@ Ruins Pirate Ambush		;Als unser Forschungsteam die Ruinen von "{0}" betritt, akt
 Secret Super Weapon Discovered		;Geheime Superwaffe entdeckt
 Ruins Secret Super Weapon Discovered		;In den Ruinen von "{0}" haben wir eine geheime Technologie gefunden, mit deren Hilfe wir die einzigartige Superwaffe "{1}" bauen können.\n\nDarüber hinaus sind wir auch auf weitere Technologien gestoßen, mit denen wir Raumschiffe und Basen enormer Größe bauen können.\n\nWenn wir diese beiden Entdeckungen kombinieren, werden wir in der Lage sein, Kriegsschiffe von unerreichter Stärke zu bauen...
 Secret Form of Government Revealed		;Geheime Regierungsform entdeckt
-Ruins Secret Form of Government Revealed		;In den Ruinen von "{0}" haben wir Dokumente gefunden, die eine einzigartige, uns bisher unbekannte Regierungsform in allen Details erläutern, den {1}. Diese Regierungsform kann uns Vorteile verschaffen, die sonst kein anderes Imperium in der Galaxis hat.\n\n
-Government Description Way of the Ancients		;Die Dokumente sagen aus, dass der "Weg der Ahnen" eine gütige und positive Regierungsform ist. Vor vielen tausend Jahren übten viele Völker dieser Galaxis diese Regierungsform aus. Wir wissen allerdings nicht, was aus ihnen wurde.
-Government Description Way of Darkness		;Die Dokumente sagen aus, dass der "Weg der Dunkelheit" eine grausame Regierungsform ist. Vor vielen tausenden Jahren gab es ein Imperium, dass damit die Galaxis beherrschte. Was aus diesem Imperium wurde, ist nicht bekannt.
+Ruins Secret Form of Government Revealed		;In den Ruinen von "{0}" haben wir Dokumente gefunden, die eine einzigartige, uns bisher unbekannte Regierungsform in allen Details erläutern, den {1}. Diese Regierungsform kann uns Vorteile verschaffen, die sonst kein anderes Imperium in der Galaxie hat.\n\n
+Government Description Way of the Ancients		;Die Dokumente sagen aus, dass der "Weg der Ahnen" eine gütige und positive Regierungsform ist. Vor vielen tausend Jahren übten viele Völker dieser Galaxie diese Regierungsform aus. Wir wissen allerdings nicht, was aus ihnen wurde.
+Government Description Way of Darkness		;Die Dokumente sagen aus, dass der "Weg der Dunkelheit" eine grausame Regierungsform ist. Vor vielen tausenden Jahren gab es ein Imperium, dass damit die Galaxie beherrschte. Was aus diesem Imperium wurde, ist nicht bekannt.
 Ruins Secret Form of Government Revealed Adoption		;Wir können diese Regierungsform jederzeit im Imperium-Überblick (F12) übernehmen.
 Ruins Lost Ship Location		;In den Ruinen von "{0}" haben wir einen Datenkern gefunden, der die Koordinaten des verschollenen Raumschiffs {1} beinhaltet. Das Raumschiff kann bei {3} ({2}) im System {4} in Sektor {5} gefunden werden.\n\nWir sollten uns schnell an diese Position begeben und dieses Raumschiff für unser Imperium beanspruchen.
 Lost Colony Location Revealed		;Koordinaten einer vergessenen Kolonie erfahren
 Ruins Lost Colony Location Revealed		;In den Ruinen von "{0}" haben wir einen Datenkern gefunden, der die Koordinaten einer vergessenen Kolonie enthält. Die Kolonie befindet sich auf {1} {2} im System {3} in Sektor {4}.\n\nWir sollten uns schnell an diese Position begeben und diese Kolonie für unser Imperium beanspruchen.
 Sleeping Alien Race Awoken		;Schlafende fremde Rasse geweckt
-Ruins Sleeping Alien Race Awoken		;Bei der Untersuchung der Ruinen von "{0}" hat unser Forschungsteam eine große Stasisschlafkammer gefunden. Die riesige Kammer ist gefüllt mit Millionen von schlafenden {1}.\n\nUnser Team hat allerdings versehentlich den Mechanismus zum Aufwecken der schlafenden {1} ausgelöst, daher haben diese nun die Kontrolle über den Ort ({2}) an sich gerissen.\n\nDie {1} behaupten, dass sie sich in den Stasisschlaf begeben hätten, als vor langer Zeit ein böses Imperium die gesamte Galaxis tyrannisierte. Die wieder erwachten {1} haben auch jetzt noch Angst davor, dass diese schrecklichen Wesen - sie nennen sie die "Dunklen Herrscher" - wieder zurückkehren könnten.
-Ruins Origins Positive		;Sie besagen, dass die {0} vor langer Zeit heldenhaft Widerstand gegen eine überwältigende Invasion durch böse Fremde aus einer anderen Galaxis geleistet hätten. Die Geschichte findet allerdings ein jähes Ende, als die {0} und ihre Verbündeten von den Fremden geradezu überrannt werden...
-Ruins Origins Negative		;Sie besagen, dass sich die {0} vor langer Zeit mit einem geheimnisvollen Imperium aus einer anderen, fernen Galaxis, das gerade eine Invasion begonnen hatte, verbündet hätten. Diese Invasoren planten offenbar die Eroberung und Versklavung der gesamten Galaxis. Was aus dieser furchterregenden Allianz geworden ist, bleibt indes ungeklärt...
-Ruins Origins Human		;Sie besagen, dass die Menschen vor langer Zeit heldenhaft Widerstand gegen eine überwältigende Invasion durch böse Fremde aus einer anderen Galaxis geleistet hätten. Die Geschichte findet allerdings ein jähes Ende, als die Menschen und ihre Verbündeten von den Fremden geradezu überrannt werden...
-Ruins Origins Kiadian		;Sie besagen, dass die Kiadian einst gegen eine überwältigende Armee von fremden Invasoren aus einer anderen Galaxis gekämpft hätten. Das Imperium der Kiadian war wohl ein wichtiges Mitglied einer Allianz, die sich diesen bösen Invasoren entgegenstellte. Der Ausgang der Auseinandersetzung wird nicht erwähnt.
-Ruins Origins Ackdarian		;Sie besagen, dass die Ackdarian vor langer Zeit tapfer gegen eine schreckliche fremde Rasse gekämpft hätten, die aus einer fernen Galaxis gekommen war und eine Invasion begonnen hatte. Die Ackdarian erlitten vernichtende Verluste, als diese gnadenlosen Invasoren ihre Systeme überrannten.
+Ruins Sleeping Alien Race Awoken		;Bei der Untersuchung der Ruinen von "{0}" hat unser Forschungsteam eine große Stasisschlafkammer gefunden. Die riesige Kammer ist gefüllt mit Millionen von schlafenden {1}.\n\nUnser Team hat allerdings versehentlich den Mechanismus zum Aufwecken der schlafenden {1} ausgelöst, daher haben diese nun die Kontrolle über den Ort ({2}) an sich gerissen.\n\nDie {1} behaupten, dass sie sich in den Stasisschlaf begeben hätten, als vor langer Zeit ein böses Imperium die gesamte Galaxie tyrannisierte. Die wieder erwachten {1} haben auch jetzt noch Angst davor, dass diese schrecklichen Wesen - sie nennen sie die "Dunklen Herrscher" - wieder zurückkehren könnten.
+Ruins Origins Positive		;Sie besagen, dass die {0} vor langer Zeit heldenhaft Widerstand gegen eine überwältigende Invasion durch böse Fremde aus einer anderen Galaxie geleistet hätten. Die Geschichte findet allerdings ein jähes Ende, als die {0} und ihre Verbündeten von den Fremden geradezu überrannt werden...
+Ruins Origins Negative		;Sie besagen, dass sich die {0} vor langer Zeit mit einem geheimnisvollen Imperium aus einer anderen, fernen Galaxie, das gerade eine Invasion begonnen hatte, verbündet hätten. Diese Invasoren planten offenbar die Eroberung und Versklavung der gesamten Galaxie. Was aus dieser furchterregenden Allianz geworden ist, bleibt indes ungeklärt...
+Ruins Origins Human		;Sie besagen, dass die Menschen vor langer Zeit heldenhaft Widerstand gegen eine überwältigende Invasion durch böse Fremde aus einer anderen Galaxie geleistet hätten. Die Geschichte findet allerdings ein jähes Ende, als die Menschen und ihre Verbündeten von den Fremden geradezu überrannt werden...
+Ruins Origins Kiadian		;Sie besagen, dass die Kiadian einst gegen eine überwältigende Armee von fremden Invasoren aus einer anderen Galaxie gekämpft hätten. Das Imperium der Kiadian war wohl ein wichtiges Mitglied einer Allianz, die sich diesen bösen Invasoren entgegenstellte. Der Ausgang der Auseinandersetzung wird nicht erwähnt.
+Ruins Origins Ackdarian		;Sie besagen, dass die Ackdarian vor langer Zeit tapfer gegen eine schreckliche fremde Rasse gekämpft hätten, die aus einer fernen Galaxie gekommen war und eine Invasion begonnen hatte. Die Ackdarian erlitten vernichtende Verluste, als diese gnadenlosen Invasoren ihre Systeme überrannten.
 Ruins Origins		;In den Ruinen von "{0}" haben wir sehr alte Dokumente aus der fernsten Vergangenheit gefunden. Diese Dokumente beschreiben wichtige Ereignisse in der Geschichte der {1}.
 Ruins Origins Positive Effect		;Die Entdeckung dieser tapferen und mutigen Vergangenheit wird die Zufriedenheit aller Imperien der {0} erhöhen.
 Ruins Origins Negative Effect		;Die Entdeckung dieser dunklen und schändlichen Vergangenheit wird die Zufriedenheit aller Imperien der {0} senken.
 History of the RACE		;Geschichte der {0}
-Ruins Origins Discovery Other		;Ein anderes Imperium hat bei der Erkundung der Galaxis in einer antiken Ruine eine bedeutsame Entdeckung gemacht.\n\nSie fanden dort sehr alte Dokumente aus der fernsten Vergangenheit. Diese Dokumente beschreiben wichtige Ereignisse in der Geschichte der {0}.
+Ruins Origins Discovery Other		;Ein anderes Imperium hat bei der Erkundung der Galaxie in einer antiken Ruine eine bedeutsame Entdeckung gemacht.\n\nSie fanden dort sehr alte Dokumente aus der fernsten Vergangenheit. Diese Dokumente beschreiben wichtige Ereignisse in der Geschichte der {0}.
 Refugee SHIPTYPE		;Flüchtendes Schiff vom Typ {0}
-Ruins Refugees		;Bei der Untersuchung der Ruinen von "{0}" hat unser Forschungsteam einen starken Signalsender gefunden. Sie haben ihn aktiviert und das Signal wurde offenbar von einer kleinen Raumschiffflotte empfangen, die eben im System angekommen ist!\n\nWir haben die folgende Nachricht von ihnen erhalten: "Seien Sie gegrüßt! Wir sind {1}-Flüchtlinge aus einer fernen Galaxis. Wegen eines gnadenlosen Krieges mit einer bösartigen fremden Rasse mussten wir unsere Heimat verlassen. Hiermit erbitten wir Asyl bei Ihnen und würden uns gerne Ihrem Imperium anschließen. Als Gegenleistung bieten wir Ihnen unsere Raumschiffflotte an."\n\nDie Flotte besteht aus einigen Kolonieschiffen und einer kleinen Eskorte von Kriegsschiffen. Die Raumschiffe scheinen recht fortschrittlich zu sein.\n\nWenn wir diese Flüchtlinge und ihre Raumschiffe in unser Imperium aufnehmen wollen, sollten wir uns zu ihrer Flotte bei {2} {3} in diesem System begeben.
+Ruins Refugees		;Bei der Untersuchung der Ruinen von "{0}" hat unser Forschungsteam einen starken Signalsender gefunden. Sie haben ihn aktiviert und das Signal wurde offenbar von einer kleinen Raumschiffflotte empfangen, die eben im System angekommen ist!\n\nWir haben die folgende Nachricht von ihnen erhalten: "Seien Sie gegrüßt! Wir sind {1}-Flüchtlinge aus einer fernen Galaxie. Wegen eines gnadenlosen Krieges mit einer bösartigen fremden Rasse mussten wir unsere Heimat verlassen. Hiermit erbitten wir Asyl bei Ihnen und würden uns gerne Ihrem Imperium anschließen. Als Gegenleistung bieten wir Ihnen unsere Raumschiffflotte an."\n\nDie Flotte besteht aus einigen Kolonieschiffen und einer kleinen Eskorte von Kriegsschiffen. Die Raumschiffe scheinen recht fortschrittlich zu sein.\n\nWenn wir diese Flüchtlinge und ihre Raumschiffe in unser Imperium aufnehmen wollen, sollten wir uns zu ihrer Flotte bei {2} {3} in diesem System begeben.
 Galactic Refugees Encountered		;Galaktische Flüchtlinge entdeckt
 Our survey team found nothing of interest in the ruins.		;Unser Forschungsteam hat nichts Interessantes in diesen Ruinen entdeckt.
 Our survey team found nothing of interest in the RUINNAME		;Unser Forschungsteam hat nichts Interessantes in den Ruinen von "{0}" entdeckt.
@@ -2028,10 +2028,10 @@ Abandoned Ship Acquire Intro Refugee		;Wir sind bei {1} an Bord eines Flüchtlin
 Abandoned Ship Acquire Transfer Refugee		;Die Besatzung hat uns das Kommando über das Raumschiff übergeben.
 Abandoned Ship Acquire Transfer		;Es scheint in Ordnung zu sein. Wir sind an Bord gegangen und haben die Kontrolle übernommen.
 Abandoned Ship Acquire Transfer X		;Das Objekt ({0}) scheint in Ordnung zu sein. Wir sind an Bord gegangen und haben die Kontrolle übernommen.
-Abandoned Ship Acquire Message		;Eine Nachricht auf dem Zentralcomputer des Objekts ({0}) offenbart unheimliche Details über die Geschichte der Galaxis.
+Abandoned Ship Acquire Message		;Eine Nachricht auf dem Zentralcomputer des Objekts ({0}) offenbart unheimliche Details über die Geschichte der Galaxie.
 Abandoned Ship Acquire Tech Bonus		;Wenn wir dieses Raumschiff in einem unserer Raumhäfen auseinandernehmen würden, würden wir Forschungsboni erhalten (Rechtsklick -> Ausmustern -> In der nächstgelegenen Werft).\n\nAndererseits könnten wir dieses mächtige Raumschiff auch behalten und es bei der Verteidigung unseres Imperiums einsetzen.
 Abandoned Ship Acquire Government Existing		;Auf dem Zentralcomputer des Objekts ({0}) haben wir Dokumente gefunden, die eine einzigartige Regierungsform in allen Details erläutern, den {1}. Wir kennen diese Regierungsform allerdings schon.
-Abandoned Ship Acquire Government		;Auf dem Zentralcomputer des Objekts ({0}) haben wir Dokumente gefunden, die eine einzigartige, uns bisher unbekannte Regierungsform in allen Details erläutern, den {1}. Diese Regierungsform kann uns Vorteile verschaffen, die sonst kein anderes Imperium in der Galaxis hat.
+Abandoned Ship Acquire Government		;Auf dem Zentralcomputer des Objekts ({0}) haben wir Dokumente gefunden, die eine einzigartige, uns bisher unbekannte Regierungsform in allen Details erläutern, den {1}. Diese Regierungsform kann uns Vorteile verschaffen, die sonst kein anderes Imperium in der Galaxie hat.
 Abandoned Ship Acquire Maps		;Auf dem Zentralcomputer des Objekts ({0}) haben wir detaillierte Karten von {1} umliegenden System(en) gefunden.
 Abandoned Ship Acquire Money		;An Bord des Objekts ({0}) haben wir einen wertvollen Schatz in Höhe von {1} Credits gefunden.
 Abandoned Ship Acquire Tech		;Auf dem Zentralcomputer des Objekts ({0}) haben wir eine Technologie entdeckt, die unser Wissen über das Thema "{1}" erweitert hat.
@@ -2042,7 +2042,7 @@ Maybe we should send a ship to investigate this location.		;Vielleicht sollten w
 Abandoned Ship Acquire Colony Ship		;An Bord des Kolonieschiffs befinden sich Millionen {0} im Stasisschlaf.
 Abandoned Ship Acquired		;Verlassenes Raumschiff übernommen
 Abandoned Base Acquired		;Verlassene Basis übernommen
-Galactic History Uncovered		;Wissen über Galaxisgeschichte erhalten
+Galactic History Uncovered		;Wissen über Galaxiegeschichte erhalten
 
 Energy Engineering Facility		;Energieumwandlungsanlage
 Techno Nexus		;Technologischer Nexus
@@ -2161,7 +2161,7 @@ Trade Description Base		;{0} (System {1})
 Trade Description Colony NAME PLANETTYPE SYSTEMNAME		;{0} ({1}-Kolonie, System {2})
 Trade Description Declare War Other		;Kriegserklärung an "{0}"
 Trade Description End War Other		;Krieg mit "{0}" beenden
-Trade Description Galaxy Map		;Galaxiskarte
+Trade Description Galaxy Map		;Galaxiekarte
 Trade Description Threaten Trade Sanctions		;Oder wir verhängen Handelssanktionen gegen Sie!
 Trade Description Threaten War		;Oder wir erklären Ihnen den Krieg!
 Trade Description End War You		;Unseren Krieg mit Ihnen beenden
@@ -2170,8 +2170,9 @@ Trade Description Trade Sanctions Other		;Handelssanktionen gegen "{0}" verhäng
 Trade Description Lift Trade Sanctions Other		;Handelssanktionen gegen "{0}" aufheben
 Trade Description Money		;{0} Credits
 Trade Description Territory Map		;Gebietskarte
-Trade Description OUR GALAXY MAP		;unsere Galaxiskarte
+Trade Description OUR GALAXY MAP		;unsere Galaxiekarte
 Trade Description OUR TERRITORY MAP		;unsere Gebietskarte
+
 'Custom Controls text
 Damaged		;Beschädigt
 Automated		;Automatisiert
@@ -2352,11 +2353,11 @@ Victory Conditions		;Siegbedingungen
 GAME OVER		;GAME OVER
 Winner		;Sieger
 Global Conditions		;Globale Bedingungen
-Victory Conditions Economy		;Die Privatwirtschaft des Imperiums (BIP) erzeugt {0}% des Gesamteinkommens in der Galaxis
+Victory Conditions Economy		;Die Privatwirtschaft des Imperiums (BIP) erzeugt {0}% des Gesamteinkommens in der Galaxie
 Unknown empire		;Unbekanntes Imperium
 Closest Empire		;Führendes Imperium
-Victory Conditions Population		;Über {0}% der Bevölkerung in der Galaxis herrschen
-Victory Conditions Territory		;{0}% der Kolonien in der Galaxis kontrollieren
+Victory Conditions Population		;Über {0}% der Bevölkerung in der Galaxie herrschen
+Victory Conditions Territory		;{0}% der Kolonien in der Galaxie kontrollieren
 The inhabitants of COLONY are FEELING with you		;Die Bewohner von {0} sind {1} wegen Ihnen
 The RACE give this colony lower war weariness		;Die {0} sorgen für eine niedrigere Kriegsmüdigkeit in dieser Kolonie
 The RACE give this colony higher happiness		;Die {0} sorgen für eine höhere Zufriedenheit in dieser Kolonie
@@ -2540,8 +2541,8 @@ Price		;Preis
 Sources		;Quellen
 Your Stock		;Ihr Vorrat
 Your Demand		;Ihr Bedarf
-Galaxy Stock		;Galaxisvorrat
-Galaxy Demand		;Galaxisbedarf
+Galaxy Stock		;Galaxievorrat
+Galaxy Demand		;Galaxiebedarf
 Home colony		;Heimatkolonie
 Power		;Stärke
 Current system		;Aktuelles System
@@ -2549,9 +2550,9 @@ Proximity to You		;Nähe zu Ihnen
 Location		;Position
 Rate		;Rate
 
-Location of selected item in Galaxy		;Position des ausgewählten Objekts in der Galaxis
+Location of selected item in Galaxy		;Position des ausgewählten Objekts in der Galaxie
 Count		;Anzahl
-Location of selected Colony in Galaxy		;Position der ausgewählten Kolonie in der Galaxis
+Location of selected Colony in Galaxy		;Position der ausgewählten Kolonie in der Galaxie
 Overview		;Überblick
 Flee When		;Fluchtbedingung
 Stance		;Haltung
@@ -2570,7 +2571,7 @@ Microwave Radiation		;Mikrowellenstrahlung
 Solar Radiation		;Solarstrahlung
 X-Ray Radiation		;Röntgenstrahlung
 Currently Showing		;Momentan ausgewählt
-Location in Galaxy		;Position in der Galaxis
+Location in Galaxy		;Position in der Galaxie
 Map Key		;Legende
 Password		;Kennwort
 Enter Editor Password		;Editorkennwort eingeben
@@ -2593,8 +2594,8 @@ Mouse scroll-wheel behavior		;Mausradverhalten
 Music		;Musik
 Effects		;Effekte
 Retrofit To		;Aufrüsten auf
-Location of selected Fleet in Galaxy		;Position der ausgewählten Flotte in der Galaxis
-Location of selected Troops in Galaxy		;Position der ausgewählten Truppen in der Galaxis
+Location of selected Fleet in Galaxy		;Position der ausgewählten Flotte in der Galaxie
+Location of selected Troops in Galaxy		;Position der ausgewählten Truppen in der Galaxie
 Remove from Queue		;Aus Warteschleife entfernen
 Scrap Ship		;Raumschiff verschrotten
 Show Construction Summary		;Bauzusammenfassung anzeigen
@@ -2609,7 +2610,7 @@ Close		;Schließen
 Go to Colony		;Zur Kolonie gehen
 Set as Capital		;Als Hauptwelt festlegen
 Select Colony		;Kolonie auswählen
-Show On Galaxy Map		;Auf der Galaxiskarte zeigen
+Show On Galaxy Map		;Auf der Galaxiekarte zeigen
 Show Ruin Details		;Ruinendetails anzeigen
 Disband		;Auflösen
 Recruit		;Rekrutieren
@@ -2674,13 +2675,13 @@ Construction Summary		;Bauzusammenfassung
 Designs		;Entwürfe
 Empire Comparison		;Imperienvergleich
 Expansion Planner		;Expansionsplaner
-Galaxy Map		;Galaxiskarte
+Galaxy Map		;Galaxiekarte
 Advanced Display Settings		;Erweiterte Grafikeinstellungen
 Retrofit Selected Items		;Ausgewählte Objekte umbauen
 Ruin Summary		;Ruinenzusammenfassung
 Show all ships and bases		;Alle Raumschiffe und Basen anzeigen
 Resource Targets by Your Empire Priority		;Rohstoffquellen nach Ihrer Imperiumspriorität
-Resource Targets by Galaxy Priority		;Rohstoffquellen nach Galaxispriorität
+Resource Targets by Galaxy Priority		;Rohstoffquellen nach Galaxiepriorität
 Your Empire Resource Locations		;Positionen Ihrer Imperiumsrohstoffe
 No default stance		;Keine Standardhaltung
 Custom		;Benutzerdefiniert
@@ -2698,7 +2699,7 @@ Move to mouse cursor location		;Zum Mauszeiger bewegen
 Generate		;Automatisch erstellen:
 starting empires		;Imperien bei Spielbeginn
 OR specify the starting empires below		;ODER legen Sie die Startimperien hier fest
-Galaxy Starting Location		;Startposition in der Galaxis
+Galaxy Starting Location		;Startposition in der Galaxie
 Empire Name		;Name des Imperiums
 Leave all Victory Conditions unchecked to play in Sandbox mode (open play)		;Wählen Sie keine Siegbedingung aus, um das Spiel im Sandkastenmodus zu beginnen (offenes Spiel)
 Start Game		;Spiel starten
@@ -2708,14 +2709,14 @@ Start the Game!		;Spiel starten
 Next: Your Empire		;Weiter zu: Ihr Imperium
 Previous: Other Empires		;Zurück zu: Andere Imperien
 Next: Other Empires		;Weiter zu: Andere Imperien
-Previous: The Galaxy		;Zurück zu: Die Galaxis
+Previous: The Galaxy		;Zurück zu: Die Galaxie
 Switch Theme		;Theme ändern
 Show this screen at startup		;Diesen Bildschirm beim Spielstart anzeigen
 Allow new Empires to appear during the game		;Neue Imperien während des Spiels erlauben
 Auto-Generate Starting Empires		;Startimperien automatisch erstellen
 Start a New Game		;Ein neues Spiel beginnen
 Change Theme		;Theme ändern
-Galaxy View - Ship Display		;Galaxisansicht - Raumschiffanzeige
+Galaxy View - Ship Display		;Galaxieansicht - Raumschiffanzeige
 Maximum Framerate		;Maximale Bildwiederholrate
 Default Engagement Stances		;Standard-Angriffsvorgaben
 Fleet Attack Settings		;Flottenangriffs-Einstellungen
@@ -2918,10 +2919,10 @@ Even Clusters		;Ausgeglichene Cluster
 Varied Clusters		;Variable Cluster
 Story Events		;Story-Ereignisse
 Enables story events in the game		;Aktiviert Story-Ereignisse im Spiel und ihre entsprechenden Siegbedingungen. Deaktivieren Sie diese Option, um ohne wichtige Story-Ereignisse zu spielen.
-Cluster galaxies have groups of stars clustered together		;Cluster-Galaxien bestehen aus Gruppen von Sternen, die in unterschiedlichen Konstellationen gebündelt sind.\n\nZwischen Clustern befinden sich nur sehr wenige Sterne, sodass Cluster in gewisser Weise "Inseln" in der Galaxis darstellen, die von einem Meer aus Nichts voneinander getrennt sind.\n\nAusgeglichene Cluster bedeuten, dass alle Cluster ungefähr dieselbe Größe aufweisen.\n\n
-Cluster galaxies have groups of stars clustered together Varied		;Cluster-Galaxien bestehen aus Gruppen von Sternen, die in unterschiedlichen Konstellationen gebündelt sind.\n\nZwischen Clustern befinden sich nur sehr wenige Sterne, sodass Cluster in gewisser Weise "Inseln" in der Galaxis darstellen, die von einem Meer aus Nichts voneinander getrennt sind.\n\nVariable Cluster bedeuten, dass die Größen der Cluster unterschiedlich sind. Manche sind klein, andere wiederum groß.\n\n
+Cluster galaxies have groups of stars clustered together		;Cluster-Galaxien bestehen aus Gruppen von Sternen, die in unterschiedlichen Konstellationen gebündelt sind.\n\nZwischen Clustern befinden sich nur sehr wenige Sterne, sodass Cluster in gewisser Weise "Inseln" in der Galaxie darstellen, die von einem Meer aus Nichts voneinander getrennt sind.\n\nAusgeglichene Cluster bedeuten, dass alle Cluster ungefähr dieselbe Größe aufweisen.\n\n
+Cluster galaxies have groups of stars clustered together Varied		;Cluster-Galaxien bestehen aus Gruppen von Sternen, die in unterschiedlichen Konstellationen gebündelt sind.\n\nZwischen Clustern befinden sich nur sehr wenige Sterne, sodass Cluster in gewisser Weise "Inseln" in der Galaxie darstellen, die von einem Meer aus Nichts voneinander getrennt sind.\n\nVariable Cluster bedeuten, dass die Größen der Cluster unterschiedlich sind. Manche sind klein, andere wiederum groß.\n\n
 Star Amount		;Sternanzahl
-Influences the number of colonizable planets and moons in the galaxy		;Wirkt sich auf die Anzahl der kolonisierbaren Planeten und Monde in der Galaxis aus. Eine geringere Dichte sorgt für weiter zerstreute Imperien mit weit auseinander liegenden Kolonien, eine höhere Dichte sorgt für kompaktere Imperien mit dicht zusammenliegenden Kolonien.
+Influences the number of colonizable planets and moons in the galaxy		;Wirkt sich auf die Anzahl der kolonisierbaren Planeten und Monde in der Galaxie aus. Eine geringere Dichte sorgt für weiter zerstreute Imperien mit weit auseinander liegenden Kolonien, eine höhere Dichte sorgt für kompaktere Imperien mit dicht zusammenliegenden Kolonien.
 Research Costs		;Forschungskosten
 Shield Area Recharge Range		;Reichw. Flächenschildreg.
 Victory Conditions Defend Colony		;Sie müssen dafür sorgen, dass der {0} {1} des Imperiums "{2}" erobert oder zerstört wird
@@ -3094,18 +3095,18 @@ Planetary Facility		;Planetare Anlage
 
 MajorStoryEvent1		;Die Dunklen Herrscher aus längst vergangenen Zeiten wollen zurückkehren. Sie streben danach, wieder über alle zu herrschen.\n\nSehen Sie sich vor unbekannten Monumenten und Signalen vor, die den Weg zeigen.\n\nMachen Sie sich bereit für die Rache der Vernichter...
 MajorStoryEvent2		;Etwas Böses kriecht durch die Leere.\n\nFinsternis überschattet die Sterne.\n\nAlles wird zu Ende gehen, nichts wird übrigbleiben... außer die Erlösung wird gefunden...
-MajorStoryEvent3		;Wir sind die Wächter längst vergessener Geheimnisse. In dieser äußerst kritischen Zeit teilen wir nun diese wichtige Nachricht mit Ihnen:\n\nWir konnten endlich unseren Verdacht bestätigen: Die Erutkah sind nicht das, was sie zu sein vorgeben. Durch unsere geheimen Kanäle haben wir in Erfahrung gebracht, dass die ERUTKAH in Wahrheit die SHAKTURI aus den uralten Legenden sind!\n\nDie Shakturi haben in letzter Zeit riesige, als Flüchtlinge aus einer anderen Galaxis getarnte Konvois von Kriegsschiffe in unsere Galaxis gebracht. Das ist nichts anderes als eine heimliche Invasion!\n\nWomöglich wissen Sie schon, dass die Shakturi auch früher bereits einmal in unserer Galaxis waren. Vor tausenden Jahren sind sie hier eingedrungen, haben für Chaos und Zerstörung gesorgt. Niemand konnte es mit ihnen aufnehmen und trotz des heldenhaften Widerstands der Freiheitsallianz standen die Shakturi schnell vor dem totalen Triumph und der Herrschaft über die gesamte Galaxis.\n\nAber die drei verbündeten Rassen der Menschen, der Kiadian und der Ackdarian wollten nicht aufgeben und starteten einen letzten verzweifelten Versuch, die Shakturi aufzuhalten: Sie entwickelten eine verheerende biologische Waffe, das Xaraktor-Virus. Zugleich züchteten sie das Weltraummonster, das unter der Bezeichnung Riesenkaltor bekannt geworden ist und für die Verbreitung des gefährlichen Virus sorgen sollte.\n\nDas Xaraktor-Virus war 100%ig tödlich für die Shakturi... aber trotz aller Anstrengungen der Wissenschaftler ebenso tödlich für die meisten anderen Lebewesen.\n\nDie Folgen des Viruseinsatzes waren katastrophal: Die Shakturi wurden zwar innerhalb weniger Wochen vollständig ausgelöscht. Aber auch der Rest der Galaxis musste schwere Verluste hinnehmen. Alle raumfahrenden Imperien wurden vom Virus gebeutelt, schon bald herrschte überall Anarchie. Die Zivilisationen brachen zusammen und man fiel wieder in primitivste Zeiten zurück.\n\nDie Allianz wusste, dass die Shakturi gerissene Gegner waren und höchstwahrscheinlich Signale zurückgelassen hatten, die ihre Rasse in ihrer weit entfernten HeimatGalaxis alarmieren würden, wenn in ferner Zukunft die Zeit für eine neuerliche Invasion kommen sollte.\n\nAus diesem Grund traf die Allianz Vorkehrungen, um wichtige Technologien und Waffen hier auf unserem Planeten Utopia zu bewahren. Als Wächter über diese alten Geheimnisse haben wir gewartet und beobachtet. Jetzt ist es an der Zeit, dieses Wissen an Sie weiterzugeben. Sie müssen sich erneut mit Ihren alten Verbündeten zusammenschließen und die Shakturi besiegen!\n\nWir haben die anderen Rassen der großen alten Allianz bereits kontaktiert und sie von der Angelegenheit in Kenntnis gesetzt. Mit Ihrer Erlaubnis werden wir die Freiheitsallianz wieder ins Leben rufen und Ihnen eine schlagkräftige Flotte zur Verfügung stellen, die Sie beim Kampf gegen die Shakturi benötigen werden.\n\nDer Planet Utopia muss um jeden Preis beschützt werden. Hier gibt es wichtige Relikte aus vergangenen Zeiten und sie sind von entscheidender Bedeutung für die Zukunft der Galaxis. Lassen Sie nicht zu, dass die Shakturi Utopia einnehmen oder zerstören! Der Planet muss diese Schlacht überleben...
-MajorStoryEvent4		;Mit unserer Tarnung als friedvolle "Erutkah" haben wir den größten Teil der Galaxis hinters Licht geführt! Aber jetzt lassen wir unsere Maske fallen und kämpfen offen im Namen der Shakturi-Übermacht.\n\nUnd ein weiteres Mal stellt sich uns die Freiheitsallianz entgegen! Aber ihr werdet niemals gewinnen - unser flammender Zorn wird euch vernichten! Dieses Mal werdet ihr euch unserer rechtmäßigen Herrschaft über diese Galaxis nicht widersetzen können.\n\nBegrabt eure Hoffnungen, uns wieder mit dem Xaraktor-Virus schlagen zu können. Aus unserem letzten Fehler haben wir gelernt und verfügen mittlerweile über ein hochwirksames Gegenmittel.\n\nAuch die Alten Wächter werden euch nicht retten können. Ihre mächtigen Geheimnisse werden unseren Angriff nicht überstehen.\n\nUnsere Truppen haben erst vor kurzem die Reise durch die dunkle Leere von unserer Heimat in diese Galaxis begonnen. Schon bald werdet ihr unseren ganzen Zorn zu spüren bekommen, wenn wir eure kümmerlichen Imperien mit nie gekanntem Chaos überziehen!\n\nUnsere neuen Weltenzerstörer haben soeben die Galaxis erreicht und sind einsatzbereit. Wir können es kaum noch erwarten, diese lästigen Mechanoiden und ihren Heimatplaneten Utopia auszulöschen!\n\nWenn die Freiheitsallianz erst einmal vernichtet ist, wird uns nichts und niemand mehr daran hindern können, die Herrschaft an uns zu reißen!\n\nMacht euch bereit für euer Ende...
-MajorStoryEvent5		;Wie Sie alle wissen, haben wir vernichtende Verluste gegen die Shakturi hinnehmen müssen. Es dauert nicht mehr lange, bis sie uns vollständig überrannt haben werden.\n\nAngesichts der verzweifelten Lage möchten wir nun ein Geheimnis lüften, das wir bisher für uns behalten haben.\n\nAls die Shakturi vor langer Zeit zum ersten Mal diese Galaxis heimsuchten, erschufen die Alten uns - die Mechanoiden - als letzte Bewahrer des Wissens und der Hoffnung. Unsere Aufgabe bestand darin, all die Weisheiten der Vergangenheit zu bewahren und wachsam auf die Rückkehr der Shakturi zu warten. Die Alten wussten nämlich, dass die Shakturi irgendwann zurückkehren und erneut versuchen würden, die Herrschaft über diese Galaxis an sich zu reißen. Aus diesem Grund haben wir die Freiheitsallianz wieder ins Leben gerufen und Ihnen die Wächterflotte zur Verfügung gestellt.\n\nDie Alten jedoch hinterließen noch ein allerletztes Mittel, das eingesetzt werden sollte, wenn es gar keine Hoffnung mehr gäbe. Und im Angesicht der Bedrohung, mit der wir es nun zu tun haben, ist die Zeit gekommen, dieses Mittel zu offenbaren, damit Sie es gegen die Shakturi einsetzen können.\n\nIm Orbit um Ihre Hauptkolonie werden Sie jetzt den Planetenzerstörer "Erlösung" finden. Dabei handelt es sich um einen besonders starken Shakturi-Planetenzerstörer, den die Freiheitsallianz beim ersten Aufeinandertreffen mit den Shakturi erobert hatte. Diese Waffe wurde tausende Jahre lang geheim gehalten, aber nun muss sie eingesetzt werden.\n\nMöge sie das Ende der Shakturi besiegeln...
+MajorStoryEvent3		;Wir sind die Wächter längst vergessener Geheimnisse. In dieser äußerst kritischen Zeit teilen wir nun diese wichtige Nachricht mit Ihnen:\n\nWir konnten endlich unseren Verdacht bestätigen: Die Erutkah sind nicht das, was sie zu sein vorgeben. Durch unsere geheimen Kanäle haben wir in Erfahrung gebracht, dass die ERUTKAH in Wahrheit die SHAKTURI aus den uralten Legenden sind!\n\nDie Shakturi haben in letzter Zeit riesige, als Flüchtlinge aus einer anderen Galaxie getarnte Konvois von Kriegsschiffe in unsere Galaxie gebracht. Das ist nichts anderes als eine heimliche Invasion!\n\nWomöglich wissen Sie schon, dass die Shakturi auch früher bereits einmal in unserer Galaxie waren. Vor tausenden Jahren sind sie hier eingedrungen, haben für Chaos und Zerstörung gesorgt. Niemand konnte es mit ihnen aufnehmen und trotz des heldenhaften Widerstands der Freiheitsallianz standen die Shakturi schnell vor dem totalen Triumph und der Herrschaft über die gesamte Galaxie.\n\nAber die drei verbündeten Rassen der Menschen, der Kiadian und der Ackdarian wollten nicht aufgeben und starteten einen letzten verzweifelten Versuch, die Shakturi aufzuhalten: Sie entwickelten eine verheerende biologische Waffe, das Xaraktor-Virus. Zugleich züchteten sie das Weltraummonster, das unter der Bezeichnung Riesenkaltor bekannt geworden ist und für die Verbreitung des gefährlichen Virus sorgen sollte.\n\nDas Xaraktor-Virus war 100%ig tödlich für die Shakturi... aber trotz aller Anstrengungen der Wissenschaftler ebenso tödlich für die meisten anderen Lebewesen.\n\nDie Folgen des Viruseinsatzes waren katastrophal: Die Shakturi wurden zwar innerhalb weniger Wochen vollständig ausgelöscht. Aber auch der Rest der Galaxie musste schwere Verluste hinnehmen. Alle raumfahrenden Imperien wurden vom Virus gebeutelt, schon bald herrschte überall Anarchie. Die Zivilisationen brachen zusammen und man fiel wieder in primitivste Zeiten zurück.\n\nDie Allianz wusste, dass die Shakturi gerissene Gegner waren und höchstwahrscheinlich Signale zurückgelassen hatten, die ihre Rasse in ihrer weit entfernten HeimatGalaxie alarmieren würden, wenn in ferner Zukunft die Zeit für eine neuerliche Invasion kommen sollte.\n\nAus diesem Grund traf die Allianz Vorkehrungen, um wichtige Technologien und Waffen hier auf unserem Planeten Utopia zu bewahren. Als Wächter über diese alten Geheimnisse haben wir gewartet und beobachtet. Jetzt ist es an der Zeit, dieses Wissen an Sie weiterzugeben. Sie müssen sich erneut mit Ihren alten Verbündeten zusammenschließen und die Shakturi besiegen!\n\nWir haben die anderen Rassen der großen alten Allianz bereits kontaktiert und sie von der Angelegenheit in Kenntnis gesetzt. Mit Ihrer Erlaubnis werden wir die Freiheitsallianz wieder ins Leben rufen und Ihnen eine schlagkräftige Flotte zur Verfügung stellen, die Sie beim Kampf gegen die Shakturi benötigen werden.\n\nDer Planet Utopia muss um jeden Preis beschützt werden. Hier gibt es wichtige Relikte aus vergangenen Zeiten und sie sind von entscheidender Bedeutung für die Zukunft der Galaxie. Lassen Sie nicht zu, dass die Shakturi Utopia einnehmen oder zerstören! Der Planet muss diese Schlacht überleben...
+MajorStoryEvent4		;Mit unserer Tarnung als friedvolle "Erutkah" haben wir den größten Teil der Galaxie hinters Licht geführt! Aber jetzt lassen wir unsere Maske fallen und kämpfen offen im Namen der Shakturi-Übermacht.\n\nUnd ein weiteres Mal stellt sich uns die Freiheitsallianz entgegen! Aber ihr werdet niemals gewinnen - unser flammender Zorn wird euch vernichten! Dieses Mal werdet ihr euch unserer rechtmäßigen Herrschaft über diese Galaxie nicht widersetzen können.\n\nBegrabt eure Hoffnungen, uns wieder mit dem Xaraktor-Virus schlagen zu können. Aus unserem letzten Fehler haben wir gelernt und verfügen mittlerweile über ein hochwirksames Gegenmittel.\n\nAuch die Alten Wächter werden euch nicht retten können. Ihre mächtigen Geheimnisse werden unseren Angriff nicht überstehen.\n\nUnsere Truppen haben erst vor kurzem die Reise durch die dunkle Leere von unserer Heimat in diese Galaxie begonnen. Schon bald werdet ihr unseren ganzen Zorn zu spüren bekommen, wenn wir eure kümmerlichen Imperien mit nie gekanntem Chaos überziehen!\n\nUnsere neuen Weltenzerstörer haben soeben die Galaxie erreicht und sind einsatzbereit. Wir können es kaum noch erwarten, diese lästigen Mechanoiden und ihren Heimatplaneten Utopia auszulöschen!\n\nWenn die Freiheitsallianz erst einmal vernichtet ist, wird uns nichts und niemand mehr daran hindern können, die Herrschaft an uns zu reißen!\n\nMacht euch bereit für euer Ende...
+MajorStoryEvent5		;Wie Sie alle wissen, haben wir vernichtende Verluste gegen die Shakturi hinnehmen müssen. Es dauert nicht mehr lange, bis sie uns vollständig überrannt haben werden.\n\nAngesichts der verzweifelten Lage möchten wir nun ein Geheimnis lüften, das wir bisher für uns behalten haben.\n\nAls die Shakturi vor langer Zeit zum ersten Mal diese Galaxie heimsuchten, erschufen die Alten uns - die Mechanoiden - als letzte Bewahrer des Wissens und der Hoffnung. Unsere Aufgabe bestand darin, all die Weisheiten der Vergangenheit zu bewahren und wachsam auf die Rückkehr der Shakturi zu warten. Die Alten wussten nämlich, dass die Shakturi irgendwann zurückkehren und erneut versuchen würden, die Herrschaft über diese Galaxie an sich zu reißen. Aus diesem Grund haben wir die Freiheitsallianz wieder ins Leben gerufen und Ihnen die Wächterflotte zur Verfügung gestellt.\n\nDie Alten jedoch hinterließen noch ein allerletztes Mittel, das eingesetzt werden sollte, wenn es gar keine Hoffnung mehr gäbe. Und im Angesicht der Bedrohung, mit der wir es nun zu tun haben, ist die Zeit gekommen, dieses Mittel zu offenbaren, damit Sie es gegen die Shakturi einsetzen können.\n\nIm Orbit um Ihre Hauptkolonie werden Sie jetzt den Planetenzerstörer "Erlösung" finden. Dabei handelt es sich um einen besonders starken Shakturi-Planetenzerstörer, den die Freiheitsallianz beim ersten Aufeinandertreffen mit den Shakturi erobert hatte. Diese Waffe wurde tausende Jahre lang geheim gehalten, aber nun muss sie eingesetzt werden.\n\nMöge sie das Ende der Shakturi besiegeln...
 
-ShakturiPlayerVictory		;Die Shakturi sind besiegt! Ihre Hauptkolonie wurde vernichtet!\n\nNach dem Verlust ihrer Anführer ist das Imperium der Shakturi in einen Zustand von Verwirrung und Chaos verfallen. Die meisten ihrer Truppen haben sich aufgelöst und viele versuchen, durch die Leere zurück in ihre Heimat zu fliehen. Der kümmerliche Rest der einst mächtigen Shakturi hat den Kampf aufgegeben.\n\n\nDie Alten Wächter haben eine letzte Nachricht an Sie:\n\nUnsere Mission ist damit erfüllt: Die Galaxis wurde vor dem erneuten Ansturm der Shakturi gerettet! Ihre Taten in dieser Schlacht haben bewiesen, dass Sie die würdigen Erben des Alten Vermächtnisses sind. Da wir unsere Aufgabe erfüllt haben, ernennen wir nun Sie zu den neuen galaktischen Wächtern.\n\nWir übergeben Ihnen unseren Planeten Utopia sowie alle unsere Raumschiffe und Basen. Darüber hinaus erhalten Sie all unser technisches Wissen und unsere Galaxiskarten. Und zu guter Letzt teilen wir auch das Wissen über unsere weise und gutmütige Regierungsform mit Ihnen: den Weg der Alten. Hoffentlich setzen Sie all das klug und mit Bedacht bei der Verteidigung der Galaxis ein.\n\n\nSie haben obsiegt! Lang lebe die Freiheitsallianz!
-ShakturiPlayerDefeat		;Sie wurden von den mächtigen Shakturi besiegt! Der Wächterplanet Utopia ist gefallen!\n\nDie Kolonien Ihres Imperiums sind zwar noch frei, aber ohne die Hilfe der Alten Wächter ist die vollständige Herrschaft der Shakturi nicht mehr zu vermeiden.\n\nFinsternis legt sich über die Galaxis... alle Hoffnung ist vergebens... wie konnten Sie es nur so weit kommen lassen?!
-Strange transmission from beyond our galaxy		;Seltsame Übermittlung von jenseits unserer Galaxis
-Shakturi Beacon Trigger		;Als unsere Forscher die Ruinen von "{0}" betraten, haben sie aus Versehen ein uraltes System aktiviert, das ein starkes Signal in die dunkle Leere jenseits unserer Galaxis sendet.\n\nIm Gegenzug wird eine seltsame, unverständliche Nachricht von außerhalb der Galaxis empfangen...
+ShakturiPlayerVictory		;Die Shakturi sind besiegt! Ihre Hauptkolonie wurde vernichtet!\n\nNach dem Verlust ihrer Anführer ist das Imperium der Shakturi in einen Zustand von Verwirrung und Chaos verfallen. Die meisten ihrer Truppen haben sich aufgelöst und viele versuchen, durch die Leere zurück in ihre Heimat zu fliehen. Der kümmerliche Rest der einst mächtigen Shakturi hat den Kampf aufgegeben.\n\n\nDie Alten Wächter haben eine letzte Nachricht an Sie:\n\nUnsere Mission ist damit erfüllt: Die Galaxie wurde vor dem erneuten Ansturm der Shakturi gerettet! Ihre Taten in dieser Schlacht haben bewiesen, dass Sie die würdigen Erben des Alten Vermächtnisses sind. Da wir unsere Aufgabe erfüllt haben, ernennen wir nun Sie zu den neuen galaktischen Wächtern.\n\nWir übergeben Ihnen unseren Planeten Utopia sowie alle unsere Raumschiffe und Basen. Darüber hinaus erhalten Sie all unser technisches Wissen und unsere Galaxiekarten. Und zu guter Letzt teilen wir auch das Wissen über unsere weise und gutmütige Regierungsform mit Ihnen: den Weg der Alten. Hoffentlich setzen Sie all das klug und mit Bedacht bei der Verteidigung der Galaxie ein.\n\n\nSie haben obsiegt! Lang lebe die Freiheitsallianz!
+ShakturiPlayerDefeat		;Sie wurden von den mächtigen Shakturi besiegt! Der Wächterplanet Utopia ist gefallen!\n\nDie Kolonien Ihres Imperiums sind zwar noch frei, aber ohne die Hilfe der Alten Wächter ist die vollständige Herrschaft der Shakturi nicht mehr zu vermeiden.\n\nFinsternis legt sich über die Galaxie... alle Hoffnung ist vergebens... wie konnten Sie es nur so weit kommen lassen?!
+Strange transmission from beyond our galaxy		;Seltsame Übermittlung von jenseits unserer Galaxie
+Shakturi Beacon Trigger		;Als unsere Forscher die Ruinen von "{0}" betraten, haben sie aus Versehen ein uraltes System aktiviert, das ein starkes Signal in die dunkle Leere jenseits unserer Galaxie sendet.\n\nIm Gegenzug wird eine seltsame, unverständliche Nachricht von außerhalb der Galaxie empfangen...
 MechanoidEncounter		;Wir sind im System {0} auf eine fortschrittliche Maschinenrasse gestoßen: die Mechanoiden.\n\nEs handelt sich um eine sehr seltsame Rasse - die Mechanoiden existieren in Form von purer Logik und leben in Computernetzwerken. Sie besitzen keine körperliche Form, doch sie können ihre Anwesenheit als holografische Darstellung oder auf Videobildschirmen zeigen.\n\nSie werden von kleinen Robotern - sogenannten Helferoiden - unterstützt, die die gesamte Maschinerie für die mechanoide Zivilisation bauen und warten.
 MechanoidEncounterDetail		;Die Maschinenrasse bezeichnet sich selbst als die Wächter des Systems {0}. Sie warnen Sie davor, dieses System zu betreten - es handle sich um Sperrgebiet.\n\nDie Mechanoiden wirken nicht gerade sehr freundlich und einladend - vielleicht wäre es klüger, sich von ihnen fern zu halten... 
 Ancient Guardians Encountered		;Alte Wächter entdeckt
-ErutkahEncounter		;Wir sind im System {0} auf eine seltsame fremde Rasse gestoßen, die sich selbst die Erutkah nennt.\n\nDie Erutkah behaupten, dass sie Flüchtlinge aus einer anderen Galaxis sind und von einer grausamen fremden Rasse in einem schrecklichen Krieg aus ihrer Heimat vertrieben wurden. Sie beschreiben sich selbst als harmlose Reisende, die auf der Suche nach Frieden und Harmonie sind.\n\nAls ein Zeichen ihrer Freundschaft haben sie uns ein Geschenk in Höhe von 10.000 Credits gemacht!
+ErutkahEncounter		;Wir sind im System {0} auf eine seltsame fremde Rasse gestoßen, die sich selbst die Erutkah nennt.\n\nDie Erutkah behaupten, dass sie Flüchtlinge aus einer anderen Galaxie sind und von einer grausamen fremden Rasse in einem schrecklichen Krieg aus ihrer Heimat vertrieben wurden. Sie beschreiben sich selbst als harmlose Reisende, die auf der Suche nach Frieden und Harmonie sind.\n\nAls ein Zeichen ihrer Freundschaft haben sie uns ein Geschenk in Höhe von 10.000 Credits gemacht!
 Erutkah Refugees Encountered		;Erutkah-Flüchtlinge entdeckt
 We have completed construction of a new FACILITY		;Wir haben den Bau einer neuen Anlage ({0}) in unserer Kolonie {1} im System {2} abgeschlossen
 Clone Trooper Battalion		;Klonkrieger-Bataillon
@@ -3167,7 +3168,7 @@ The Shakturi have defeated the Freedom Alliance!		;Die Shakturi haben die Freihe
 RACE Share Important Warning		;Die {0} teilen eine wichtige Warnung mit
 Ancient Guardians Reveal All		;Die Alten Wächter enthüllen alles
 The Shakturi have Returned for Revenge!		;Die Shakturi sind zurück und sinnen auf Rache!
-The Galaxy's Last Hope		;Die letzte Hoffnung der Galaxis
+The Galaxy's Last Hope		;Die letzte Hoffnung der Galaxie
 The RACE tell us an important message		;Die {0} teilen uns mit: Unser Kommunikationsnetzwerk hat eine wichtige Nachricht abgefangen, die Sie interessieren dürfte.
 The RACE tell us an important message Threat		;Die {0} teilen uns mit: Unser Kommunikationsnetzwerk hat eine wichtige Nachricht abgefangen, die Sie interessieren dürfte. Es geht dabei um eine Warnung vor einer drohenden Gefahr.
 Subjugation		;Unterwerfung
@@ -3239,7 +3240,7 @@ Intelligence - Agent Recruitment		;Spionage - Agentenrekrutierung
 Intelligence - Mission Assignment		;Spionage - Missionszuweisung
 Proportion of Agents devoted to Counterintelligence		;Anteil der Agenten, die in der Spionageabwehr arbeiten
 Allow Espionage mission: Steal Territory Map		;Spionagemission genehmigen: Gebietskarte stehlen
-Allow Espionage mission: Steal Galaxy Map		;Spionagemission genehmigen: Galaxiskarte stehlen
+Allow Espionage mission: Steal Galaxy Map		;Spionagemission genehmigen: Galaxiekarte stehlen
 Allow Espionage mission: Steal Operations Map		;Spionagemission genehmigen: Aufmarschpläne stehlen
 Allow Espionage mission: Steal Tech		;Spionagemission genehmigen: Technologie stehlen
 Allow Sabotage mission: Sabotage Colony		;Sabotagemission genehmigen: Kolonie sabotieren
@@ -3565,7 +3566,7 @@ Planetary Facility Description Terraforming Facility		;Repariert planetarischen 
 Colony Development Bonus		;Kolonieentwicklung
 
 Wonder Build Title		;{0} gebaut!
-Wonder Build Description		;Wir haben den Bau des Wunders {0} an unserer Kolonie {1} abgeschlossen!\n\n{0} ist ein einzigartiges Wunder, das in der Galaxis nur einmal aufgebaut werden kann. Es bringt den folgenden speziellen Nutzen:\n\n{2}
+Wonder Build Description		;Wir haben den Bau des Wunders {0} an unserer Kolonie {1} abgeschlossen!\n\n{0} ist ein einzigartiges Wunder, das in der Galaxie nur einmal aufgebaut werden kann. Es bringt den folgenden speziellen Nutzen:\n\n{2}
 
 Note that each wonder may only be built once in the galaxy		;Beachten Sie, dass jedes Wunder nur einmal in der Milchstraße gebaut werden kann - Sie müssen das Wunder als erster fertigstellen, um es zu besitzen
 Wonder Build Location Requirement		;MUSS AN {0} KOLONIE GEBAUT WERDEN
@@ -3679,7 +3680,7 @@ Suppress all pop-up screens		;Unterdrücke alle Popupmeldungen
 Physical Size		;Ausdehnung
 Physical\nSize		;Ausdehnung
 sectors		;Sektoren
-Determines the physical dimensions of the galaxy		;Bestimmt die physischen Dimensionen der Galaxis, d. h. wie viele Sektoren breit und hoch die Galaxis ist
+Determines the physical dimensions of the galaxy		;Bestimmt die physischen Dimensionen der Galaxie, d. h. wie viele Sektoren breit und hoch die Galaxie ist
 
 Colony Disaster Earthquake		;Starkes Beben
 Colony Disaster Tsunami		;Verheerender Tsunami
@@ -3713,7 +3714,7 @@ Plague MerturovPlague		;Merturov-Pest
 Plague HekretosFever Description		;Hekretos-Fieber ist eine tödliche Infektion, die die inneren Organe in Angriff nimmt und schnelle Degeneration und Tod verursacht. Ein Ausbruch von Hekretos-Fieber dauert gewöhnlich ungefähr 3 Monate.
 Plague DekaraVirus Description		;Dekara-Virus ist eine sehr schmerzliche Krankheit, die langsam das Zentralnervensystem jedes möglichen Geschöpfs verkrüppelt, das, es ansteckt und schließlich führt zu Tod. Ein Ausbruch von Dekara-Virus dauert gewöhnlich ungefähr 9 Monate.
 Plague GeneticScrambler Description		;Das genetische Verwürfelungs-Syndrom nimmt den genetischen Code in allen Zellen eines angesteckten Geschöpfs in Angriff und wischt alle nützlichen biologischen Anweisungen weg. Dieses führt zu den sehr schnellen Zerfall des angesteckten Geschöpfs und schließlich unten bricht sie zu einer Pfütze des Proteinschlamms. Ein Ausbruch des genetischen Kriechensyndroms dauert gewöhnlich nur einen Monat. Jedoch ist er in hohem Grade ansteckend und kann folglich schnell verbreiten.
-Plague MerturovPlague Description		;Merturov-Pest ist die tödlichste Krankheit in der bekannten Galaxis. Sie isst schnell das Gehirn des angesteckten Geschöpfs und nach und nach verursacht Geisteskrankheit, Immobilisierung und etwaigen Tod. Merturov-Pest ist ein in hohem Grade elastisches zerstreutes Virus, und ist folglich sehr ansteckend. Ein Ausbruch von Merturov-Pest dauert gewöhnlich 4 Monate.
+Plague MerturovPlague Description		;Merturov-Pest ist die tödlichste Krankheit in der bekannten Galaxie. Sie isst schnell das Gehirn des angesteckten Geschöpfs und nach und nach verursacht Geisteskrankheit, Immobilisierung und etwaigen Tod. Merturov-Pest ist ein in hohem Grade elastisches zerstreutes Virus, und ist folglich sehr ansteckend. Ein Ausbruch von Merturov-Pest dauert gewöhnlich 4 Monate.
 Plague Warn Spread		;Lassen Sie uns hoffen, dass sich diese Pest nicht zu anderen Kolonien verbreitet
 
 Plague Colony Infection		;Infiziert mit {0}
@@ -3881,9 +3882,9 @@ Race Event Description SecurityConcernsCharacterReplaced		;Die Loyalität von un
 Race Event Description NeverSurrenderWarWearinessReset		;Der Kampfgeist unserer Rasse ist durch die heroischen Einsätze von {0} erneuert worden!\n\nDie Kriegsmüdigkeit in unserem Imperium wurde drastisch reduziert.
 Race Event Description ScientificBreakthroughResearchProgress		;Das Genie und Können unserer Wissenschaftler und Ingenieure hat einen Durchbruch am Projekt {0} hervorgerufen.\n\n Dies führte zu einer wahren Flut an Ideen und Möglichkeiten zur Forschung an {0}.
 Race Event Description ForcedRetirementLeaderReplaced		;Unser {0} {1}, auf {2} im Einsatz, wurde aufgrund seines hohen Alters in Rente geschickt.\n\nEin neuer {0}, {3}, wurde ernannt. 
-Race Event Description TodashGalacticChampionships		;Die galaktischen Todash-Meisterschaften haben auf unserer Kolonie {0} angefangen! Dieses unregelmäßige Ereignis ist das größte Schauspiel roher Körperkraft, welches in der Galaxis bekannt ist.\n\nDer große Stolz darüber, dieses Großereignis ausrichten zu dürfen, bewirkt für das nächste Jahr einen Entwicklungsbonus von +5 auf all unseren Kolonien, sowie eine reduzierte Kriegsmüdigkeit.
-Race Event Description HistoricalKnowledgeUncoverHiddenLocation		;Unsere historischen Untersuchungen haben einen lange vergessenen Standort aufgedeckt, der Wissen über die Vergangenheit der Galaxis enthält.\n\nDer Standort wird {0} genannt und kann im Sektor {1} an den galaktischen Koordinaten {2} gefunden werden
-Race Event Description IsolationistsResetFirstContactPenalty		;Ein Wiederaufleben des Isolationismus hat sich in unseren Kolonien verbreitet. Unsere Bürger haben ihren Wunsch bekräftigt, sich von anderen Völkern der Galaxis zu isolieren.\n\nDas Misstrauen anderer Imperien wurde dadurch erhöht, die Beziehungen ihnen infolgedessen geschädigt.
+Race Event Description TodashGalacticChampionships		;Die galaktischen Todash-Meisterschaften haben auf unserer Kolonie {0} angefangen! Dieses unregelmäßige Ereignis ist das größte Schauspiel roher Körperkraft, welches in der Galaxie bekannt ist.\n\nDer große Stolz darüber, dieses Großereignis ausrichten zu dürfen, bewirkt für das nächste Jahr einen Entwicklungsbonus von +5 auf all unseren Kolonien, sowie eine reduzierte Kriegsmüdigkeit.
+Race Event Description HistoricalKnowledgeUncoverHiddenLocation		;Unsere historischen Untersuchungen haben einen lange vergessenen Standort aufgedeckt, der Wissen über die Vergangenheit der Galaxie enthält.\n\nDer Standort wird {0} genannt und kann im Sektor {1} an den galaktischen Koordinaten {2} gefunden werden
+Race Event Description IsolationistsResetFirstContactPenalty		;Ein Wiederaufleben des Isolationismus hat sich in unseren Kolonien verbreitet. Unsere Bürger haben ihren Wunsch bekräftigt, sich von anderen Völkern der Galaxie zu isolieren.\n\nDas Misstrauen anderer Imperien wurde dadurch erhöht, die Beziehungen ihnen infolgedessen geschädigt.
 Race Event Description GrandPerformanceDiplomacyBonus		;Eine großartige Aufführung des berühmten {0} Spiels „Jomeo und Ruliette“ ist von hohen Würdenträgern des Imperiums {1} genossen worden. Die Würdenträger wurden durch die Aufführung sehr beeindruckt.\n\nInfolgedessen haben wir für das ganze nächste Jahr einen Diplomatiebonus von 10% auf Verhandlungen mit {1}.
 Race Event Description FriendsInManyPlacesNewEmpire		;Besucher unserer Erholungsbasis {0} haben interessante Informationen über ein neues Imperium mitgeteilt, das uns vorher unbekannt war.\n\nDas Reich wird {1} genannt. Die Verbindung mit {1} wurde hergestellt, wir können mit ihnen im Diplomatieschirm in Verbindung treten.
 Race Event Description FriendsInManyPlacesRevealTerritory		;Kontakte auf unserer Erholungsbasis {0} haben eine komplette Gebietskarte des Imperiums {1} erworben.\n\nUnsere Karten sind um die neuen Informationen über das Gebiet aktualisiert worden.
@@ -3904,9 +3905,9 @@ Race Event Colony Description TodashGalacticChampionships		;Die galaktischen Tod
 Race Victory Condition BuildWonder		;Bauen Sie das Wunder {0} 
 Race Victory Condition ConquerMostEnemyColonies		;Erobern Sie die meisten feindlichen Kolonien
 Race Victory Condition ControlHomeworld		;Kontrollieren Sie Ihre Heimatwelt{0}
-Race Victory Condition ControlLargestColoniesByType		;Kontrollieren Sie die {0} größten {1} Kolonien in der Galaxis
-Race Victory Condition ControlMostRuins		;Kontrollieren Sie die meisten Ruinen in der Galaxis
-Race Victory Condition ControlPlanetTypePercentage		;Kontrollieren Sie {0} % aller {1} Kolonien in der Galaxis
+Race Victory Condition ControlLargestColoniesByType		;Kontrollieren Sie die {0} größten {1} Kolonien in der Galaxie
+Race Victory Condition ControlMostRuins		;Kontrollieren Sie die meisten Ruinen in der Galaxie
+Race Victory Condition ControlPlanetTypePercentage		;Kontrollieren Sie {0} % aller {1} Kolonien in der Galaxie
 Race Victory Condition ControlRestrictedResourceSupply		;Kontrollieren Sie {0} Planet(en), welche seltene Ressourcen (Korabbiansalz, Lorosfrucht, Zentabiaessenz) liefern
 Race Victory Condition DestroyMoreEnemyTroopsThanLoseTimesFactor		;Zerstören Sie {0} mal mehr feindliche Truppen, als Sie Verluste haben
 Race Victory Condition DestroyMoreEnemyTroopsThanLoseTimesFactorSingle		;Zerstören Sie mehr feindliche Truppen,  als Sie Verluste haben
@@ -3914,70 +3915,70 @@ Race Victory Condition DestroyMoreShipsBySizeThanLoseTimesFactor		;Zerstören Si
 Race Victory Condition DestroyMoreShipsThanLoseTimesFactor		;Zerstöre {0} mal mehr feindliche Schiffe und Basen, als Sie zu verlieren
 Race Victory Condition DestroyMoreShipsThanLoseTimesFactorSingle		;Erzielen Sie mehr Abschüsse, als Sie Verluste haben.
 Race Victory Condition DestroyMostCreaturesByType		;Zerstören Sie die meisten {0}
-Race Victory Condition DestroyMostShipsBySize		;Zerstören Sie die meisten feindlichen Schiffe nach Größe in der Galaxis
-Race Victory Condition DestroyMostShips		;Zerstören Sie die meisten feindlichen Schiffe und Basen in der Galaxis
-Race Victory Condition DestroyMostTroops		;Zerstören Sie die meisten feindlichen Truppen in der Galaxis
+Race Victory Condition DestroyMostShipsBySize		;Zerstören Sie die meisten feindlichen Schiffe nach Größe in der Galaxie
+Race Victory Condition DestroyMostShips		;Zerstören Sie die meisten feindlichen Schiffe und Basen in der Galaxie
+Race Victory Condition DestroyMostTroops		;Zerstören Sie die meisten feindlichen Truppen in der Galaxie
 Race Victory Condition EnslavePopulationProportionEmpire		;Versklaven Sie andere Rassen auf Ihren Kolonien: Mindestens {0} % der Bevölkerung Ihres Reiches
-Race Victory Condition ExploreGalaxyPercentage		;Erforschen Sie {0} % der Galaxis
-Race Victory Condition ExploreMostSystems		;Erforschen Sie die meisten Systeme in der Galaxis
-Race Victory Condition ExterminateOrEnslaveMostPopulation		;Versklaven Sie die meisten Menschen in der Galaxis oder rotten Sie sie aus
-Race Victory Condition FreeTradeAgreementsFormedProportionAllEmpires		;Schließen Sie Freihandelsabkommen, Gegenseitige Verteidigungspakte oder Protektorate mit {0} % aller Reiche in der Galaxis
-Race Victory Condition HighestPrivateRevenue		;Erzielen Sie das höchste private Einkommen in der Galaxis
-Race Victory Condition HighestTradeVolume		;Erzielen Sie den höchsten Handelsbonus in der Galaxis
+Race Victory Condition ExploreGalaxyPercentage		;Erforschen Sie {0} % der Galaxie
+Race Victory Condition ExploreMostSystems		;Erforschen Sie die meisten Systeme in der Galaxie
+Race Victory Condition ExterminateOrEnslaveMostPopulation		;Versklaven Sie die meisten Menschen in der Galaxie oder rotten Sie sie aus
+Race Victory Condition FreeTradeAgreementsFormedProportionAllEmpires		;Schließen Sie Freihandelsabkommen, Gegenseitige Verteidigungspakte oder Protektorate mit {0} % aller Reiche in der Galaxie
+Race Victory Condition HighestPrivateRevenue		;Erzielen Sie das höchste private Einkommen in der Galaxie
+Race Victory Condition HighestTradeVolume		;Erzielen Sie den höchsten Handelsbonus in der Galaxie
 Race Victory Condition KeepLeaderAlive		;Halten Sie den Anführer Ihres Reiches am Leben
-Race Victory Condition LargestMilitary		;Haben Sie das größte Militär in der Galaxis
+Race Victory Condition LargestMilitary		;Haben Sie das größte Militär in der Galaxie
 Race Victory Condition LargestMilitaryNonAllied		;Haben Sie das größte Militär unter nichtverbündeten Imperien
-Race Victory Condition LeastBrokenTreaties		;Brechen Sie die wenigsten Verträge in der Galaxis
-Race Victory Condition LeastTimeWarring		;Verbringen Sie die wenigste Zeit im Krieg in der Galaxis
-Race Victory Condition LeastTreaties		;Haben Sie die wenigsten Verträge in der Galaxis
-Race Victory Condition LeastWars		;Beginnen Sie die wenigsten Kriege in der Galaxis
-Race Victory Condition LoseFewestShipsBySize		;Verliern Sie am wenigsten Schiffe nach Größe in der Galaxis
-Race Victory Condition LoseFewestShips		;Verlieren Sie am wenigsten Schiffe und Basen in der Galaxis
-Race Victory Condition LoseFewestTroops		;Verlieren Sie die wenigsten Truppen in der Galaxis
-Race Victory Condition MostExperiencedAdmiral		;Haben Sie den erfahrensten Admiral in der Galaxis
-Race Victory Condition MostExperiencedGeneral		;Haben Sie den erfahrensten General in der Galaxis
-Race Victory Condition MostHomeworlds		;Kontrollieren Sie den grössten Teil aller Heimatwelten (Ihriger und andere) in der Galaxis
-Race Victory Condition MostIntelligenceMissionsIntercepted		;Verhindern Sie die meisten feindlichen Spionagemissionen in der Galaxis
-Race Victory Condition MostIntelligenceMissionsSucceed		;Führen Sie die höchste Anzahl an erfolgreichen Spionagemissionen in der Galaxis durch
-Race Victory Condition MostMiningStations		;Haben Sie die meisten Bergbau-Stationen in der Galaxis
-Race Victory Condition MostResortBases		;Haben Sie die meisten Erholungsbasen in der Galaxis
-Race Victory Condition MostScientists		;Haben Sie die meisten Wissenschaftler in der Galaxis
-Race Victory Condition MostSpaceports		;Haben Sie die meisten Raumhäfen in der Galaxis
-Race Victory Condition MostSubjugatedDominions		;Unterjochen Sie die meisten Imperien in der Galaxis
-Race Victory Condition MostTimeWarring		;Verbringen Sie die meiste Zeit im Krieg in der Galaxis
-Race Victory Condition MostTourismIncome		;Erzielen Sie das höchste touristische Einkommen in der Galaxis
-Race Victory Condition MostTradeIncome		;Erzielen Sie das höchste Handelseinkommen in der Galaxis
-Race Victory Condition MostTroops		;Haben Sie die meisten Truppen in der Galaxis
+Race Victory Condition LeastBrokenTreaties		;Brechen Sie die wenigsten Verträge in der Galaxie
+Race Victory Condition LeastTimeWarring		;Verbringen Sie die wenigste Zeit im Krieg in der Galaxie
+Race Victory Condition LeastTreaties		;Haben Sie die wenigsten Verträge in der Galaxie
+Race Victory Condition LeastWars		;Beginnen Sie die wenigsten Kriege in der Galaxie
+Race Victory Condition LoseFewestShipsBySize		;Verliern Sie am wenigsten Schiffe nach Größe in der Galaxie
+Race Victory Condition LoseFewestShips		;Verlieren Sie am wenigsten Schiffe und Basen in der Galaxie
+Race Victory Condition LoseFewestTroops		;Verlieren Sie die wenigsten Truppen in der Galaxie
+Race Victory Condition MostExperiencedAdmiral		;Haben Sie den erfahrensten Admiral in der Galaxie
+Race Victory Condition MostExperiencedGeneral		;Haben Sie den erfahrensten General in der Galaxie
+Race Victory Condition MostHomeworlds		;Kontrollieren Sie den grössten Teil aller Heimatwelten (Ihriger und andere) in der Galaxie
+Race Victory Condition MostIntelligenceMissionsIntercepted		;Verhindern Sie die meisten feindlichen Spionagemissionen in der Galaxie
+Race Victory Condition MostIntelligenceMissionsSucceed		;Führen Sie die höchste Anzahl an erfolgreichen Spionagemissionen in der Galaxie durch
+Race Victory Condition MostMiningStations		;Haben Sie die meisten Bergbau-Stationen in der Galaxie
+Race Victory Condition MostResortBases		;Haben Sie die meisten Erholungsbasen in der Galaxie
+Race Victory Condition MostScientists		;Haben Sie die meisten Wissenschaftler in der Galaxie
+Race Victory Condition MostSpaceports		;Haben Sie die meisten Raumhäfen in der Galaxie
+Race Victory Condition MostSubjugatedDominions		;Unterjochen Sie die meisten Imperien in der Galaxie
+Race Victory Condition MostTimeWarring		;Verbringen Sie die meiste Zeit im Krieg in der Galaxie
+Race Victory Condition MostTourismIncome		;Erzielen Sie das höchste touristische Einkommen in der Galaxie
+Race Victory Condition MostTradeIncome		;Erzielen Sie das höchste Handelseinkommen in der Galaxie
+Race Victory Condition MostTroops		;Haben Sie die meisten Truppen in der Galaxie
 Race Victory Condition MostTroopsNonAllied		;Haben Sie die meisten Truppen unter nichtverbündeten Imperien
-Race Victory Condition MutualDefensePactsFormedProportionAllEmpires		;Schließen Sie gegenseitige Verteidigungspakte mit {0} % aller Reiche in der Galaxis
-Race Victory Condition OldestFreeTradeAgreement		;Haben Sie das langlebigste Freihandelsabkommen in der Galaxis
-Race Victory Condition OldestMutualDefensePact		;Haben Sie den langlebigsten gegenseitigen Verteidigungspakt in der Galaxis
-Race Victory Condition OwnLargestCapitalShip		;Besitzen Sie das größte Großkampfschiff der Galaxis
-Race Victory Condition PopulationHappiest		;Haben Sie die glücklichste Bevölkerung in der Galaxis
-Race Victory Condition PopulationHighest		;Haben Sie die größte Bevölkerung in der Galaxis
-Race Victory Condition ResearchLeastAdvanced		;Führen Sie die wenigsten Forschungsprojekte in der Galaxis durch
-Race Victory Condition ResearchMostAdvanced		;Führen Sie die meiste Forschungsprojekte in der Galaxis durch
-Race Victory Condition ResearchMostCompletedBranches		;Haben Sie die meisten vollendeten Forschungszweige in der Galaxis
-Race Victory Condition ResearchMostCompletedBranchesByIndustry		;Haben Sie die meisten vollendeten {0} Forschungszweige in der Galaxis
-Race Victory Condition MineMostResourcesLuxury		;Fördern Sie die meisten Luxusressourcen in der Galaxis
-Race Victory Condition MineMostResourcesStrategic		;Fördern Sie die meisten strategischen Ressourcen in der Galaxis
-Race Victory Condition BuildMostMilitaryShips		;Bauen Sie die meisten Kriegsschiffe in der Galaxis
-Race Victory Condition BuildMostCivilianShips		;Bauen Sie die meisten Zivilschiffe in der Galaxis
-Race Victory Condition BuildMostBases		;Bauen sie die meisten Basen in der Galaxis
+Race Victory Condition MutualDefensePactsFormedProportionAllEmpires		;Schließen Sie gegenseitige Verteidigungspakte mit {0} % aller Reiche in der Galaxie
+Race Victory Condition OldestFreeTradeAgreement		;Haben Sie das langlebigste Freihandelsabkommen in der Galaxie
+Race Victory Condition OldestMutualDefensePact		;Haben Sie den langlebigsten gegenseitigen Verteidigungspakt in der Galaxie
+Race Victory Condition OwnLargestCapitalShip		;Besitzen Sie das größte Großkampfschiff der Galaxie
+Race Victory Condition PopulationHappiest		;Haben Sie die glücklichste Bevölkerung in der Galaxie
+Race Victory Condition PopulationHighest		;Haben Sie die größte Bevölkerung in der Galaxie
+Race Victory Condition ResearchLeastAdvanced		;Führen Sie die wenigsten Forschungsprojekte in der Galaxie durch
+Race Victory Condition ResearchMostAdvanced		;Führen Sie die meiste Forschungsprojekte in der Galaxie durch
+Race Victory Condition ResearchMostCompletedBranches		;Haben Sie die meisten vollendeten Forschungszweige in der Galaxie
+Race Victory Condition ResearchMostCompletedBranchesByIndustry		;Haben Sie die meisten vollendeten {0} Forschungszweige in der Galaxie
+Race Victory Condition MineMostResourcesLuxury		;Fördern Sie die meisten Luxusressourcen in der Galaxie
+Race Victory Condition MineMostResourcesStrategic		;Fördern Sie die meisten strategischen Ressourcen in der Galaxie
+Race Victory Condition BuildMostMilitaryShips		;Bauen Sie die meisten Kriegsschiffe in der Galaxie
+Race Victory Condition BuildMostCivilianShips		;Bauen Sie die meisten Zivilschiffe in der Galaxie
+Race Victory Condition BuildMostBases		;Bauen sie die meisten Basen in der Galaxie
 
-Race Victory Condition PirateControlColoniesPercentage		;Kontrollieren Sie {0}% aller von Piraten kontrollierten Kolonien in der Galaxis
-Race Victory Condition PirateBuildMostHiddenBases		;Bauen Sie die meisten versteckten Piratenbasen in der Galaxis
+Race Victory Condition PirateControlColoniesPercentage		;Kontrollieren Sie {0}% aller von Piraten kontrollierten Kolonien in der Galaxie
+Race Victory Condition PirateBuildMostHiddenBases		;Bauen Sie die meisten versteckten Piratenbasen in der Galaxie
 Race Victory Condition PirateBuildHiddenFortress		;Bauen Sie eine versteckte Piratenfestung
 Race Victory Condition PirateBuildCriminalNetwork		;Bauen Sie ein kriminelles Netzwerk
-Race Victory Condition PirateEliminateMostPirateFactions		;Vernichten Sie die meisten Piratenfraktionen in der Galaxis
-Race Victory Condition PirateMostProtectionIncome		;Erzielen Sie das höchste Einkommen aus Schutzabkommen in der Galaxis
-Race Victory Condition PirateMostSmugglingIncome		;Erzielen Sie das höchste Schmuggeleinkommen in der Galaxis
-Race Victory Condition PirateMostSuccessfulMissionsAttack		;Schließen Sie die meisten Angriffsmissionen in der Galaxis ab
-Race Victory Condition PirateMostSuccessfulMissionsDefend		;Schließen Sie die meisten Verteidigungsmissionen in der Galaxis ab
-Race Victory Condition CaptureMostShips		;Kapern Sie die meisten Schiffe und Basen in der Galaxis
-Race Victory Condition PirateMostSuccessfulRaids		;Führen Sie die meisten erfolgreichen Piratenüberfälle in der Galaxis durch
+Race Victory Condition PirateEliminateMostPirateFactions		;Vernichten Sie die meisten Piratenfraktionen in der Galaxie
+Race Victory Condition PirateMostProtectionIncome		;Erzielen Sie das höchste Einkommen aus Schutzabkommen in der Galaxie
+Race Victory Condition PirateMostSmugglingIncome		;Erzielen Sie das höchste Schmuggeleinkommen in der Galaxie
+Race Victory Condition PirateMostSuccessfulMissionsAttack		;Schließen Sie die meisten Angriffsmissionen in der Galaxie ab
+Race Victory Condition PirateMostSuccessfulMissionsDefend		;Schließen Sie die meisten Verteidigungsmissionen in der Galaxie ab
+Race Victory Condition CaptureMostShips		;Kapern Sie die meisten Schiffe und Basen in der Galaxie
+Race Victory Condition PirateMostSuccessfulRaids		;Führen Sie die meisten erfolgreichen Piratenüberfälle in der Galaxie durch
 
-Race Victory Condition Detail ControlPlanetTypePercentage		;{0} {1} Kolonien, {2} der gesamten Galaxis
+Race Victory Condition Detail ControlPlanetTypePercentage		;{0} {1} Kolonien, {2} der gesamten Galaxie
 Race Victory Condition Detail ControlHomeworld Other		;Ihr Heimatwelt {0} wird von {1} kontrolliert
 Race Victory Condition Detail DestroyMoreEnemyTroopsThanLoseTimesFactor		;Zerstört {0} feindliche Truppen, Verloren {1} eigene Truppen
 Race Victory Condition Detail DestroyMoreShipsBySizeThanLoseTimesFactor		;Zerstört {0} feindliche Schiff-Größe, Verloren {1} eigene Schiff-Größe
@@ -4034,7 +4035,7 @@ Race Victory Condition Detail MineMostResourcesStrategic		;{0} haben strategisch
 Race Victory Condition Detail BuildMostMilitaryShips		;{0} Kriegsschiffe gebaut
 Race Victory Condition Detail BuildMostCivilianShips		;{0} Zivilschiffe gebaut
 Race Victory Condition Detail BuildMostBases		;{0} Basen gebaut
-Race Victory Condition Detail PirateControlColoniesPercentage		;{0} kontrollierte Kolonien, {1} in der Galaxis gesamt
+Race Victory Condition Detail PirateControlColoniesPercentage		;{0} kontrollierte Kolonien, {1} in der Galaxie gesamt
 Race Victory Condition Detail PirateBuildMostHiddenBases		;{0} Versteckte Piratenfestungen
 Race Victory Condition Detail PirateEliminateMostPirateFactions		;{0} vernichtete Piratenfraktionen
 Race Victory Condition Detail PirateMostProtectionIncome		;{0} Credits Einkommen aus Schutzabkommen
@@ -4079,9 +4080,9 @@ Native Planet Type		;Typ der Heimatwelt
 Based At		;Basis bei
 
 Victory Conditions Explanation		;Wählen Sie eine beliebige Kombination von Territorium, Bevölkerung, Wirtschaft oder Rassen-spezifischen Siegbedingungen rechts. Dann wählen Sie die prozentuale Schwelle für den Sieg:. Dies ist der Teil der ausgewählten Siegbedingungen, die für den Sieg erfüllt werden müssen \n\n Schalte alle Siegbedingungen aus für Sandbox-Modus (open play).
-Victory Condition Target: Control the specified percentage of all colonies in the galaxy		;Siegbedingung: Kontrollieren Sie den angegebenen Prozentsatz aller Kolonien in der Galaxis
-Victory Condition Target: Control the specified percentage of the galaxy's population		;Siegbedingung: Kontrollieren Sie den angegebenen Prozentsatz der Bevölkerung der Galaxis
-Victory Condition Target: Your empire's private economy must generate the specified percentage of the galaxy's total income		;Siegbedingung: Die private Wirtschaft Ihres Reiches muss den angegebenen Prozentsatz des Gesamteinkommens der Galaxis erzeugen
+Victory Condition Target: Control the specified percentage of all colonies in the galaxy		;Siegbedingung: Kontrollieren Sie den angegebenen Prozentsatz aller Kolonien in der Galaxie
+Victory Condition Target: Control the specified percentage of the galaxy's population		;Siegbedingung: Kontrollieren Sie den angegebenen Prozentsatz der Bevölkerung der Galaxie
+Victory Condition Target: Your empire's private economy must generate the specified percentage of the galaxy's total income		;Siegbedingung: Die private Wirtschaft Ihres Reiches muss den angegebenen Prozentsatz des Gesamteinkommens der Galaxie erzeugen
 
 Game Intro Victory		;Victory Condition Targets - Achieve {0} of the following:
 Game Intro Victory Economy		;Your economy generates {0}% of galaxy total
@@ -4344,7 +4345,7 @@ Skills		;Fähigkeiten
 No Fleet		;Keine Flotte
 
 Phantom Pirates Encountered		;Phantom Pirates angetroffen
-Encounter Message Phantom Pirates		;Wir haben die legendäre Piratenhorde angetroffen, {0} im {1} System!\n\nDiese berüchtigten Piraten wurden zuletzt vor Hunderten von Jahren gesehen. Zu dieser Zeit durchstreiften ihre mäcthigen Flotten frei die Galaxis und plünderten alles, auf das sie zufällig stießen. Dann verschwanden sie plötzlich und man hörte nie wieder was von ihnen - bis jetzt…\n\nWir müssen unser Bestes tun, um uns auf die Verteidigung vorzubereiten! Sie haben wahrscheinlich eine große Basis in einem ruhigen System in der Nähe - wir müssen diese Basis zerstören, um sie zu besiegen.
+Encounter Message Phantom Pirates		;Wir haben die legendäre Piratenhorde angetroffen, {0} im {1} System!\n\nDiese berüchtigten Piraten wurden zuletzt vor Hunderten von Jahren gesehen. Zu dieser Zeit durchstreiften ihre mäcthigen Flotten frei die Galaxie und plünderten alles, auf das sie zufällig stießen. Dann verschwanden sie plötzlich und man hörte nie wieder was von ihnen - bis jetzt…\n\nWir müssen unser Bestes tun, um uns auf die Verteidigung vorzubereiten! Sie haben wahrscheinlich eine große Basis in einem ruhigen System in der Nähe - wir müssen diese Basis zerstören, um sie zu besiegen.
 
 Enemy Agent Captured Generic		;Wir haben feindliche Agenten {0} festgenommen, während sie auf einer Mission gegen unser Imperium waren!
 Character Death Title		;{0} Getötet!
@@ -5081,13 +5082,13 @@ Inform Empire Their Contact Details Sold Title		;Piraten haben unsere Kontaktdat
 We have lost control of the colony X		;Unsere Fraktion hat die Kontrolle über die Kolonie  {0} {1} im System {2} verloren.
 We have gained control of the colony X		;Unsere Fraktion hat die Kontrolle über die Kolonie {0} {1} Im System {2} erlangt. Solange wir hier präsent sind, wird unser Einfluss auf der Kolonie steigen.
 
-Game Type Intro Pirate Shadows		;Sie spielen eine Piratenfraktion im Zeitalter der Schatten. Piraten, Schmuggler und Söldner beherrschen Die Galaxis. Einst große Reiche sind heute bedeutungslos und unterentwickelt - Damit diese wieder zu den Sternen fliegen können, müssen sie erst mal wieder Schlüsseltechnologien wie Hypertriebwerke und Kolonieschiffe entwickeln. Solange die Piratenfraktionen diese Technologien für sich alleine haben, werden sie die Galaxis dominieren. Ihr Überleben als Piratenfraktion hängt davon ab, die Imperien klein zu halten... 
-Game Type Intro Normal Shadows		;Sie spielen ein normales Imperium im Zeitalter der Schatten. Piraten, Schmuggler und Söldner beherrschen Die Galaxis. Ihr Imperium ist deutlich unterentwickelt, Sie verfügen nicht über Weltraumtechnologien.  Bevor Sie wieder zu den Sternen fliegen können, müssen Sie erst Schlüsseltechnologien wie Hypertriebwerke und Kolonieschiffe entwickeln. Solange die Piratenfraktionen diese Technologien für sich alleine haben, werden sie die Galaxis dominieren. Während Sie noch dabei sind, die nötigen Technologien zu erforschen, sollten Sie die Piraten für sich arbeiten lassen...
-Game Type Intro Pirate Classic		;Sie spielen eine Piratenfraktion im klassischen Zeitalter. Mächtige Imperien beginnen, sich über die Galaxis auszubreiten und das Chaos in der Galaxis einzudämmen. Können Sie sie zu Ihrem Vorteil ausnutzen? Werden Sie es schaffen, Ihren Einfluss über die unberührten Gegenden der Galaxis zu behalten und zu überleben?...
-Game Type Intro Normal Classic		;Sie spielen ein normales Imperium im klassischen Zeitalter. Ihr Imperium ist dabei, sich über das eigene Heimatsystem hinaus zu entwickeln. Auch andere Imperien sind dabei, dies zu tun. Außerdem beherrschen Piraten, Schmuggler und Söldner die unerforschten Regionen der Galaxis. Können Sie Ihr Imperium beschützen und es vergrößern?...
+Game Type Intro Pirate Shadows		;Sie spielen eine Piratenfraktion im Zeitalter der Schatten. Piraten, Schmuggler und Söldner beherrschen Die Galaxie. Einst große Reiche sind heute bedeutungslos und unterentwickelt - Damit diese wieder zu den Sternen fliegen können, müssen sie erst mal wieder Schlüsseltechnologien wie Hypertriebwerke und Kolonieschiffe entwickeln. Solange die Piratenfraktionen diese Technologien für sich alleine haben, werden sie die Galaxie dominieren. Ihr Überleben als Piratenfraktion hängt davon ab, die Imperien klein zu halten... 
+Game Type Intro Normal Shadows		;Sie spielen ein normales Imperium im Zeitalter der Schatten. Piraten, Schmuggler und Söldner beherrschen Die Galaxie. Ihr Imperium ist deutlich unterentwickelt, Sie verfügen nicht über Weltraumtechnologien.  Bevor Sie wieder zu den Sternen fliegen können, müssen Sie erst Schlüsseltechnologien wie Hypertriebwerke und Kolonieschiffe entwickeln. Solange die Piratenfraktionen diese Technologien für sich alleine haben, werden sie die Galaxie dominieren. Während Sie noch dabei sind, die nötigen Technologien zu erforschen, sollten Sie die Piraten für sich arbeiten lassen...
+Game Type Intro Pirate Classic		;Sie spielen eine Piratenfraktion im klassischen Zeitalter. Mächtige Imperien beginnen, sich über die Galaxie auszubreiten und das Chaos in der Galaxie einzudämmen. Können Sie sie zu Ihrem Vorteil ausnutzen? Werden Sie es schaffen, Ihren Einfluss über die unberührten Gegenden der Galaxie zu behalten und zu überleben?...
+Game Type Intro Normal Classic		;Sie spielen ein normales Imperium im klassischen Zeitalter. Ihr Imperium ist dabei, sich über das eigene Heimatsystem hinaus zu entwickeln. Auch andere Imperien sind dabei, dies zu tun. Außerdem beherrschen Piraten, Schmuggler und Söldner die unerforschten Regionen der Galaxie. Können Sie Ihr Imperium beschützen und es vergrößern?...
 
 Game WhatToDo Pirate Shadows		;- Erlangen Sie die Kontrolle über besiedelte Welten indem Sie dort Raumschiffe in einem Orbit halten. Zementieren Sie ihre Kontrolle über diese Welten dann, indem Sie dort eine versteckte Piratenbasis bauen.\n- Schließen Sie Schutzabkommen mit normalen Imperien ab, um ein stetiges Einkommen zu erzielen.\n- Nehmen Sie Aufträge  von normalen Imperien an, um zusätzliches Geld zu verdienen sowie Ihren Einfluss zu erweitern.\n- Stören und behindern Sie das Wachstum normaler Imperien, indem Sie Raumhäfen angreifen und vernichten, die noch im Bau und somit verwundbar sind.
-Game WhatToDo Normal Shadows		;- Erforschen Sie die ersten Schlüsseltechnologien und bauen Sie einen ersten Raumhafen auf Ihrer Heimatwelt.\n- Dehnen Sie Ihr Imperium über Ihr Sonnensystem aus, indem Sie Bergbaubasen auf Rohstoffquellen bauen.\n- Überwinden Sie auftretenden Rohstoffmangel, indem Sie Schmuggelmissionen für Ihre Heimatwelt anbieten.\n- Erforschen Sie die nötigen Technologien, um Hypertriebwerke sowie Kolonieschiffe bauen zu können und somit zu einer interstellaren Zivilisation zu werden.\n- Dehnen Sie Ihr IMperium über die Galaxis aus, indem sie Kolonien gründen und Rohstoffe überall abbauen. 
+Game WhatToDo Normal Shadows		;- Erforschen Sie die ersten Schlüsseltechnologien und bauen Sie einen ersten Raumhafen auf Ihrer Heimatwelt.\n- Dehnen Sie Ihr Imperium über Ihr Sonnensystem aus, indem Sie Bergbaubasen auf Rohstoffquellen bauen.\n- Überwinden Sie auftretenden Rohstoffmangel, indem Sie Schmuggelmissionen für Ihre Heimatwelt anbieten.\n- Erforschen Sie die nötigen Technologien, um Hypertriebwerke sowie Kolonieschiffe bauen zu können und somit zu einer interstellaren Zivilisation zu werden.\n- Dehnen Sie Ihr IMperium über die Galaxie aus, indem sie Kolonien gründen und Rohstoffe überall abbauen. 
 Game WhatToDo Pirate Classic		;- Erlangen Sie die Kontrolle über besiedelte Welten indem Sie dort Raumschiffe in einem Orbit halten. Zementieren Sie ihre Kontrolle über diese Welten dann, indem Sie dort eine versteckte Piratenbasis bauen.\n- Schließen Sie Schutzabkommen mit normalen Imperien ab, um ein stetiges Einkommen zu erzielen.\n- Nehmen Sie Aufträge  von normalen Imperien an, um zusätzliches Geld zu verdienen sowie Ihren Einfluss zu erweitern.\n- Stören und behindern Sie das Wachstum normaler Imperien, indem Sie Raumhäfen angreifen und vernichten, die noch im Bau und somit verwundbar sind.\n- Stehlen Sie Technologien mittels Ihrer hocheffizienten Spione von normalen Imperien.
 Game WhatToDo Normal Classic		;- Erweitern Sie kontinuierlich Ihr Imperium, indem Sie neue Welten kolonisieren, neue Rohstoffquellen erschließen und Forschungsbasen bauen.\n- Schaffen Sie ein starkes Militär, um Bedrohungen durch anderen Imperien sowie durch Piraten Herr zu werden.\n- Nutzen Sie die Diplomatie, um Freunde zu gewinnen und Feinde abzuschrecken. 
 What You Should Do		;Was Sie tun sollten
@@ -5103,7 +5104,7 @@ Construction Resource Shortage Message Short		;Konstruktion behindert wegen Mang
 Build new civilian ship		;Baue neues ziviles Schiff
 
 Ancient Knowledge Cache Discovered		;Fundgrube uralten Wissens entdeckt!
-Ruins Ancient Knowledge Cache Discovered		;In den Ruinen von {0} haben wir wissenschaftliches Wissen einer untergegangenen Zivilisation gefunden.\n\nObwohl es schwer zu entziffern war, haben wir genug Erkenntnisse daraus gewonnen, dass wir nun unsererseits folgendes Forschungsprojekt beginnen können: {1}.\n\nDas Projekt {1} enthält das Versprechen von überlichtschneller Raumfahrt, welche uns ermöglichen würde, die Galaxis zu erforschen...
+Ruins Ancient Knowledge Cache Discovered		;In den Ruinen von {0} haben wir wissenschaftliches Wissen einer untergegangenen Zivilisation gefunden.\n\nObwohl es schwer zu entziffern war, haben wir genug Erkenntnisse daraus gewonnen, dass wir nun unsererseits folgendes Forschungsprojekt beginnen können: {1}.\n\nDas Projekt {1} enthält das Versprechen von überlichtschneller Raumfahrt, welche uns ermöglichen würde, die Galaxie zu erforschen...
 Ruins: Unlock Research Project		;Ruinen: Ermöglichen Forschungsprojekt
 Project is disabled. Must enable through exploration		;Projekt nicht verfügbar. Muss durch Erforschung aktiviert werden.
 
@@ -5127,9 +5128,9 @@ PreWarpProgressEvent Message BuildFirstResearchStation New Scientist		;Die Erric
 PreWarpProgressEvent Message BuildFirstShip		;Wir haben unser erstes Raumschiff gebaut, die {0}! Dies markiert den Zeitpunkt unserer Rückkehr zu den Sternen.\n\nWir müssen die Erforschung unseres Sonnensystems sowie unsere Expansion vorantreiben. Bauen sie mehr Schiffe, um ein gedeihendes Imperium zu etablieren.
 PreWarpProgressEvent Message BuildFirstMilitaryShip		;Wir haben unser erstes Kriegsschiff gebaut, die {0}! Wir sind jetzt in der Lage, uns selbst gegen Bedrohungen zu verteidigen.\n\nBauen Sie mehr Kriegsschiffe, um unser Imperium zu beschützen.
 PreWarpProgressEvent Message BuildFirstSpaceport		;Wir haben unseren ersten Raumhafen gebaut! Diese große orbitale Basis fungiert als Schiffswerft, in der wir viele verschiedene Schiffstypen bauen können.\n\nDie Errichtung des Raumhafens inspiriert unsere Bevölkerung, stärkt ihre Entschlossenheit und beschert uns somit einen kurzfristigen Schub unserer Wirtschaft.\n\nAußerdem fungiert der Raumhafen auch als Knoten für den Handel: Frachter können Waren umschlagen, und Schiffe können dort auftanken.\n\nMit fortschreitender Technologie sollten wir unsere Raumhäfen auch mit anderen Dingen ausstatten: Waffen und Schilde, Forschungslabore, Sensoren und mehr.
-PreWarpProgressEvent Message DiscoverColonizationTech		;Mit der Entwicklung von {0} haben wir nun alle Technologien, die wir brauchen, um neue Welten zu kolonisieren!\n\nDiese sensationelle Entdeckung inspiriert unsere Bevölkerung, stärkt ihre Entschlossenheit und beschert uns somit einen kurzfristigen Schub unserer Wirtschaft.\n\nWir sollten nun Planten suchen, welche bewohnbar und somit gute Kanditen für neue Kolonien sind. Dann können wir riesige Kolonieschiffe bauen und sie zu diesen Welten schicken.\n\nAb diesem Zeitpunkt sind wir wahrlich eine interstellare Zivilisation!  Nun, da wir wieder in der Galaxis reisen können, verblasst das Zeitalter der Schatten. Wir werden kontinuierlich wachsen und die Oberhand über Piraten und Söldner gewinnen.\n\nNun beginnt das Zeitalter der Expansion, in welchem wir mit anderen Imperien um die Vorherrschaft in der Galaxis ringen...
-PreWarpProgressEvent Message DiscoverHyperspaceTech		;Wir haben die Hyperraum-Technologie erforscht, mit der es uns möglich ist, Schiffe zu bauen, die schneller als das Licht fliegen können!\n\nDas ist ein bedeutender Moment, denn ab jetzt sind wir in der Lage, unser Heimatsystem zu verlassen und die Galaxis zu erkunden!\n\nDiese sensationelle Entdeckung inspiriert unsere Bevölkerung, stärkt ihre Entschlossenheit und beschert uns somit einen kurzfristigen Schub unserer Wirtschaft.\n\nWir sollten unsere neuen Möglichkeiten so schnell wie möglich nutzen und unsere Schiffe entsprechend aufrüsten.
-PreWarpProgressEvent Message DiscoverHyperspaceTech New Scientist		;Wir haben die Hyperraum-Technologie erforscht, mit der es uns möglich ist, Schiffe zu bauen, die schneller als das Licht fliegen können!\n\nDas ist ein bedeutender Moment, denn ab jetzt sind wir in der Lage, unser Heimatsystem zu verlassen und die Galaxis zu erkunden!\n\nDiese sensationelle Entdeckung verdanken wir der hartnäckigen und fleißigen Arbeit des Wissenschaftlers {0}!\n\nWir sollten unsere neuen Möglichkeiten so schnell wie möglich nutzen und unsere Schiffe entsprechend aufrüsten.
+PreWarpProgressEvent Message DiscoverColonizationTech		;Mit der Entwicklung von {0} haben wir nun alle Technologien, die wir brauchen, um neue Welten zu kolonisieren!\n\nDiese sensationelle Entdeckung inspiriert unsere Bevölkerung, stärkt ihre Entschlossenheit und beschert uns somit einen kurzfristigen Schub unserer Wirtschaft.\n\nWir sollten nun Planten suchen, welche bewohnbar und somit gute Kanditen für neue Kolonien sind. Dann können wir riesige Kolonieschiffe bauen und sie zu diesen Welten schicken.\n\nAb diesem Zeitpunkt sind wir wahrlich eine interstellare Zivilisation!  Nun, da wir wieder in der Galaxie reisen können, verblasst das Zeitalter der Schatten. Wir werden kontinuierlich wachsen und die Oberhand über Piraten und Söldner gewinnen.\n\nNun beginnt das Zeitalter der Expansion, in welchem wir mit anderen Imperien um die Vorherrschaft in der Galaxie ringen...
+PreWarpProgressEvent Message DiscoverHyperspaceTech		;Wir haben die Hyperraum-Technologie erforscht, mit der es uns möglich ist, Schiffe zu bauen, die schneller als das Licht fliegen können!\n\nDas ist ein bedeutender Moment, denn ab jetzt sind wir in der Lage, unser Heimatsystem zu verlassen und die Galaxie zu erkunden!\n\nDiese sensationelle Entdeckung inspiriert unsere Bevölkerung, stärkt ihre Entschlossenheit und beschert uns somit einen kurzfristigen Schub unserer Wirtschaft.\n\nWir sollten unsere neuen Möglichkeiten so schnell wie möglich nutzen und unsere Schiffe entsprechend aufrüsten.
+PreWarpProgressEvent Message DiscoverHyperspaceTech New Scientist		;Wir haben die Hyperraum-Technologie erforscht, mit der es uns möglich ist, Schiffe zu bauen, die schneller als das Licht fliegen können!\n\nDas ist ein bedeutender Moment, denn ab jetzt sind wir in der Lage, unser Heimatsystem zu verlassen und die Galaxie zu erkunden!\n\nDiese sensationelle Entdeckung verdanken wir der hartnäckigen und fleißigen Arbeit des Wissenschaftlers {0}!\n\nWir sollten unsere neuen Möglichkeiten so schnell wie möglich nutzen und unsere Schiffe entsprechend aufrüsten.
 PreWarpProgressEvent Message EncounterFirstKaltor		;Wir haben einen riesigen Kaltor nahe {0} entdeckt! Dieses furchterregende Biest lebt in den kalten, dunklen Weiten des Raums und greifen alle vorbeikommenden Schiffe an.\n\nDieser Kaltor hat eine strake Ähnlichkeit mit Monstern, die laut alten Legenden vom Himmel fielen und alles fraßen und zerstörten, was ihnen im Wege war.\n\nVieleicht wäre es klüger, diese seltsamen Kreaturen zu meiden...
 PreWarpProgressEvent Message FirstContactNormalEmpire		;Wir haben eine weitere, fremde Rasse, die {1} entdeckt. Ihre Zivilisation nennt sich die {0}.\n\nWir können die {2} von nun an über den Diplomatiebildschirm kontaktieren.
 PreWarpProgressEvent Message FirstContactNormalEmpire War		;Wir haben den Erstkontakt mit einer fremden Rasse, den {1} hergestellt\n\nSie nennen sich {0}.\n\nUnglücklicherweise machten unsere Übersetzer einen gravierenden Fehler: Statt eines freundlichen Grußes schickten sie eine abscheuliche Beleidigung zu den {0}. Daraufhin erklärten die {0} uns den KRIEG!
@@ -5265,10 +5266,10 @@ Planetary Facility Build Recommendation Need Funds		;Unser {0} rät uns, dass wi
 
 In Transit - Your Empire		;Im Transport - Imperiumsweit
 Unfulfilled Demand - Your Empire		;Unbefriedigte Nachfrage - Imperiumsweit
-In Transit - Galaxy		;Im Transport - Galaxisweit
-Unfulfilled Demand - Galaxy		;Unbefriedigte Nachfrage - Galaxisweit
+In Transit - Galaxy		;Im Transport - Galaxieweit
+Unfulfilled Demand - Galaxy		;Unbefriedigte Nachfrage - Galaxieweit
 Amount in transit to fulfill demand in your empire		;Menge im Transport, um die Nachfrage im Imperium zu stillen
-Amount in transit to fulfill demand in the galaxy		;Menge im Transport, um die Nachfrage in der Galaxis zu stillen
+Amount in transit to fulfill demand in the galaxy		;Menge im Transport, um die Nachfrage in der Galaxie zu stillen
 
 Suggest pirate missions		;Schlage Piratenmissionen vor 
 Offer Pirate Missions		;Biete und akzeptiere Piratenmissionen 
@@ -5352,7 +5353,7 @@ Tourism from X		;Tourismus von {0}
 Natural scenery		;Natürliche Sehenswürdigkeiten 
 Planetary Wonders		;Planetare Wunder
 Destroyed Pirates do not respawn		;Keine Neuformierung von Piraten 
-Destroyed Pirates do not respawn Description		;Wenn dies aktiviert ist, können sich vernichtete Piratenfraktionen nicht neu formieren und wieder auftauchen. Das macht es einfacher, die Galaxis von Piraten zu befreien.
+Destroyed Pirates do not respawn Description		;Wenn dies aktiviert ist, können sich vernichtete Piratenfraktionen nicht neu formieren und wieder auftauchen. Das macht es einfacher, die Galaxie von Piraten zu befreien.
 
 Colony Under Attack From Silvermist Description		;Unsere Kolonie {0} im {1} System wird von einem tödlichen Weltraummonster angegriffen, den {2}!\n\nDieser furchtbare Schwarm der Vernichtung droht, unsere Kolonie auszulöschen!
 Colony Wiped Out From Silvermist Description		;Unsere Kolonie {0} im {1} System wurde komplett von {2} ausgelöscht! Diese furchtbaren Schwärme von Nanomaschinen assimilieren alles Leben und alle Technologie der Kolonie und werden dabei selbst größer und stärker.\n\nSenden Sie eine Flotte mit Ionenwaffen aus, um sie vernichten zu können!
@@ -5429,7 +5430,7 @@ AchievementTitle HighestTradeIncome		;Freihändler
 AchievementTitle JoinTheFreedomAlliance		;Wir brauchen DICH! 
 AchievementTitle JoinTheShakturi		;Wenn Du sie nicht schlagen kannst. 
 AchievementTitle OwnOperationalPlanetDestroyer		;Seht die Macht!
-AchievementTitle SpendAllTimeAtWar		;Galaxis in Flammen
+AchievementTitle SpendAllTimeAtWar		;Galaxie in Flammen
 AchievementTitle SpendNoTimeAtWar		;Frieden durch Frieden
 AchievementTitle StartWars		;Kriegstreiber
 AchievementTitle SuccessfulIntelligenceMissions		;Meisterspion
@@ -5526,20 +5527,21 @@ Enables tech trading between empires in the Diplomacy screen		;Ermöglicht den H
 Allow Tech Trading		;Erlaube Handel mit Technologien
 
 Trade Description Base With Sector		; {0} ({1} System, Sektor {2})
-Restricted Resource Discovery - General		;This {0} supplies an extremely rare resource: {1}.
 
-Planetary Facility Description Regional Capital New		;Regional Capitals lower corruption in your nearby colonies, increasing revenue for your empire. This project allows you to build one additional regional capital in your empire
+Restricted Resource Discovery - General		;Dieser {0} liefert eine extrem seltene Resource: {1}.
 
-Has control of pirate facilities at colony		;Has control of pirate facilities at colony
+Planetary Facility Description Regional Capital New		;Regionale Hauptstädte reduzieren Korruption in nahegelegenen Kolonien, was den Ertrag deines Imperiums erhöht. Dieses Projekt erlaubt dir eine zusätzliche Regionale Hauptstadt in deinem Imperium zu bauen
 
-Empire Description Label		;Description (will appear as summary for this empire when using this galaxy as a starting map in a new game)
-Galaxy Description Label		;This information will appear as a summary when using this galaxy as a starting map in a new game.
-Edit Galaxy		;Edit Galaxy
-Physical Galaxy Description		;{0}-star {1} galaxy, {2} x {3} sectors
-Empire Summary Race Government Description		;{0} race, {1} government
-Empire Summary Race Pirate Description		;{0} race, {1} pirate faction
-Empire Summary Colonies Description		;{0} colonies in {1} systems  ({2} spaceports)
-Empire Summary Economy Description		;{0} credits on hand  ({1} credits annual cashflow)
+Has control of pirate facilities at colony		;Hat Kontrolle über Pirateneinrichtung in Kolonie
+
+Empire Description Label		;Beschreibung (wird angezeigt als Zusammenfassung für dieses Imperium wenn diese Galaxie als Startkarte für eine neues Spiel benutzt wird)
+Galaxy Description Label		;Diese Information wird angezeigt als Zusammenfassung wenn diese Galaxie als Startkarte für eine neues Spiel benutzt wird.
+Edit Galaxy		;Editiere Galaxie
+Physical Galaxy Description		;{0}-Stern {1} Galaxie, {2} x {3} Sektoren
+Empire Summary Race Government Description		;{0} Rasse, {1} Regierung
+Empire Summary Race Pirate Description		;{0} Rasse, {1} Piraten Fraktion
+Empire Summary Colonies Description		;{0} Kolonien in {1} Systemen  ({2} Raumfahrtzentren)
+Empire Summary Economy Description		;{0} Credits zur verfügung  ({1} Credits Jahresgewinn)
 StartNewGame GalaxyMaps Explanation		;This theme contains prebuilt galaxies available for play. You can select a galaxy and a faction from the list below. Or you can instead proceed to a custom game.
 StartNewGame GalaxyMaps CustomGame		;No thanks, I want to set up a Custom Game
 StartNewGame GalaxyMaps StartGame		;Play selected Galaxy and Faction
@@ -6061,3 +6063,19 @@ Switching to THEMENAME theme		;Switching to {0} theme
 Race Report RACE ADVANCEMENT RACEFAMILY		;The {0} are a {1} {2} race
 
 Start New Game Description - Introductory Game		;An introduction to Distant Worlds. Jump straight into an easy game in the Classic Era, with abundant resources and few pirates
+
+Colony Lost to Pirate Criminal Network		;Our colony {0} in the {1} system has been lost to the {2} pirate faction! They have completed a Criminal Network at the colony, thus allowing them to totally control {0} and become a fully-fledged empire.
+
+Set as Home Base		;Set as Home Base
+
+Component Type Super Torpedo Weapon		;Super Torpedo Weapon
+Component Type Super Missile Weapon		;Super Missile Weapon
+Component Type Super RailGun Weapon		;Super RailGun Weapon
+Component Type Super Phaser Weapon		;Super Phaser Weapon
+Component Category WeaponSuperTorpedo		;Super Torpedo Weapon
+
+Range Shortest/Longest		;Range Shortest/Longest
+Fighter Firepower		;Fighter Firepower
+
+Flee When Armor 50 or Shields 20		;Armor 50% or Shields 20%
+Character Death Dismiss Description		;Our {0} {1}, based at {2}, has been dismissed for incompetence and extreme grumpiness.

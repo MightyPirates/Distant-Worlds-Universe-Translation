@@ -1,0 +1,311 @@
+﻿'Distant Worlds Race file - 1.9.5.0
+
+
+
+'Name: name of the race
+Name		;Atuuk
+
+'Picture index: index of picture used for this race from race pictures contained in Images\units\races\ folder or Customization\YourTheme\raceImages\ folder
+PictureIndex		;1
+
+'Race Family: the RaceFamilyID of the race family that this race belongs to. Should match a race family in raceFamilies.txt
+RaceFamily		;5
+
+'Reproduction rate: base rate of population growth. This rate is also modified by other external factors
+ReproductionRate		;1.28
+
+'Intelligence: intelligence level (normal = 100). This factor influences research rate and smartness of interaction with other empires
+Intelligence		;50
+
+'Aggression: aggression level (normal = 100). This factor influences interaction with other empires, level of military ship building
+Aggression		;115
+
+'Caution: caution level (normal = 100). This factor influences interaction with other empires, level of military ship building
+Caution		;40
+
+'Friendliness: friendliness level (normal = 100). This factor influences likelihood of forming treaties with other empires and general interaction with other empires
+Friendliness		;138
+
+'Loyalty: loyalty level (normal = 100). This factor influences how likely to stick to treaties with other empires
+Loyalty		;125
+
+'Designs picture family index: index of default ships pictures used for this race from ship pictures contained in Images\units\ships\ folder or Customization\YourTheme\shipImages\ folder
+DesignsPictureFamilyIndex		;1
+
+'Design names index: index into default design names
+DesignNamesIndex		;12
+
+
+
+'Ship Maintenance Savings: percentage rate of savings on maintenance costs for ships and bases
+ShipMaintenanceSavings		;0
+
+'Troop Maintenance Savings: percentage rate of savings on maintenance costs for troops
+TroopMaintenanceSavings		;0
+
+'Resource Extraction Bonus: percentage rate of speed increase for all mining operations
+ResourceExtractionBonus		;0
+
+'War Weariness Attenuation: percentage rate of reduction in war weariness
+WarWearinessAttenuation		;0
+
+'Satisfaction Modifier: percentage rate of happiness bonus at colonies
+SatisfactionModifier		;30
+
+'Research Bonus: percentage rate of speed increase for research
+ResearchBonus		;0
+
+'Espionage Bonus: percentage rate of skill bonus for all intelligence missions
+EspionageBonus		;0
+
+'Trade Bonus: percentage rate of bonus for colony income
+TradeBonus		;0
+
+
+
+'Overall Ship Design Focus: 0=Balanced, 1=Speed/Agility, 2=Power, 3=Efficiency
+OverallShipDesignFocus		;2
+
+'Tech Focus 1: 0=None, 1=Beams, 2=Phasers, 3=Rail Guns, 4=Torpedoes, 5=Bombard Weapons, 6=Missiles, 7=Area Weapons, 8=Ion Weapons, 9=Fighters, 10=Armor, 11=Shields, 12=Reactors, 13=Main Thrust Engines, 14=Vectoring Engines, 15=HyperDrives, 16=Hyper Disruption, 17=Construction, 18=Damage Control, 19=Targetting, 20=Countermeasures, 21=Sensors, 22=Medicine, 23=Recreation, 24=Tractor Beams, 25=Assault Pods, 26=Graviton Beams, 27=Gravity Area Weapons, 28=Super Beam Weapons, 29=Super Area Weapons
+TechFocus1		;3
+
+'Tech Focus 2: 0=None, 1=Beams, 2=Phasers, 3=Rail Guns, 4=Torpedoes, 5=Bombard Weapons, 6=Missiles, 7=Area Weapons, 8=Ion Weapons, 9=Fighters, 10=Armor, 11=Shields, 12=Reactors, 13=Main Thrust Engines, 14=Vectoring Engines, 15=HyperDrives, 16=Hyper Disruption, 17=Construction, 18=Damage Control, 19=Targetting, 20=Countermeasures, 21=Sensors, 22=Medicine, 23=Recreation, 24=Tractor Beams, 25=Assault Pods, 26=Graviton Beams, 27=Gravity Area Weapons, 28=Super Beam Weapons, 29=Super Area Weapons
+TechFocus2		;6
+
+'Native planet type: 0=Continental, 1=MarshySwamp, 2=Desert, 3=Ocean, 4=Ice, 5=Volcanic
+NativePlanetType		;0
+
+'Special Component: -1 = None, 0 or greater = ComponentId of special component. Be careful not to set a special component to a race that is also required by other races
+SpecialComponent		;-1
+
+'Research Project Order: scripted research project path. Comma-delimited list of Research Project IDs here will be researched in the specified order. Once list is completely researched, remaining projects will use default AI research pathing
+'  separate paths for Weapons, Energy and HighTech research trees
+WeaponsResearchProjectOrder		;
+EnergyResearchProjectOrder		;
+HighTechResearchProjectOrder	;
+
+'Special Government: -1=NONE, 0 or greater = GovernmentId of special government
+SpecialGovernment		;-1
+
+'Preferred Starting Government: -1=No preference, 0 or greater = GovernmentId of preferred government
+PreferredStartingGovernment		;-1
+
+'Disallowed Governments: comma-separated list of GovernmentIds that this race cannot normally use
+DisallowedGovernments		;
+
+'Can Change Government: Y/N value. Determines whether race can manually change governments during the game
+CanChangeGovernment		;Y
+
+'Expanding: indicates whether this race will colonize new planets or not (Y/N). Set this to 'N' to create a static empire that does not colonize
+Expanding		;Y
+
+'Can be Pirate: indicates whether this race can be a pirate faction or not (Y/N)
+CanBePirate		;Y
+
+'Can be Normal Empire: indicates whether this race can be a normal empire or not (Y/N)  (e.g. may set as only CanBePirate, but not CanBeNormalEmpire)
+CanBeNormalEmpire		;Y
+
+'Playable: indicates whether this race can be selected by the player as their empire's race at start of game or not (Y/N)
+Playable		;Y
+
+
+
+'Periodic Change Interval: number of years between change to racial characteristics (defined below), 0=no periodic changes
+PeriodicChangeInterval		;0
+
+'Periodic Change Length: number of years changed racial characteristics last (defined below), 0=no periodic changes
+PeriodicChangeLength		;0
+
+'Periodic Factors - Growth: periodic change to growth rate
+PeriodicFactorsGrowth		;1.0
+
+'Periodic Factors - Aggression: periodic change to aggression level
+PeriodicFactorsAggression		;100
+
+'Periodic Factors - Caution: periodic change to caution level
+PeriodicFactorsCaution		;100
+
+'Periodic Factors - Friendliness: periodic change to friendliness level
+PeriodicFactorsFriendliness		;100
+
+'Race event that occurs during change cycle: 0=None, 1-28=events (see Modding Guide)
+PeriodicChangeCycleEvent		;0
+
+
+
+'Ship Size Factor Civilian - resize factor for maximum civilian ship sizes
+ShipSizeFactorCivilian		;1.0
+
+'Ship Size Factor Military - resize factor for maximum military ship sizes
+ShipSizeFactorMilitary		;1.0
+
+'Disallowed Research Areas 1,2,3: areas that this race cannot research: 0=None, 1=Torpedoes, 2=Missiles, 3=Area Weapons, 4=Ion Weapons, 5=Fighters, 6=Armor, 7=Hyper Disruption, 8=Sensors
+DisallowedResearchArea1		;0
+DisallowedResearchArea2		;0
+DisallowedResearchArea3		;0
+
+'Disallowed ComponentIds: comma-separated list of component Id values that cannot be researched by this race
+DisallowedComponentIds		;
+
+'Additional Intelligence Agents: number of extra intelligence agents allowed above normal limit
+AdditionalIntelligenceAgents		;0
+
+'Construction Speed Factor: increase or decrease construction speed. Faster construction speeds can especially affect colonization, allowing fast building of new colony ships. Minimum value = 0.3. Maximum value = 3.0
+ConstructionSpeedFactor		;0.75
+
+
+
+'Default primary color: 0-19
+DefaultPrimaryColor		;4
+
+'Default secondary color: 0-20
+DefaultSecondaryColor		;14
+
+'Default flag design: 0-38
+DefaultFlagDesign		;7
+
+'Name of ancient home system
+HomeSystemName		;Atuuko
+
+'Troop strength: raw strength of new troops for this race. Minimum value = 50. Maximum value = 200
+TroopStrength		;68
+
+'Troop name: default troop name, e.g. if 'Strike Battalion' then troops named '1st Strike Battalion', etc
+TroopName		;Angry Hunting Party
+TroopNameArmored		;Battlewagon Warriors
+TroopNamePlanetaryDefense		;Catapult Team
+TroopNameSpecialForces		;Scouting Party
+
+
+
+'ResourceId: -1=None, 0-XX (which resource, see Modding Guide)
+'ResourceEffect: 0=None, 1=HappinessBonus, 2=DevelopmentBonus, 3=ConstructionSpeedIncrease, 4=RecruitedTroopStrengthIncrease, 5=ResearchBonusWeapons, 6=ResearchBonusEnergy, 7=ResearchBonusHighTech, 8=PopulationGrowthRate, 9=WarWearinessReduction, 10=IncomeBonus, 11=BaseMaintenanceLowered
+'ResourceAmount: amount of effect, may be percentage
+'		- HappinessBonus: value from 0-20
+'		- DevelopmentBonus: value from 0-20
+'		- ConstructionSpeedIncrease: percentage from 0-100
+'		- RecruitedTroopStrengthIncrease: value from 0-100
+'		- ResearchBonusWeapons: percentage bonus from 0-10
+'		- ResearchBonusEnergy: percentage bonus from 0-10
+'		- ResearchBonusHighTech: percentage bonus from 0-10
+'		- PopulationGrowthRate: percentage from 0-100
+'		- WarWearinessReduction: percentage decrease from 0-100
+'		- IncomeBonus: percentage from 0-100
+'		- BaseMaintenanceLowered: percentage from 0-100
+'ResourceAppliesOnlyToSource: effect only applies when resource is naturally occurring at colony (i.e. mined here)
+Resource1Type		;30
+Resource1Effect		;4
+Resource1Amount		;5
+Resource1AppliesOnlyToSource		;N
+Resource2Type		;12
+Resource2Effect		;2
+Resource2Amount		;5
+Resource2AppliesOnlyToSource		;N
+Resource3Type		;25
+Resource3Effect		;1
+Resource3Amount		;5
+Resource3AppliesOnlyToSource		;N
+
+'Victory Conditions 1-5
+'Type: 0=None, 1-58 (types defined in Modding Guide)
+'Value: value used to modify condition, e.g. percentage threshold
+'Proportion of Total: percentage proportion of overall race victory value - all conditions should total to 100%
+'Additional Data: any extra info required by condition
+'			- PlanetTypes: 0=None, 1=Continental, 2=MarshySwamp, 3=Ocean, 4=Desert, 5=Ice, 6=Volcanic
+'			- ShipTypes: 0=None, 1=CapitalShip, 2=Carrier, 3=ResupplyShip
+'			- CreatureTypes: 0=None, 1=GiantKaltor, 2=SpaceSlug, 3=SandSlug, 4=Ardilus, 5=SilverMist
+'			- ResearchIndustry: 0=None, 1=Weapons, 2=Energy, 3=HighTech
+'			- Wonder: -1=None, 0-XX=PlanetaryFacilityID of wonder from facilities.txt
+Condition1Type		;29
+Condition1Value		;0
+Condition1Proportion		;25
+Condition1AdditionalData		;0
+
+Condition2Type		;1
+Condition2Value		;0
+Condition2Proportion		;25
+Condition2AdditionalData		;0
+
+Condition3Type		;5
+Condition3Value		;0
+Condition3Proportion		;25
+Condition3AdditionalData		;0
+
+Condition4Type		;6
+Condition4Value		;0
+Condition4Proportion		;25
+Condition4AdditionalData		;0
+
+Condition5Type		;0
+Condition5Value		;0
+Condition5Proportion		;0
+Condition5AdditionalData		;0
+
+
+
+'Race Events 1&2
+'Type: 0=None, 1-28=events (see Modding Guide)
+'Frequency: proportion of time event will be triggered when chance arises
+RaceEvent1Type		;3
+RaceEvent1Frequency		;1.0
+RaceEvent2Type		;4
+RaceEvent2Frequency		;1.0
+
+
+
+'random character appearance chance: Minimum=0, Normal=1.0, Maximum=3.0
+CharacterRandomAppearanceChanceLeader		;1.0
+CharacterRandomAppearanceChanceAmbassador		;1.0
+CharacterRandomAppearanceChanceGovernor		;1.0
+CharacterRandomAppearanceChanceAdmiral		;1.0
+CharacterRandomAppearanceChanceGeneral		;1.3
+CharacterRandomAppearanceChanceScientist		;0.5
+CharacterRandomAppearanceChanceIntelligenceAgent		;1.0
+CharacterRandomAppearanceChanceShipCaptain		;1.0
+CharacterRandomAppearanceChancePirateLeader		;1.0
+
+'character starting traits: 0=None, 1-XX = specific trait (see Modding Guide)
+CharacterStartingTraitLeader		;0
+CharacterStartingTraitAmbassador		;0
+CharacterStartingTraitGovernor		;0
+CharacterStartingTraitAdmiral		;0
+CharacterStartingTraitGeneral		;0
+CharacterStartingTraitScientist		;0
+CharacterStartingTraitIntelligenceAgent		;0
+CharacterStartingTraitShipCaptain		;0
+CharacterStartingTraitPirateLeader		;0
+
+ResearchColonizationCostFactorContinental		;1.0
+ResearchColonizationCostFactorMarshySwamp		;1.0
+ResearchColonizationCostFactorOcean		;1.0
+ResearchColonizationCostFactorDesert		;1.0
+ResearchColonizationCostFactorIce		;1.0
+ResearchColonizationCostFactorVolcanic		;1.0
+
+ColonyConstructionSpeedFactorContinental		;1.0
+ColonyConstructionSpeedFactorMarshySwamp		;1.0
+ColonyConstructionSpeedFactorOcean		;1.0
+ColonyConstructionSpeedFactorDesert		;1.0
+ColonyConstructionSpeedFactorIce		;1.0
+ColonyConstructionSpeedFactorVolcanic		;1.0
+
+ColonyPopulationPolicyGrowthFactorExterminate		;1.0
+
+'usually avoid natural disasters at specified colony type: 0=None, 1=Continental, 2=MarshySwamp, 3=Ocean, 4=Desert, 5=Ice, 6=Volcanic
+ImmuneNaturalDisastersAtColonyType		;0
+
+SpaceportArmorStrengthFactor		;1.0
+KnownStartingGalacticHistoryLocations		;0
+TourismIncomeFactor		;1.0
+FreeTradeIncomeFactor		;1.0
+MigrationFactor		;1.0
+TroopRegenerationFactor		;1.0
+
+'Pirate Default playstyle: 0=Balanced, 1=Pirate, 2=Mercenary, 3=Smuggler
+PirateDefaultPlaystyle		;2
+
+'Designs picture family index when race is Pirate: index of default ships pictures used for this race from ship pictures contained in Images\units\ships\ folder or Customization\YourTheme\shipImages\ folder
+'-1 = default random pirate ship images, 0-50 = normal ship design family index
+DesignsPictureFamilyIndexPirates		;26
+
+ImmuneToPlagues		;N

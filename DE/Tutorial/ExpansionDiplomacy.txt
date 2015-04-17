@@ -1,0 +1,128 @@
+﻿Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about Expansion and Diplomacy.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+Remember that you can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Galaxy Map
+Galaxy Map
+Let's begin by looking at a tool that helps you find things in a vast galaxy - the Galaxy Map.
+
+The Galaxy Map shows everything that you currently know about the galaxy: potential colonies, resources, alien populations, pirates and more.
+
+Information on this map is constantly updated by discoveries made by the ships in your empire.
+
+You access the Galaxy Map using the button indicated, or by pressing the G key.
+~
+Galaxy Map - Select a System
+Galaxy Map - Select a System
+
+Click the galaxy map at left to select a system. The map indicator lines will snap-to the system nearest the location where you clicked.
+~
+Galaxy Map - Select a planet
+Galaxy Map - Select a planet
+Click the system map at top right to select a particular planet, moon or asteroid.
+
+As in the galaxy map, the system map indicator lines will snap-to the planet nearest the location where you clicked.
+~
+Galaxy Map - Info Panel
+Galaxy Map - Info Panel
+Details on the selected planet or moon are displayed in the Info Panel at right middle.
+~
+Galaxy Map - Planet Surface
+Galaxy Map - Planet Surface
+A picture of the surface of the selected planet or moon is displayed at bottom right.
+~
+Galaxy Map - Selecting View
+Galaxy Map - Selecting View
+You can filter the type of information displayed in the galaxy and system maps by selecting a view from the dropdown list.
+
+Systems and planets matching the selected view appear in yellow on the galaxy and system maps.
+~
+Expansion Planner
+Expansion Planner
+The Expansion Planner screen provides powerful tools to help you plan the location of your next colony or mining station.
+
+From here you can assign missions to your colony ships and construction ships, using them to expand your empire.
+
+Open the Expansion Planner screen by using the button indicated or by pressing F3.
+~
+Expansion Planner - Resources
+Expansion Planner - Resources
+The top part of the screen shows the current status of all resources in the galaxy, including their current price and level of demand.
+
+You can use this information to decide which planets you should mine for resources.
+~
+Expansion Planner - Targets
+Expansion Planner - Targets
+The bottom list can be changed to show various types of targets: potential colonies, potential mining locations, etc. Use the dropdown list to change the information shown here.
+
+When you select a target from the list its location in the galaxy is shown on the map at the right. You can use the buttons at the bottom to send a colony ship or construction ship to the location.
+~
+Diplomacy & Other Empires
+Diplomacy & Other Empires
+As you explore the galaxy you will encounter other empires.
+
+You can form beneficial treaties with friendly empires.
+
+But if relations deteriorate with another empire you could find yourself on the receiving end of trade sanctions or even war.
+
+You can monitor diplomatic relations from the Diplomacy screen (F5 key)
+~
+Diplomacy - Influences
+Diplomacy - Influences
+The diplomacy screen shows all of the relations for the selected empire. Each relation shows the total annual trade volume between the two empires.
+
+Many factors influence relations between empires, but some important ones are:
+- Trade volume between empires
+- Competition over systems and resources
+- Like or dislike of an empire's Government type
+~
+Diplomacy - Selected Empire
+Diplomacy - Selected Empire
+A summary of the selected empire appears at the right. This shows the empire's flag and dominant race.
+
+The selected empire's current relationship with us appears at the bottom.
+
+You can initiate a conversation with the selected empire by clicking the Speak button at the top-right.
+~
+Diplomacy - Conversations
+Diplomacy - Conversations
+In the conversation screen you can select from the options in the bottom panel.
+
+This includes sending warnings, changing your relationship (proposing treaties, declaring war) or offering gifts.
+~
+Trade Sanctions & Blockades
+Trade Sanctions & Blockades
+Trade sanctions are where an empire refuses to trade with another empire. No resources will be bought or sold between the two empires.
+
+When trade sanctions exist between two empires, blockades may be declared against enemy colonies and space ports. In this situation no trade by ANY empire is permitted with the blockaded colony or base. Blockades are enforced by military ships from the initiating empire.
+
+See the Galactopedia (F1) for more information on initiating blockades.
+~
+Empire Comparisons
+Empire Comparisons
+You can track how you compare with other empires in the Empire Comparison screen.
+
+Open this screen using the indicated button or the V key.
+~
+Victory Conditions
+Victory Conditions
+The progress of each empire towards meeting the victory conditions are shown here.
+
+This includes each empire's unique race-specific victory conditions.
+~
+Empire Comparison Graphs
+Empire Comparison Graphs
+Here you can also view graphs showing ordered rankings of all known empires based on several different factors.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for even more detailed information.
+~

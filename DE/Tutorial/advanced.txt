@@ -1,0 +1,321 @@
+Welcome
+Welcome
+Welcome to the Distant Worlds advanced tutorial.
+
+If you have not done so already, please take the basic tutorial from the main menu.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+Remember that you can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Introduction
+Introduction
+This tutorial will consider the advanced tools available in the game to expand and manage your empire.
+
+These tools include:
+- interacting with other empires
+- designing and building new ships and bases
+- using troops and intelligence agents
+~
+Galaxy Map
+Galaxy Map
+Let's begin by looking at a tool that helps you find things in a vast galaxy - the Galaxy Map.
+
+The Galaxy Map shows everything that you currently know about the galaxy: potential colonies, resources, alien populations, pirates and more.
+
+Information on this map is constantly updated by discoveries made by the ships in your empire.
+
+You access the Galaxy Map using the button indicated, or by pressing the G key.
+~
+Galaxy Map - Select a System
+Galaxy Map - Select a System
+
+Click the galaxy map at left to select a system. The map indicator lines will snap-to the system nearest the location where you clicked.
+~
+Galaxy Map - Select a planet
+Galaxy Map - Select a planet
+Click the system map at top right to select a particular planet, moon or asteroid.
+
+As in the galaxy map, the system map indicator lines will snap-to the planet nearest the location where you clicked.
+~
+Galaxy Map - Info Panel
+Galaxy Map - Info Panel
+Details on the selected planet or moon are displayed in the Info Panel at right middle.
+~
+Galaxy Map - Planet Surface
+Galaxy Map - Planet Surface
+A picture of the surface of the selected planet or moon is displayed at bottom right.
+~
+Galaxy Map - Selecting View
+Galaxy Map - Selecting View
+You can filter the type of information displayed in the galaxy and system maps by selecting a view from the dropdown list.
+
+Systems and planets matching the selected view appear in yellow on the galaxy and system maps.
+~
+Expansion Planner
+Expansion Planner
+The Expansion Planner screen provides powerful tools to help you plan the location of your next colony or mining station.
+
+From here you can assign missions to your colony ships and construction ships, using them to expand your empire.
+
+Open the Expansion Planner screen by using the button indicated or by pressing F3.
+~
+Expansion Planner - Resources
+Expansion Planner - Resources
+The top part of the screen shows the current status of all resources in the galaxy, including their current price and level of demand.
+
+You can use this information to decide which planets you should mine for resources.
+~
+Expansion Planner - Targets
+Expansion Planner - Targets
+The bottom list can be changed to show various types of targets: potential colonies, potential mining locations, etc. Use the dropdown list to change the information shown here.
+
+When you select a target from the list its location in the galaxy is shown on the map at the right. You can use the buttons at the bottom to send a colony ship or construction ship to the location.
+~
+Diplomacy & Other Empires
+Diplomacy & Other Empires
+As you explore the galaxy you will encounter other empires.
+
+You can form beneficial treaties with friendly empires.
+
+But if relations deteriorate with another empire you could find yourself on the receiving end of trade sanctions or even war.
+
+You can monitor diplomatic relations from the Diplomacy screen (F5 key)
+~
+Diplomacy - Influences
+Diplomacy - Influences
+The diplomacy screen shows all of the relations for the selected empire. Each relation shows the total annual trade volume between the two empires.
+
+Many factors influence relations between empires, but some important ones are:
+- Trade volume between empires
+- Competition over systems and resources
+- Like or dislike of an empire's Government type
+~
+Diplomacy - Selected Empire
+Diplomacy - Selected Empire
+A summary of the selected empire appears at the right. This shows the empire's flag and dominant race.
+
+The selected empire's current relationship with us appears at the bottom.
+
+You can initiate a conversation with the selected empire by clicking the Speak button at the top-right.
+~
+Diplomacy - Conversations
+Diplomacy - Conversations
+In the conversation screen you can select from the options in the bottom panel.
+
+This includes sending warnings, changing your relationship (proposing treaties, declaring war) or offering gifts.
+~
+Trade Sanctions & Blockades
+Trade Sanctions & Blockades
+Trade sanctions are where an empire refuses to trade with another empire. No resources will be bought or sold between the two empires.
+
+When trade sanctions exist between two empires, blockades may be declared against enemy colonies and space ports. In this situation no trade by ANY empire is permitted with the blockaded colony or base. Blockades are enforced by military ships from the initiating empire.
+
+See the Galactopedia (F1) for more information on initiating blockades.
+~
+Empire Comparisons
+Empire Comparisons
+You can track how you compare with other empires in the Empire Comparison screen.
+
+Open this screen using the indicated button or the V key.
+~
+Victory Conditions
+Victory Conditions
+The progress of each empire towards meeting the victory conditions are shown here.
+
+This includes each empire's unique race-specific victory conditions.
+~
+Empire Comparison Graphs
+Empire Comparison Graphs
+Here you can also view graphs showing ordered rankings of all known empires based on several different factors.
+~
+Research
+Research
+Research uncovers new technologies for use in constructing ships and bases.
+
+It can also provide your empire with new capabilities, like colonizing new types of planets or constructing larger ships and bases.
+
+You choose which research projects you want to undertake in the Research screen (F7). Each of the three research areas (Weapons, Energy, HighTech) has its own tech tree containing all of the research projects for that area. 
+~
+Research Stations
+Research Stations
+Research is performed in research laboratories at Space Ports or other dedicated Research Stations.
+
+As your empire grows you can research faster, requiring more research facilities.
+
+There are a number of different research categories. Each category has a collection of components that can be used in ships or bases.
+~
+Designs
+Designs
+All of the ships and bases in your empire must be based on a design. Designs are templates or blueprints for building a ship or base.
+
+Designs are made by selecting a set of components that provide all of the functionality required for the particular type of ship or base.
+
+As your research progresses more advanced components become available. You should upgrade your designs to use the improved components.
+
+Designs are managed from the Designs screen (F8 key).
+~
+Designs Screen
+Designs Screen
+In the Designs screen you can edit an existing design or create a new one.
+
+Let's view an existing design for a military ship, a frigate.
+~
+Design Detail Screen
+Design Detail Screen
+In the Design Detail screen you can edit or view a design.
+
+Here you can add and remove components to customize your design to your own special requirements.
+
+The various panels on this screen give detailed information about the design.
+
+Let's take a look at some of these.
+~
+Designs - Role and Tactics
+Designs - Role and Tactics
+Here you can select a picture for your design from any of the ship pictures in the game.
+
+Assign a role for the design. This indicates the purpose of the ship or base. Each role has specific rules about what component types should be present.
+
+Assign tactical behavior when in combat using battle and invasion tactics. See online help for more information on Battle Tactics and Invasion Tactics.
+~
+Designs - Warnings
+Designs - Warnings
+This panel lists rules and recommendations to assist in producing a valid design. As you add and remove components to the design the warnings are updated to identify current problems.
+
+Rules are in red and must be satisfied to allow the design to be saved.
+
+Recommendations are in yellow and can be ignored if desired.
+~
+Available Components
+Available Components
+This panel lists all components available for using in the design.
+
+By default this list is filtered to only show the most recent version of each component type.
+~
+Design Components
+Design Components
+This panel lists all of the components currently used on the design. This list effectively IS the design.
+
+Use the Add Component and Remove Component buttons to modify your design.
+
+If the design has already been used to build a ship or base you cannot modify it. You cannot change the components that it uses.
+~
+Designs - Component Detail
+Designs - Component Detail
+This panel provides detailed information for the currently selected component.
+
+The component shown here changes as you select different components in either the Available Components list or the Design Components list.
+~
+Designs - Saving Your Design
+Designs - Saving Your Design
+When you are finished creating your new design click the Save button to make the design available for construction.
+
+Note that all requirements in the Warnings panel (in red) must be satisfied before you can save the new design.
+~
+Construction
+Construction
+All construction costs money - you must have sufficient funds to buy new ships and bases.
+
+As your technology level increases your construction abilities grow. You will be able to build progressively larger ships and bases.
+
+Let's take a look at two ways that you can build a new ship.
+~
+Construction - Main View
+Construction - Main View
+The first way to build a new ship is to select the build location in the main view. The build location can be either a space port (for most ship types) or a colony (for colony ships or construction ships).
+
+With your colony or space port selected, right click to show a pop-up menu with a "Build" menu option.
+
+The "Build" submenu lists all designs that are valid to build at this location. Select one to begin construction.
+
+If you cannot afford to build a particular design it will be disabled in the submenu.
+~
+Construction Yards screen
+Construction Yards screen
+The second way to build a new ship involves jumping directly to the Space Port construction yards. Do this by clicking on the Construction Yards button (F10 key).
+
+In the Construction Yards tab, select a ship to purchase from the dropdown list at the right. Then click the "Purchase" button to begin construction.
+
+If you cannot afford to build the selected ship your Available Funds will flash red.
+~
+Build Order screen
+Build Order screen
+Another very efficient way to build new ships is the Build Order screen. Open this screen by clicking the Build Order button (F9 key).
+
+On this screen you can see your current levels for each ship type, as well as the number of new ships suggested by your advisors.
+
+You can modify the amount of ships for each type, and select a specific design to build.
+
+When you are satisfied with the order, click the 'Purchase' button to buy the new ships and begin construction.
+~
+Fleets
+Fleets
+Fleets allow you to group a number of military ships together and assign missions to the entire group. This is useful for coordinating large attacks on enemy targets.
+~
+Fleets - Assigning Ships
+Fleets - Assigning Ships
+You can assign any of your military ships to a fleet by selecting them, then right-clicking on them to display the mission popup menu. Select "Join Fleet" from the menu and then select which fleet you want to join in the submenu.
+
+From the submenu you can also create a new fleet with the selected ship as the first ship in the fleet.
+~
+Fleets - Appearance
+Fleets - Appearance
+When you are zoomed out to system level, fleets appear as an inverted triangle icon.
+
+The number of ships in the fleet is displayed inside the triangle symbol.
+~
+Fleets - Selecting
+Fleets - Selecting
+To select one of your fleets, just double-click any ship in the fleet.
+
+Fleets are managed from the Fleets screen (F12 key).
+~
+Troops
+Troops
+Troops defend your colonies against invasion by enemy empires. They can also be used as attacking forces to invade and take over enemy colonies.
+~
+Troops - Recruiting
+Troops - Recruiting
+Troops are recruited at your colonies. They cost money to maintain, so only recruit troops that you really need.
+
+You can recruit troops from the Troops tab of the Colonies screen (F2 key).
+
+You can also right-click on any of your colonies in the main view to recruit them from the popup menu.
+~
+Troops - Transporting
+Troops - Transporting
+Troops can be loaded onto ships that have troop storage components, such as troop transports or larger military ships. They can then be sent to another colony and unloaded there to reinforce it. Or they can be used as an invasion force at an enemy colony.
+
+The troops in your empire can be managed from the Troops screen.
+~
+Intelligence Missions
+Intelligence Missions
+Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+
+Intelligence agents are the highly-trained and skilled specialists that you use to accomplish these missions.
+
+Your agents can be managed from the Characters screen (F4 key).
+~
+Assigning missions
+Assigning missions
+The Mission summary panel at the bottom-right of the screen allows you to assign missions to agents.
+
+Select a target empire for the mission and a mission type.
+
+The more time you allow for the mission, the greater the chance of success.
+~
+Counter Intelligence
+Counter Intelligence
+Counter intelligence is also critical to protect your empire. You can assign agents to prevent enemy intelligence missions - they will actively seek out spies and saboteurs and report any discoveries to you.
+
+Beware of the negative fallout from botched intelligence missions - if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for even more detailed information.
+~

@@ -1,0 +1,224 @@
+﻿Welcome
+Welcome
+Distant Worlds offers the ability to play as a pirate faction.
+
+This tutorial will explain how to play as a pirate faction.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Pirates are different
+Pirates are different
+Pirates differ from standard empires in a number of important ways. 
+
+A major difference is that pirates usually do not have colonies. Instead they start with a spaceport at a gas giant planet.
+
+Pirates cannot colonize planets. But they can build spaceports anywhere.
+~
+Pirate Spaceport
+Pirate Spaceport
+The center of your pirate faction is your starting spaceport. This is where your Pirate Leader character is usually based.
+
+At your pirate spaceport you can build new ships, as well as repair and retrofit existing ships.
+
+Your spaceport also serves as a refuelling depot for your ships.
+
+When your income allows, you can build additional spaceports at any location using your Construction Ship.
+~
+Construction Ships
+Construction Ships
+Pirates can construct their own bases.
+
+Each pirate faction starts the game with their own Construction Ship. This is used to build mining stations and other bases.
+
+Note that because pirates do not own colonies, they cannot build additional Construction Ships. So protect your starting Construction Ship well - losing it would be a major blow!
+
+However pirates can board and capture Construction Ships of other empires, as described later in this tutorial.
+~
+Pirate Income
+Pirate Income
+While standard empires gain most of their income from colonies, pirates earn income from different sources.
+
+Let's take a look at the primary sources of pirate income:
+- Controlled Colonies
+- Protection Agreements
+- Pirate Missions
+- Mining
+- Raids
+~
+Controlled Colonies
+Controlled Colonies
+Although pirates cannot own colonies like standard empires, they can CONTROL colonies by moving their military ships to a colony.
+
+The more military strength they have near a colony, the faster their level of control will increase, topping out at 100%.
+
+Controlling a colony allows pirates to siphon off it's income - the higher the control, the more money is collected from the colony.
+
+Note that multiple pirate factions can control a colony at the same time. Also note that very large colonies have a lower maximum control level (i.e. cannot reach 100%)
+~
+Pirate Bases at Controlled Colonies
+Pirate Bases at Controlled Colonies
+Pirates can establish permanent control of a colony by building a Pirate Base planetary facility. The first faction to build a Pirate Base controls the colony. Control must reach 50% before a Pirate Base can be built.
+
+Pirates can also build a Pirate Fortress planetary facility at a controlled colony. Control must be at 100% before a Pirate Fortress can be built.
+
+Having a Pirate Base or Pirate Fortress at a controlled colony increases the income from the colony.
+~
+Protection Agreements
+Protection Agreements
+Pirates have very simple diplomacy. When they meet another faction they are aggressive towards them - they will freely attack their ships and bases.
+
+But pirates can offer Protection Agreements to other empires, requesting monthly payment in exchange for refraining from attacking the other empire. You can offer protection agreements from the Diplomacy screen (F5).
+
+A protection agreement can pave the way for a mutually-beneficial long-term relationship between the pirate faction and the standard empire, potentially leading to Defense Missions and other opportunities.
+
+Pirates can also offer Truces to other pirate factions. In this case there is no monthly fee - each pirate faction simply agrees not to attack the other.
+~
+Pirate Missions
+Pirate Missions
+Standard empires and independent colonies may sometimes offer special missions to pirate factions.
+
+These missions can be accessed from the Pirate Missions panel in the Empire Navigation Tool at screen left.
+
+Before a pirate faction can undertake a mission they must first either accept or bid on the mission in the Empire Navigation Tool.
+
+Let's take a look at the three types of missions available: Smuggling, Attack and Defense.
+~
+Pirate Smuggling Missions
+Pirate Smuggling Missions
+When an empire or independent colony is short of resources, they may decide to offer a Smuggling mission to supply the affected colony.
+
+Pirate freighters always earn some smuggling income when they deliver resources to a location in another empire. But when a Smuggling mission is active then a large bonus is paid for resources delivered to the colony.
+
+Note that pirate freighters appear as independent freighters to other empires, so they can usually dock at a colony or base undetected.
+
+Also note that pirate factions can build civilian ships (including smuggling freighters) directly using the 'Build new civilian ship' action button at their spaceport.
+~
+Pirate Attack Missions
+Pirate Attack Missions
+Other empires may offer Attack missions, where they pay pirate factions to attack an enemy target for them.
+
+For attack missions, pirate factions must bid on the mission, lowering the price for the mission with each bid. The last pirate faction to bid gets the attack mission.
+
+Payment is made for the attack mission when it is completed. The mission is completed when the target is either destroyed or captured.
+
+Accepted attack missions must be completed by a specific date. Failure to complete the mission will very negatively affect your relations with the requesting empire.
+~
+Pirate Defense Missions
+Pirate Defense Missions
+Other empires may offer Defense missions, where they pay pirate factions to protect one of their own bases for a time period.
+
+For defense missions, pirate factions must bid on the mission, lowering the price for the mission with each bid. The last pirate faction to bid gets the defense mission.
+
+Defense missions can only be bidded on by pirate factions that have a protection agreement with the requesting empire.
+
+Payment is made for the defense mission when the time period expires and the base remains unharmed.
+~
+Mining
+Mining
+Pirates can supply other empires with resources from their mining stations.
+
+This can be especially profitable in a game with many pre-warp empires, as they may have trouble supplying all of their own resources.
+
+Smuggling missions can also increase the income from mining.
+~
+Raids
+Raids
+Pirates can perform raids against the bases and colonies of other empires.
+
+Raids involve using Assault Pods to either board an enemy base, or to launch a ground invasion of an enemy colony.
+
+Successful raids gain loot for the pirate faction. Loot may take the form of money, research breakthroughs or resources.
+
+Note that raiding a target that has already been recently raided will earn much lower bonuses.
+~
+Capturing Ships and Bases
+Capturing Ships and Bases
+A typical characteristic of pirates is to board and capture enemy ships and bases.
+
+To board a target the attacking ship must have Assault Pod components.
+
+To initiate a Capture mission: select a military ship with assault capability, hover over the target while holding down the Shift key, then right-click the target.
+
+Click 'Continue' for details on how boarding and capture works.
+~
+Boarding and Capture
+Boarding and Capture
+Before boarding a target, it's shields must be lowered, and the attacking ship must close to within assault pod range. Assault Pods will then launch towards the target, and if they successfully reach it will then board.
+
+A battle then takes place inside the targetted ship or base, with defending forces fighting against the boarding parties. Defending forces are comprised of the ships crew (based on Hab Module components), any unexpended Assault Pods on the ship, and any Troops onboard the ship.
+
+If the boarders are successful then the ship or base is captured, changing ownership to the attacking empire.
+
+Note that Assault Pods can be shot down by Point Defense weapons while they are in transit towards the target.
+~
+Tractor Beams
+Tractor Beams
+Pirates typically use Tractor Beam weapons on their ships. Tractor beams are very useful for pulling and pushing enemy targets.
+
+When a ship is pursuing a target it can pull the target towards itself for more effective attack. When a ship is fleeing an attacker it can push the attacker away, allowing better escape.
+
+Tractor beams work better against smaller and closer targets.
+
+Note that Tractor Beam weapons are very useful when attempting to capture enemy ships.
+~
+Pirate Play Styles
+Pirate Play Styles
+Pirate factions follow one of four playstyles that define how they act:
+- Balanced: control colonies, protection agreements, capturing ships
+- Raider: control colonies, build Pirate Bases and Fortresses
+- Mercenary: attack and defense missions, raids, capturing ships
+- Smuggler: smuggling missions, protection agreements, spying
+
+Select the playstyle for your pirate faction in the 'Your Empire' screen in game setup.
+~
+Pirate Victory Conditions
+Pirate Victory Conditions
+Pirate play styles also affect the victory conditions that a pirate faction must meet.
+
+Note that pirates compete against other pirate factions to achieve victory, NOT against standard empires.
+
+Pirate factions are eliminated from the game when they lose all of the following:
+- colonies (controlled or owned)
+- refuelling locations (spaceports or gas mining stations)
+- construction ships or resupply ships
+~
+Pirate Criminal Network
+Pirate Criminal Network
+You may eventually achieve 100% control of a colony and build a Pirate Fortress facility there. At this point you then have the option of building a special pirate mini-wonder called the 'Criminal Network'.
+
+The Criminal Network fully entrenches your control of a colony, allowing you to completely take it over, owning it just like a normal empire. You can then build Construction Ships, Resupply Ships and even Colony Ships here. This allows you to colonize new planets for your pirate faction.
+
+The Criminal Network also allows you to recruit troops at the colony. With recruited troops you can then invade enemy colonies and take them over.
+
+You also receive a bonus 1% victory points for each 500 million of population at colonies that you fully own.
+~
+Defending against Attack
+Defending against Attack
+Note that pirate facilities (Pirate Base, Pirate Fortress, Criminal Network) can sometimes be destroyed in raids on your colony by other pirate factions.
+
+So be sure to defend your colonies from attacking enemy ships, preventing them from getting close enough to raid your colony.
+
+Also note that when you control a colony that is owned by a normal empire, then that empire may launch a ground attack to eradicate you from their colony, destroying any pirate facilities you have built.
+
+These ground invasions are launched by the owning empire from the Facilities tab of the Colonies screen (F2). Selecting the target pirate facility will cause the 'Scrap' button to change to 'Attack'. Clicking the attack button will launch a ground attack against the pirate facility using all of the troops currently at the colony.
+~
+Summary
+Summary
+Pirates provide a very different play experience in Distant Worlds. 
+
+As a space-based faction, your focus is more on your ships and bases, instead of colonies.
+
+Pirates have slow research, but compensate by having better spies, allowing them to steal tech and other information.
+
+In the pre-warp era, pirates can exploit undeveloped standard empires
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for even more detailed information on Pirates.
+~

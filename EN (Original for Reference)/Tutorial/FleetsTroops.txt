@@ -1,0 +1,78 @@
+Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about Fleets, Troops and Intelligence missions.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+Remember that you can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Fleets
+Fleets
+Fleets allow you to group a number of military ships together and assign missions to the entire group. This is useful for coordinating large attacks on enemy targets.
+~
+Fleets - Assigning Ships
+Fleets - Assigning Ships
+You can assign any of your military ships to a fleet by selecting them, then right-clicking on them to display the mission popup menu. Select "Join Fleet" from the menu and then select which fleet you want to join in the submenu.
+
+From the submenu you can also create a new fleet with the selected ship as the first ship in the fleet.
+~
+Fleets - Appearance
+Fleets - Appearance
+When you are zoomed out to system level, fleets appear as an inverted triangle icon.
+
+The number of ships in the fleet is displayed inside the triangle symbol.
+~
+Fleets - Selecting
+Fleets - Selecting
+To select one of your fleets, just double-click any ship in the fleet.
+
+Fleets are managed from the Fleets screen (F12 key).
+~
+Troops
+Troops
+Troops defend your colonies against invasion by enemy empires. They can also be used as attacking forces to invade and take over enemy colonies.
+~
+Troops - Recruiting
+Troops - Recruiting
+Troops are recruited at your colonies. They cost money to maintain, so only recruit troops that you really need.
+
+You can recruit troops from the Troops tab of the Colonies screen (F2 key).
+
+You can also right-click on any of your colonies in the main view to recruit them from the popup menu.
+~
+Troops - Transporting
+Troops - Transporting
+Troops can be loaded onto ships that have troop storage components, such as troop transports or larger military ships. They can then be sent to another colony and unloaded there to reinforce it. Or they can be used as an invasion force at an enemy colony.
+
+The troops in your empire can be managed from the Troops screen.
+~
+Intelligence Missions
+Intelligence Missions
+Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+
+Intelligence agents are the highly-trained and skilled specialists that you use to accomplish these missions.
+
+Your agents can be managed from the Characters screen (F4 key).
+~
+Assigning missions
+Assigning missions
+The Mission summary panel at the bottom-right of the screen allows you to assign missions to agents.
+
+Select a target empire for the mission and a mission type.
+
+The more time you allow for the mission, the greater the chance of success.
+~
+Counter Intelligence
+Counter Intelligence
+Counter intelligence is also critical to protect your empire. You can assign agents to prevent enemy intelligence missions - they will actively seek out spies and saboteurs and report any discoveries to you.
+
+Beware of the negative fallout from botched intelligence missions - if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for even more detailed information.
+~

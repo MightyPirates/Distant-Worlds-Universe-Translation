@@ -1,0 +1,136 @@
+﻿Welcome
+Welcome
+Welcome to the Distant Worlds tutorial about Research, Ship Design and Construction.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+Remember that you can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Research
+Research
+Research uncovers new technologies for use in constructing ships and bases.
+
+It can also provide your empire with new capabilities, like colonizing new types of planets or constructing larger ships and bases.
+
+You choose which research projects you want to undertake in the Research screen (F7). Each of the three research areas (Weapons, Energy, HighTech) has its own tech tree containing all of the research projects for that area. 
+~
+Research Stations
+Research Stations
+Research is performed in research laboratories at Space Ports or other dedicated Research Stations.
+
+As your empire grows you can research faster, requiring more research facilities.
+
+There are a number of different research categories. Each category has a collection of components that can be used in ships or bases.
+~
+Designs
+Designs
+All of the ships and bases in your empire must be based on a design. Designs are templates or blueprints for building a ship or base.
+
+Designs are made by selecting a set of components that provide all of the functionality required for the particular type of ship or base.
+
+As your research progresses more advanced components become available. You should upgrade your designs to use the improved components.
+
+Designs are managed from the Designs screen (F8 key).
+~
+Designs Screen
+Designs Screen
+In the Designs screen you can edit an existing design or create a new one.
+
+Let's view an existing design for a military ship, a frigate.
+~
+Design Detail Screen
+Design Detail Screen
+In the Design Detail screen you can edit or view a design.
+
+Here you can add and remove components to customize your design to your own special requirements.
+
+The various panels on this screen give detailed information about the design.
+
+Let's take a look at some of these.
+~
+Designs - Role and Tactics
+Designs - Role and Tactics
+Here you can select a picture for your design from any of the ship pictures in the game.
+
+Assign a role for the design. This indicates the purpose of the ship or base. Each role has specific rules about what component types should be present.
+
+Assign tactical behavior when in combat using battle and invasion tactics. See online help for more information on Battle Tactics and Invasion Tactics.
+~
+Designs - Warnings
+Designs - Warnings
+This panel lists rules and recommendations to assist in producing a valid design. As you add and remove components to the design the warnings are updated to identify current problems.
+
+Rules are in red and must be satisfied to allow the design to be saved.
+
+Recommendations are in yellow and can be ignored if desired.
+~
+Available Components
+Available Components
+This panel lists all components available for using in the design.
+
+By default this list is filtered to only show the most recent version of each component type.
+~
+Design Components
+Design Components
+This panel lists all of the components currently used on the design. This list effectively IS the design.
+
+Use the Add Component and Remove Component buttons to modify your design.
+
+If the design has already been used to build a ship or base you cannot modify it. You cannot change the components that it uses.
+~
+Designs - Component Detail
+Designs - Component Detail
+This panel provides detailed information for the currently selected component.
+
+The component shown here changes as you select different components in either the Available Components list or the Design Components list.
+~
+Designs - Saving Your Design
+Designs - Saving Your Design
+When you are finished creating your new design click the Save button to make the design available for construction.
+
+Note that all requirements in the Warnings panel (in red) must be satisfied before you can save the new design.
+~
+Construction
+Construction
+All construction costs money - you must have sufficient funds to buy new ships and bases.
+
+As your technology level increases your construction abilities grow. You will be able to build progressively larger ships and bases.
+
+Let's take a look at two ways that you can build a new ship.
+~
+Construction - Main View
+Construction - Main View
+The first way to build a new ship is to select the build location in the main view. The build location can be either a space port (for most ship types) or a colony (for colony ships or construction ships).
+
+With your colony or space port selected, right click to show a pop-up menu with a "Build" menu option.
+
+The "Build" submenu lists all designs that are valid to build at this location. Select one to begin construction.
+
+If you cannot afford to build a particular design it will be disabled in the submenu.
+~
+Construction Yards screen
+Construction Yards screen
+The second way to build a new ship involves jumping directly to the Space Port construction yards. Do this by clicking on the Construction Yards button (F10 key).
+
+In the Construction Yards tab, select a ship to purchase from the dropdown list at the right. Then click the "Purchase" button to begin construction.
+
+If you cannot afford to build the selected ship your Available Funds will flash red.
+~
+Build Order screen
+Build Order screen
+Another very efficient way to build new ships is the Build Order screen. Open this screen by clicking the Build Order button (F9 key).
+
+On this screen you can see your current levels for each ship type, as well as the number of new ships suggested by your advisors.
+
+You can modify the amount of ships for each type, and select a specific design to build.
+
+When you are satisfied with the order, click the 'Purchase' button to buy the new ships and begin construction.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+Please refer to the Galactopedia (F1) for even more detailed information.
+~

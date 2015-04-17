@@ -1,0 +1,420 @@
+Welcome
+Welcome
+Welcome to the Distant Worlds tutorial. In this tutorial you will learn the basics of how to run your empire.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Introduction
+Introduction
+Distant Worlds is a complex game, but the goal is simple: build and maintain a galactic empire.
+
+In the game you focus on 4 key areas:
+- Explore the galaxy
+- Colonize new planets
+- Extract valuable resources
+- Defend your empire
+~
+The Galaxy
+The Galaxy
+The Galaxy is a big place - it's packed with new worlds to find, alien races to discover and resources to exploit.
+
+Let's take a look at how you can move around the galaxy.
+~
+Moving Around
+Moving Around
+The main view shows a portion of the galaxy - in this case a small portion of one star system near one of your colony planets.
+
+Move the mouse pointer to the edge of the screen to scroll the main view up, down, left or right. You can also use the arrow keys on your keyboard to do the same thing.
+
+You can also drag the main view by holding down the right mouse button.
+~
+Moving Around - Zooming
+Moving Around - Zooming
+You can also zoom the main view in or out to see more or less of the galaxy.
+
+Use the mouse scroll wheel to zoom the main view in or out. You can also use the PageUp and PageDown keys to do the same thing.
+~
+Zoom buttons
+Zoom buttons
+The ZoomIn and ZoomOut buttons on the main screen also allow you to zoom in or out.
+~
+System view
+System view
+When zoomed out to system level you can identify the colonies and ships for an empire by the empire's main color.
+
+You can zoom in to any location by holding down the 'Ctrl' key while clicking.
+~
+Sector view
+Sector view
+As you zoom out further the main view changes to show systems.
+
+At this level ships and bases are shown as icons. The icon color indicates which empire the ship or base belongs to.
+~
+Explored Systems
+Explored Systems
+Systems that you have explored have their names displayed next to them.
+~
+Unexplored Systems
+Unexplored Systems
+Systems that you have not yet explored have no name displayed next to them.
+~
+Colonized Systems
+Colonized Systems
+Systems that have been colonized by an empire are circled with their empire's color.
+
+The size of the circle indicates the system's relative importance - larger systems are more valuable.
+~
+Empire Territory
+Empire Territory
+Systems that are part of an empire's territory have a colored background.
+
+A system can be owned by an empire even when it is not colonized.
+
+Colonies project their empire's influence into nearby systems, making them part of their empire's territory.
+~
+Independent Systems
+Independent Systems
+Some systems have independent colonies of aliens that do not belong to any empire.
+
+These independent systems are circled with a solid grey line.
+
+They can be good targets for your empire to colonize - the aliens provide a critical boost to the population of your new colony, allowing it to quickly start earning income for your empire.
+~
+Systems with Potential Colonies
+Systems with Potential Colonies
+Any systems with potential colonies are indicated by a dashed grey circle.
+
+Build a new colony ship and send it to these uninhabited planets to establish a new colony for your empire.
+~
+Zoom presets
+Zoom presets
+The Zoom buttons allow you to instantly zoom to several preset levels:
+- 100% (default)
+- system view
+- sector view
+- galaxy view
+~
+Galactopedia Help
+Galactopedia Help
+The Galactopedia provides context-sensitive help on the currently selected item or the currently open screen.
+
+It contains detailed information on all the different types of planets and ships you encounter in the galaxy. It also describes game concepts and explains each game screen.
+
+You can access the Galactopedia Help system at any time by pressing F1 or by clicking the Help button.
+~
+Main Screen elements
+Main Screen elements
+Let's take a quick tour of some of the other elements on the main screen.
+~
+Selection Panel
+Selection Panel
+At the bottom left of the screen is the Selection Panel.
+
+This displays detailed information on the selected item, whether that be a colony, ship, system, etc.
+
+To select an item in the main screen simply click on it with the mouse.
+~
+Empire Navigation Tool
+Empire Navigation Tool
+At the left of the screen is the Empire Navigation Tool. This is a set of scrollable lists that provide quick access to everything in your empire.
+
+This includes items like: your colonies, space ports, construction ships, exploration ships, enemy targets, fleets, new potential colonies, potential mining locations, and much more.
+
+Click an icon to open one of the lists. Click the icon again to close the list, or use the close button at the right of the list's title bar.
+~
+Empire Navigation Tool contd.
+Empire Navigation Tool contd.
+Click an item in a list to select it in the Selection Panel below.
+
+You can then use the Action buttons under the Selection Panel to access many common tasks for the selected item, allowing you to easily manage most of your empire directly from the main screen.
+
+Double-clicking an item in a list will move the main view to that item.
+
+When you are zoomed out to the sector- or galaxy-level then hovering over an item in a list will 'ping' the location of that item in the galaxy with an expanding yellow circle.
+~
+Map
+Map
+At the bottom right is a map. This shows the surrounding area.
+
+The area displayed in the main view is indicated by the blue rectangle in the middle of the map.
+
+Click anywhere on the map to move the main view to that location.
+
+The map automatically zooms in or out when you zoom the main view.
+~
+Scrolling message list
+Scrolling message list
+At the top of the screen is a list that displays recent events that have occurred in your empire.
+
+Click on an event in this list to move to the location of the event.
+~
+Pause/Resume
+Pause/Resume
+At the top-left of the screen is the Pause button. This allows you to pause or resume the game at any time.
+
+Click once to pause the game. Click again to resume the game.
+~
+Game Menu
+Game Menu
+At the top-left of the screen is the Game Menu button.
+
+This accesses the Game Menu where you can load and save games, alter game options or exit the game.
+~
+Game Options
+Game Options
+The Game Options screen (O key) allows you to customize game settings.
+
+In particular, you can automate certain empire tasks like Colonization, Ship Building, etc. This allows you to focus on other areas of your empire that interest you more.
+
+When you first start Distant Worlds many tasks are automated for you. The automation of these tasks can be progressively turned off, as you desire greater control over the details of your empire.
+~
+Your Empire
+Your Empire
+Now let's get an overview of your empire.
+
+You can view a summary of your empire from the Empire Summary screen (F6). Click the Empire Summary button to show this screen.
+~
+State vs Private
+State vs Private
+Your empire is divided into two sections:
+- State: the portion you control
+- Private: your private citizens who go about their own business without your help
+
+Note that you only control the State portion of your empire. You have no direct control of your private citizens activities.
+~
+Private Citizens
+Private Citizens
+Your private citizens go about their own business, improving their colonies.
+
+This means that they trade goods, transport cargo and mine resources - all without any intervention from you.
+~
+State Activities
+State Activities
+The state portion of your empire has four basic tasks:
+- Exploring the galaxy
+- Colonizing new planets
+- Constructing new ships
+- Defending your empire
+~
+Government Style
+Government Style
+Each empire follows a particular style of government. Each government type has specific advantages and disadvantages.
+
+You can change your government style by having a revolution. But there are negative side effects from revolution, including a temporary setback of development at your colonies.
+~
+State Income
+State Income
+Money is critical to fund your empire. Your state economy derives income from four areas:
+- colony taxes
+- transaction fees at your space ports
+- purchases of new ships by your private citizens
+- bonuses from trade with other empires
+~
+Colonies
+Colonies
+Let's take a look at the colonized planets in your empire.
+
+Colonies are the heart of your empire. When you lose all of your colonies, you lose the game.
+~
+Colonies - Tax
+Colonies - Tax
+Colonies produce wealth. Your empire's main revenue comes from taxing colonies.
+
+By default colony tax levels are controlled automatically, but you can alter each colony tax rate directly if you prefer.
+~
+Colonies - Growth
+Colonies - Growth
+Colonies grow in two ways: population and development level
+
+Population: grows over time until it reaches a maximum level for the planet.
+
+Development Level: when a colony receives a steady supply of luxury resources its general development level grows. Higher development level means more wealth and thus more tax revenue.
+~
+Population Indicator
+Population Indicator
+The population size and development level of a colony is indicated by the graph displayed in the colony's name badge.
+
+The horizontal axis indicates the population size. The vertical axis relates to the development level.
+~
+Empire and Capital
+Empire and Capital
+The empire owning a colony is indicated by the color of the surrounding circle and name badge. If the colony is the empire capital a gold star also appears to the left of the name.
+~
+Dominant Race
+Dominant Race
+The dominant alien race at the colony is displayed at the bottom of the name badge.
+~
+Resources
+Resources
+The natural resources present at the colony are also displayed at the bottom of the name badge.
+
+These resources at your colonies are automatically mined and then used, either to build things or to be sold.
+~
+Colony List
+Colony List
+A complete list of all the colonies in your empire is available from the Colonies screen.
+
+You can open this screen using the button indicated or by pressing the 'F2' key.
+~
+Colonies - Cycling
+Colonies - Cycling
+You can quickly cycle through all of the colonies in your empire by using the Cycle Colonies button.
+
+You can do the same thing by pressing the 'C' key.
+~
+Ships and Bases
+Ships and Bases
+Now let's take a look at ships and bases.
+
+Ships travel throughout the galaxy performing a wide range of tasks, from transporting cargo to defending your empire.
+
+Bases are fixed platforms in space, usually located at a planet.
+
+To see a complete list of all the ships and bases in your empire click the Ships and Bases button (F11 key).
+~
+Ships and Bases - Designing
+Ships and Bases - Designing
+All your empire's ships and bases can be designed to your exact specifications in the Designs screen (F8 key).
+
+See the Advanced tutorial for more information on how to do this.
+~
+Assigning Missions
+Assigning Missions
+You can assign missions to any state-owned ship or base in your empire.
+
+However this does NOT include privately-owned ships like freighters, mining ships or mining stations. You have no control over these privately-owned ships and bases. They go about their business automatically, selecting missions for themselves.
+~
+Assigning a Mission
+Assigning a Mission
+To assign a mission to a ship first select it in the main view by left-clicking on it with the mouse.
+
+Then right-click the mouse over the mission target, e.g. to make a ship move to another location right-click the mouse at that location.
+
+Note that you may need to unpause the game to see the ship move.
+~
+Missions - Popup Menu
+Missions - Popup Menu
+Right-clicking on the ship or base may also bring up a popup menu listing a number of missions.
+
+These missions are specific to the particular type of ship or base. They may include: Exploration, Colonization, Building, Refueling, or many others.
+~
+Automating Missions
+Automating Missions
+Ships can also be completely automated. This means that they assign missions for themselves.
+
+To automate a ship first select it and then press the 'A' key. To turn off automation just assign a mission to the ship.
+
+When a ship is automated a circular blue arrow appears in the bottom-right corner of the Selection Panel.
+
+Note that ALL ships start the game automated.
+~
+Missions for Bases
+Missions for Bases
+Although bases are stationary, they can also have missions.
+
+Base missions can include: building new ships, retrofitting to a new design or scrapping the base when it is no longer needed.
+~
+Types of Ships and Bases
+Types of Ships and Bases
+Let's take a look at the different types of ships and bases in your empire.
+~
+Exploration Ships
+Exploration Ships
+Exploration ships chart unknown areas of the galaxy. As they explore they reveal colonizable planets, uncover valuable resources and make contact with other empires.
+
+Exploration ships can be automated to explore on their own ('A' key).
+
+To cycle through all of your Exploration ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+~
+Colony Ships
+Colony Ships
+Colony ships allow you to colonize other planets, founding new worlds for your empire.
+
+The ship is consumed when a new colony is established. The resources from the ship are used to give the colony a kickstart.
+
+While most ships are built at space ports, Colony ships can only be built at colonies.
+~
+Colony Ships contd.
+Colony Ships contd.
+To start with you can only colonize the native planet type of your race. But as your research uncovers new technology you can progressively colonize other types of planets.
+
+However you can always colonize planets where there is an existing independent alien population - regardless of the type of planet. In these situations the preexisting population may resist your colonization attempt, with the loss of your colony ship.
+
+To cycle through all your colony ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+~
+Space Ports
+Space Ports
+Space Ports are bases that provide many important services for your empire. Space Ports must always be built at a colony.
+
+They serve as a central point of trade for your empire. Mined resources are brought here by freighters and mining ships.
+
+Space Ports also provide construction facilities for your empire. Both state and private ships are built here. When private citizens purchase freighters or other ships, your empire earns income.
+~
+Space Ports contd.
+Space Ports contd.
+Space Ports also provide other vital functions:
+- Heavy weapons provide strong defense for the colony
+- Research facilities for your scientists and engineers
+- Bonuses that help keep the colony population happy: medical facilities and recreation centres
+
+To cycle through all of your Space Ports use the Cycle Space Ports button, or use the 'P' key.
+~
+Freighters
+Freighters
+Freighters transport cargo between colonies, mining stations and space ports. They come in small, medium and large sizes.
+
+Freighters work for your empire, but they are not yours. They belong to the private citizens in your empire. All transportation of goods in your empire is performed by private citizens.
+
+Thus you cannot assign missions to Freighters.
+~
+Mining Ships
+Mining Ships
+Mining Ships are mobile resource extraction ships. They mine resources that are in high demand, returning them to your nearest space port.
+
+Mining ships work for your empire, but they are not yours. They belong to the private citizens in your empire.
+
+Thus you cannot assign missions to Mining ships.
+~
+Mining Stations
+Mining Stations
+Mining Stations are bases that extract resources from planets, moons, asteroids and gas clouds.
+
+They can be either standard mining stations or gas mining stations.
+
+Mining Stations are built by Construction Ships at resource-rich planets.
+~
+Construction Ships
+Construction Ships
+Construction Ships are mobile construction yards. They can build bases at uninhabited planets or even in deep space.
+
+Use the Cycle Construction Ships button to cycle through all the construction ships in your empire, or use the 'Y' key.
+~
+Military Ships
+Military Ships
+Military ships defend your empire from enemy empires and from marauding pirates.
+
+They can be assigned the following missions:
+- Attack an enemy target
+- Patrol a colony or base, watching for attackers
+- Escort a civilian ship, such as a construction ship or mining ship
+
+There are various sizes and classes of military ships.
+
+Use the Cycle Military Ships button to cycle through them, or use the 'M' key.
+~
+Find Idle Ships
+Find Idle Ships
+You can find ships that don't currently have a mission by clicking the Cycle Idle Ships button (or press the I key).
+
+This helps you find ships that are not being used so that you can assign missions to them.
+~
+Completed
+Completed
+Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+
+When you are ready you can also try the Advanced Tutorial from the main menu.
+~

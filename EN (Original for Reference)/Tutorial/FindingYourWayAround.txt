@@ -1,0 +1,180 @@
+Welcome
+Welcome
+Welcome to the Distant Worlds tutorial. In this tutorial you will learn the basics of how to find your way around in the game.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+Introduction
+Introduction
+Distant Worlds is a complex game, but the goal is simple: build and maintain a galactic empire.
+
+In the game you focus on 4 key areas:
+- Explore the galaxy
+- Colonize new planets
+- Extract valuable resources
+- Defend your empire
+~
+The Galaxy
+The Galaxy
+The Galaxy is a big place - it's packed with new worlds to find, alien races to discover and resources to exploit.
+
+Let's take a look at how you can move around the galaxy.
+~
+Moving Around
+Moving Around
+The main view shows a portion of the galaxy - in this case a small portion of one star system near one of your colony planets.
+
+Move the mouse pointer to the edge of the screen to scroll the main view up, down, left or right. You can also use the arrow keys on your keyboard to do the same thing.
+
+You can also drag the main view by holding down the right mouse button.
+~
+Moving Around - Zooming
+Moving Around - Zooming
+You can also zoom the main view in or out to see more or less of the galaxy.
+
+Use the mouse scroll wheel to zoom the main view in or out. You can also use the PageUp and PageDown keys to do the same thing.
+~
+Zoom buttons
+Zoom buttons
+The ZoomIn and ZoomOut buttons on the main screen also allow you to zoom in or out.
+~
+System view
+System view
+When zoomed out to system level you can identify the colonies and ships for an empire by the empire's main color.
+
+You can zoom in to any location by holding down the 'Ctrl' key while clicking.
+~
+Sector view
+Sector view
+As you zoom out further the main view changes to show systems.
+
+At this level ships and bases are shown as icons. The icon color indicates which empire the ship or base belongs to.
+~
+Explored Systems
+Explored Systems
+Systems that you have explored have their names displayed next to them.
+~
+Unexplored Systems
+Unexplored Systems
+Systems that you have not yet explored have no name displayed next to them.
+~
+Colonized Systems
+Colonized Systems
+Systems that have been colonized by an empire are circled with their empire's color.
+
+The size of the circle indicates the system's relative importance - larger systems are more valuable.
+~
+Empire Territory
+Empire Territory
+Systems that are part of an empire's territory have a colored background.
+
+A system can be owned by an empire even when it is not colonized.
+
+Colonies project their empire's influence into nearby systems, making them part of their empire's territory.
+~
+Independent Systems
+Independent Systems
+Some systems have independent colonies of aliens that do not belong to any empire.
+
+These independent systems are circled with a solid grey line.
+
+They can be good targets for your empire to colonize - the aliens provide a critical boost to the population of your new colony, allowing it to quickly start earning income for your empire.
+~
+Systems with Potential Colonies
+Systems with Potential Colonies
+Any systems with potential colonies are indicated by a dashed grey circle.
+
+Build a new colony ship and send it to these uninhabited planets to establish a new colony for your empire.
+~
+Zoom presets
+Zoom presets
+The Zoom buttons allow you to instantly zoom to several preset levels:
+- 100% (default)
+- system view
+- sector view
+- galaxy view
+~
+Galactopedia Help
+Galactopedia Help
+The Galactopedia provides context-sensitive help on the currently selected item or the currently open screen.
+
+It contains detailed information on all the different types of planets and ships you encounter in the galaxy. It also describes game concepts and explains each game screen.
+
+You can access the Galactopedia Help system at any time by pressing F1 or by clicking the Help button.
+~
+Main Screen elements
+Main Screen elements
+Let's take a quick tour of some of the other elements on the main screen.
+~
+Selection Panel
+Selection Panel
+At the bottom left of the screen is the Selection Panel.
+
+This displays detailed information on the selected item, whether that be a colony, ship, system, etc.
+
+To select an item in the main screen simply click on it with the mouse.
+~
+Empire Navigation Tool
+Empire Navigation Tool
+At the left of the screen is the Empire Navigation Tool. This is a set of scrollable lists that provide quick access to everything in your empire.
+
+This includes items like: your colonies, space ports, construction ships, exploration ships, enemy targets, fleets, new potential colonies, potential mining locations, and much more.
+
+Click an icon to open one of the lists. Click the icon again to close the list, or use the close button at the right of the list's title bar.
+~
+Empire Navigation Tool contd.
+Empire Navigation Tool contd.
+Click an item in a list to select it in the Selection Panel below.
+
+You can then use the Action buttons under the Selection Panel to access many common tasks for the selected item, allowing you to easily manage most of your empire directly from the main screen.
+
+Double-clicking an item in a list will move the main view to that item.
+
+When you are zoomed out to the sector- or galaxy-level then hovering over an item in a list will 'ping' the location of that item in the galaxy with an expanding yellow circle.
+~
+Map
+Map
+At the bottom right is a map. This shows the surrounding area.
+
+The area displayed in the main view is indicated by the blue rectangle in the middle of the map.
+
+Click anywhere on the map to move the main view to that location.
+
+The map automatically zooms in or out when you zoom the main view.
+~
+Scrolling message list
+Scrolling message list
+At the top of the screen is a list that displays recent events that have occurred in your empire.
+
+Click on an event in this list to move to the location of the event.
+~
+Pause/Resume
+Pause/Resume
+At the top-left of the screen is the Pause button. This allows you to pause or resume the game at any time.
+
+Click once to pause the game. Click again to resume the game.
+~
+Game Menu
+Game Menu
+At the top-left of the screen is the Game Menu button.
+
+This accesses the Game Menu where you can load and save games, alter game options or exit the game.
+~
+Game Options
+Game Options
+The Game Options screen (O key) allows you to customize game settings.
+
+In particular, you can automate certain empire tasks like Colonization, Ship Building, etc. This allows you to focus on other areas of your empire that interest you more.
+
+When you first start Distant Worlds many tasks are automated for you. The automation of these tasks can be progressively turned off, as you desire greater control over the details of your empire.
+~
+Completed
+Completed
+Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+
+When you are ready you can also try the other tutorials from the main menu.
+~

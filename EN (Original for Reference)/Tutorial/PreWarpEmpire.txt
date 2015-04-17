@@ -1,0 +1,74 @@
+﻿Welcome
+Welcome
+In Distant Worlds you can play as a non-space-faring empire that must first develop the technologies of hyperspace travel and colonization before you can head out into the stars.
+
+This tutorial will explain how to play as a pre-warp empire.
+
+To progress through each step of this tutorial click the 'Continue' button.
+
+You can move this tutorial window by dragging it with the mouse.
+
+Let's get started: click the 'Continue' button below.
+~
+PreWarp Empire
+PreWarp Empire
+As a pre-warp empire you initially have no ships or bases at all. You are at the dawn of the age of space exploration!
+
+You start with only basic space technology - no hyperdrives, shields or colonization.
+
+Your first task is to build an orbital spaceport. This spaceport will serve as a construction yard for building most of your space ships.
+
+The spaceport also provides research labs for progressing your technology level.
+~
+Exploring Your Home System
+Exploring Your Home System
+You should next build some ships to explore your home system.
+
+Remember that without hyperdrives all travel will be at slow sub-light speeds. So even investigating your home system will take time.
+
+Build some exploration ships at your spaceport and send them out to discover what resources and other items exist nearby.
+~
+Mining
+Mining
+Once you have identified useful nearby resources, you should build a Construction Ship at your colony and send it out to build a mining station to extract the resources.
+
+Remember that the most important early resources are fuel (Caslon) and Steel. Other resources that you should prioritize include: Hydrogen, Lead, Carbon Fibre, Polymer and Silicon. All of these resources should usually be present somewhere in your home system, though sometimes in low abundances.
+
+Building a network of mining stations spread across your home system will automatically trigger your private economy to build freighters and mining ships to transport the resources back to your home colony.
+~
+Research
+Research
+While you are establishing a mining network, you should focus your Research in the most important areas.
+
+You should try to get some kind of weapon as early as possible to give your fledgling empire some defenses. Shields are also very useful to have to give your spaceport and military ships more endurance in battle.
+
+Increasing the construction size of your ships and bases is also a good research choice.
+
+As soon as you are able, you should begin researching hyperdrives (Warp Field Precursors).
+~
+Breakthrough Technologies
+Breakthrough Technologies
+As you grow and become established, you should focus on researching hyperdrives to allow your ships to leave your home system and travel to other nearby stars.
+
+This research project may take some time, but once achieved you can then begin expanding to other star systems.
+
+The next key technology to research is Colonization. This will allow you to build Colony Ships and found new colonies for your empire.
+
+Once these two key breakthroughs are reached you are well on your way to becoming a mighty stellar empire!
+~
+Expanding Across the Stars
+Expanding Across the Stars
+It is now time to spread your territory across the galaxy.
+
+As you explore you will encounter other empires and pirate factions, leading to peaceful cooperation and sharp conflict.
+
+Continue to research new technology. Colonize promising new planets. Build a comprehensive mining network to make your empire rich in resources.
+~
+Completed
+Completed
+Thank you for taking this tutorial.
+
+When you are ready you can also take the Finding Your Way Around tutorial from the main menu.
+
+Remember that you can refer to the Galactopedia (F1) at any time for more information.
+~
